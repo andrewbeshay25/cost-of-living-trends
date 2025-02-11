@@ -48,7 +48,6 @@ cost-of-living-trends/
    ```
 2. **Install dependencies**:
     ```
-    Copy
     npm install
     ```
 3. **Run the project**:
