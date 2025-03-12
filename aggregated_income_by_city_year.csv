@@ -1,0 +1,4181 @@
+MajorCity,Year,AvgHouseholdMedianIncome
+"Abilene, TX",2011.0,43631.6
+"Abilene, TX",2012.0,44059.6
+"Abilene, TX",2013.0,44435.2
+"Abilene, TX",2014.0,44569.0
+"Abilene, TX",2015.0,45575.8
+"Abilene, TX",2016.0,46204.8
+"Abilene, TX",2017.0,48760.8
+"Abilene, TX",2018.0,50247.0
+"Abilene, TX",2019.0,52244.0
+"Abilene, TX",2020.0,54927.8
+"Abilene, TX",2021.0,58003.0
+"Akron, OH",2011.0,33307.0
+"Akron, OH",2012.0,32556.0
+"Akron, OH",2013.0,33288.8
+"Akron, OH",2014.0,33499.4
+"Akron, OH",2015.0,33720.4
+"Akron, OH",2016.0,34830.0
+"Akron, OH",2017.0,35925.2
+"Akron, OH",2018.0,37100.0
+"Akron, OH",2019.0,39008.2
+"Akron, OH",2020.0,41519.6
+"Akron, OH",2021.0,43672.2
+"Albany, GA",2011.0,37002.5
+"Albany, GA",2012.0,36477.75
+"Albany, GA",2013.0,35916.0
+"Albany, GA",2014.0,35468.0
+"Albany, GA",2015.0,35947.0
+"Albany, GA",2016.0,38171.75
+"Albany, GA",2017.0,38955.0
+"Albany, GA",2018.0,41497.25
+"Albany, GA",2019.0,43176.5
+"Albany, GA",2020.0,42877.5
+"Albany, GA",2021.0,44960.5
+"Albany, NY",2011.0,44151.8
+"Albany, NY",2012.0,45258.8
+"Albany, NY",2013.0,45047.8
+"Albany, NY",2014.0,44627.8
+"Albany, NY",2015.0,43920.4
+"Albany, NY",2016.0,45436.0
+"Albany, NY",2017.0,46262.8
+"Albany, NY",2018.0,48165.4
+"Albany, NY",2019.0,51826.4
+"Albany, NY",2020.0,53729.6
+"Albany, NY",2021.0,59029.6
+"Albany, OR",2011.0,50130.0
+"Albany, OR",2012.0,50681.0
+"Albany, OR",2013.0,51361.0
+"Albany, OR",2014.0,49450.0
+"Albany, OR",2015.0,50843.0
+"Albany, OR",2016.0,54514.5
+"Albany, OR",2017.0,57500.5
+"Albany, OR",2018.0,60185.0
+"Albany, OR",2019.0,64395.0
+"Albany, OR",2020.0,68127.5
+"Albany, OR",2021.0,74360.0
+"Albuquerque, NM",2011.0,36018.75
+"Albuquerque, NM",2012.0,35840.5
+"Albuquerque, NM",2013.0,35768.25
+"Albuquerque, NM",2014.0,35387.25
+"Albuquerque, NM",2015.0,34694.25
+"Albuquerque, NM",2016.0,34782.75
+"Albuquerque, NM",2017.0,36741.0
+"Albuquerque, NM",2018.0,38302.0
+"Albuquerque, NM",2019.0,39855.0
+"Albuquerque, NM",2020.0,43710.75
+"Albuquerque, NM",2021.0,45166.75
+"Alexandria, LA",2011.0,36527.666666666664
+"Alexandria, LA",2012.0,38649.333333333336
+"Alexandria, LA",2013.0,36575.666666666664
+"Alexandria, LA",2014.0,37257.666666666664
+"Alexandria, LA",2015.0,36814.333333333336
+"Alexandria, LA",2016.0,37512.333333333336
+"Alexandria, LA",2017.0,36265.666666666664
+"Alexandria, LA",2018.0,38420.666666666664
+"Alexandria, LA",2019.0,40558.666666666664
+"Alexandria, LA",2020.0,40039.666666666664
+"Alexandria, LA",2021.0,42977.666666666664
+"Allentown, PA",2011.0,44057.4
+"Allentown, PA",2012.0,45561.2
+"Allentown, PA",2013.0,46949.0
+"Allentown, PA",2014.0,46374.0
+"Allentown, PA",2015.0,46725.6
+"Allentown, PA",2016.0,47610.8
+"Allentown, PA",2017.0,48367.8
+"Allentown, PA",2018.0,50764.4
+"Allentown, PA",2019.0,51773.6
+"Allentown, PA",2020.0,54729.8
+"Allentown, PA",2021.0,58707.0
+"Altoona, PA",2011.0,38902.0
+"Altoona, PA",2012.0,38096.0
+"Altoona, PA",2013.0,38645.5
+"Altoona, PA",2014.0,38891.5
+"Altoona, PA",2015.0,38985.0
+"Altoona, PA",2016.0,39019.5
+"Altoona, PA",2017.0,40735.0
+"Altoona, PA",2018.0,42486.0
+"Altoona, PA",2019.0,43491.0
+"Altoona, PA",2020.0,44755.0
+"Altoona, PA",2021.0,48354.5
+"Amarillo, TX",2011.0,34314.6
+"Amarillo, TX",2012.0,34527.8
+"Amarillo, TX",2013.0,34989.8
+"Amarillo, TX",2014.0,35214.2
+"Amarillo, TX",2015.0,35171.2
+"Amarillo, TX",2016.0,37117.2
+"Amarillo, TX",2017.0,39349.6
+"Amarillo, TX",2018.0,40169.6
+"Amarillo, TX",2019.0,39159.8
+"Amarillo, TX",2020.0,43253.8
+"Amarillo, TX",2021.0,45457.2
+"Ames, IA",2011.0,44041.5
+"Ames, IA",2012.0,42728.0
+"Ames, IA",2013.0,42925.0
+"Ames, IA",2014.0,43098.5
+"Ames, IA",2015.0,42473.5
+"Ames, IA",2016.0,43027.5
+"Ames, IA",2017.0,45025.5
+"Ames, IA",2018.0,48114.5
+"Ames, IA",2019.0,50125.0
+"Ames, IA",2020.0,52591.0
+"Ames, IA",2021.0,55958.0
+"Anchorage, AK",2011.0,66019.6
+"Anchorage, AK",2012.0,68190.4
+"Anchorage, AK",2013.0,71358.4
+"Anchorage, AK",2014.0,70552.6
+"Anchorage, AK",2015.0,70343.0
+"Anchorage, AK",2016.0,71988.4
+"Anchorage, AK",2017.0,73062.2
+"Anchorage, AK",2018.0,71559.6
+"Anchorage, AK",2019.0,74652.4
+"Anchorage, AK",2020.0,76728.6
+"Anchorage, AK",2021.0,81195.6
+"Ann Arbor, MI",2011.0,59554.0
+"Ann Arbor, MI",2012.0,59863.75
+"Ann Arbor, MI",2013.0,60738.0
+"Ann Arbor, MI",2014.0,61930.75
+"Ann Arbor, MI",2015.0,61928.0
+"Ann Arbor, MI",2016.0,64259.5
+"Ann Arbor, MI",2017.0,68351.5
+"Ann Arbor, MI",2018.0,71512.5
+"Ann Arbor, MI",2019.0,74296.75
+"Ann Arbor, MI",2020.0,76333.75
+"Ann Arbor, MI",2021.0,66666.4
+"Anniston, AL",2011.0,37218.75
+"Anniston, AL",2012.0,37930.5
+"Anniston, AL",2013.0,36001.25
+"Anniston, AL",2014.0,36420.5
+"Anniston, AL",2015.0,43331.25
+"Anniston, AL",2016.0,43581.5
+"Anniston, AL",2017.0,46000.75
+"Anniston, AL",2018.0,45703.0
+"Anniston, AL",2019.0,53011.0
+"Anniston, AL",2020.0,46996.333333333336
+"Anniston, AL",2021.0,42090.5
+"Appleton, WI",2011.0,57594.0
+"Appleton, WI",2012.0,57761.5
+"Appleton, WI",2013.0,58554.5
+"Appleton, WI",2014.0,59632.25
+"Appleton, WI",2015.0,59858.0
+"Appleton, WI",2016.0,59507.0
+"Appleton, WI",2017.0,61253.5
+"Appleton, WI",2018.0,62912.0
+"Appleton, WI",2019.0,64821.5
+"Appleton, WI",2020.0,67384.25
+"Appleton, WI",2021.0,73264.25
+"Asheville, NC",2011.0,41910.2
+"Asheville, NC",2012.0,42203.2
+"Asheville, NC",2013.0,42520.0
+"Asheville, NC",2014.0,43184.4
+"Asheville, NC",2015.0,43113.8
+"Asheville, NC",2016.0,44484.2
+"Asheville, NC",2017.0,45924.2
+"Asheville, NC",2018.0,48090.6
+"Asheville, NC",2019.0,50089.8
+"Asheville, NC",2020.0,52212.4
+"Asheville, NC",2021.0,57446.6
+"Athens, GA",2011.0,35519.25
+"Athens, GA",2012.0,34628.5
+"Athens, GA",2013.0,34012.75
+"Athens, GA",2014.0,34672.5
+"Athens, GA",2015.0,34224.25
+"Athens, GA",2016.0,34403.5
+"Athens, GA",2017.0,37604.25
+"Athens, GA",2018.0,40324.75
+"Athens, GA",2019.0,41530.75
+"Athens, GA",2020.0,40971.75
+"Athens, GA",2021.0,45822.5
+"Atlanta, GA",2011.0,68207.0
+"Atlanta, GA",2012.0,66888.25
+"Atlanta, GA",2013.0,66037.5
+"Atlanta, GA",2014.0,68196.25
+"Atlanta, GA",2015.0,70150.75
+"Atlanta, GA",2016.0,69525.75
+"Atlanta, GA",2017.0,77069.5
+"Atlanta, GA",2018.0,82075.25
+"Atlanta, GA",2019.0,83837.5
+"Atlanta, GA",2020.0,89990.25
+"Atlanta, GA",2021.0,93419.75
+"Atlantic City, NJ",2011.0,28500.0
+"Atlantic City, NJ",2012.0,29886.0
+"Atlantic City, NJ",2013.0,29200.0
+"Atlantic City, NJ",2014.0,26936.0
+"Atlantic City, NJ",2015.0,25737.0
+"Atlantic City, NJ",2016.0,26566.0
+"Atlantic City, NJ",2017.0,26006.0
+"Atlantic City, NJ",2018.0,27786.0
+"Atlantic City, NJ",2019.0,29232.0
+"Atlantic City, NJ",2020.0,29526.0
+"Atlantic City, NJ",2021.0,29789.0
+"Auburn, AL",2011.0,35968.0
+"Auburn, AL",2012.0,36397.0
+"Auburn, AL",2013.0,36040.0
+"Auburn, AL",2014.0,36293.0
+"Auburn, AL",2015.0,36586.5
+"Auburn, AL",2016.0,37226.0
+"Auburn, AL",2017.0,39894.5
+"Auburn, AL",2018.0,40635.0
+"Auburn, AL",2019.0,42287.5
+"Auburn, AL",2020.0,43331.5
+"Auburn, AL",2021.0,47815.0
+"Augusta, GA",2011.0,38188.2
+"Augusta, GA",2012.0,38119.6
+"Augusta, GA",2013.0,38443.4
+"Augusta, GA",2014.0,39119.0
+"Augusta, GA",2015.0,39062.6
+"Augusta, GA",2016.0,40095.0
+"Augusta, GA",2017.0,40894.8
+"Augusta, GA",2018.0,42671.8
+"Augusta, GA",2019.0,42906.6
+"Augusta, GA",2020.0,42481.8
+"Augusta, GA",2021.0,44899.8
+"Austin, TX",2011.0,48691.8
+"Austin, TX",2012.0,51531.4
+"Austin, TX",2013.0,53276.0
+"Austin, TX",2014.0,54398.2
+"Austin, TX",2015.0,59324.0
+"Austin, TX",2016.0,63732.8
+"Austin, TX",2017.0,69275.6
+"Austin, TX",2018.0,72360.2
+"Austin, TX",2019.0,78395.6
+"Austin, TX",2020.0,82224.6
+"Austin, TX",2021.0,90100.2
+"Bakersfield, CA",2011.0,38302.6
+"Bakersfield, CA",2012.0,36652.8
+"Bakersfield, CA",2013.0,37159.2
+"Bakersfield, CA",2014.0,36497.2
+"Bakersfield, CA",2015.0,36177.8
+"Bakersfield, CA",2016.0,37087.0
+"Bakersfield, CA",2017.0,38591.0
+"Bakersfield, CA",2018.0,39422.6
+"Bakersfield, CA",2019.0,39810.6
+"Bakersfield, CA",2020.0,40143.4
+"Bakersfield, CA",2021.0,43835.2
+"Baltimore, MD",2011.0,40813.0
+"Baltimore, MD",2012.0,40645.8
+"Baltimore, MD",2013.0,40529.8
+"Baltimore, MD",2014.0,41684.8
+"Baltimore, MD",2015.0,41750.0
+"Baltimore, MD",2016.0,44391.0
+"Baltimore, MD",2017.0,47416.6
+"Baltimore, MD",2018.0,49347.0
+"Baltimore, MD",2019.0,51001.0
+"Baltimore, MD",2020.0,54005.6
+"Baltimore, MD",2021.0,54733.6
+"Bangor, ME",2011.0,41873.0
+"Bangor, ME",2012.0,40833.0
+"Bangor, ME",2013.0,40388.0
+"Bangor, ME",2014.0,40531.0
+"Bangor, ME",2015.0,40307.0
+"Bangor, ME",2016.0,42351.0
+"Bangor, ME",2017.0,46493.0
+"Bangor, ME",2018.0,47789.0
+"Bangor, ME",2019.0,52700.0
+"Bangor, ME",2020.0,54550.0
+"Bangor, ME",2021.0,57428.0
+"Barnstable, MA",2011.0,62109.0
+"Barnstable, MA",2012.0,58524.0
+"Barnstable, MA",2013.0,61250.0
+"Barnstable, MA",2014.0,61713.0
+"Barnstable, MA",2015.0,80714.0
+"Barnstable, MA",2016.0,81833.0
+"Barnstable, MA",2017.0,106299.0
+"Barnstable, MA",2018.0,107031.0
+"Barnstable, MA",2019.0,115129.0
+"Barnstable, MA",2020.0,115833.0
+"Barnstable, MA",2021.0,122976.0
+"Baton Rouge, LA",2011.0,27815.75
+"Baton Rouge, LA",2012.0,28264.5
+"Baton Rouge, LA",2013.0,29056.0
+"Baton Rouge, LA",2014.0,29536.25
+"Baton Rouge, LA",2015.0,29753.25
+"Baton Rouge, LA",2016.0,29746.75
+"Baton Rouge, LA",2017.0,30273.0
+"Baton Rouge, LA",2018.0,31537.75
+"Baton Rouge, LA",2019.0,41595.6
+"Baton Rouge, LA",2020.0,45233.8
+"Baton Rouge, LA",2021.0,46216.2
+"Battle Creek, MI",2011.0,42073.0
+"Battle Creek, MI",2012.0,40973.0
+"Battle Creek, MI",2013.0,41720.25
+"Battle Creek, MI",2014.0,42677.0
+"Battle Creek, MI",2015.0,42089.25
+"Battle Creek, MI",2016.0,43708.25
+"Battle Creek, MI",2017.0,45163.0
+"Battle Creek, MI",2018.0,46639.5
+"Battle Creek, MI",2019.0,47818.75
+"Battle Creek, MI",2020.0,48165.5
+"Battle Creek, MI",2021.0,51494.5
+"Bay City, MI",2011.0,42082.5
+"Bay City, MI",2012.0,42531.0
+"Bay City, MI",2013.0,41290.5
+"Bay City, MI",2014.0,41918.5
+"Bay City, MI",2015.0,41466.0
+"Bay City, MI",2016.0,41454.5
+"Bay City, MI",2017.0,42346.5
+"Bay City, MI",2018.0,44173.5
+"Bay City, MI",2019.0,44614.5
+"Bay City, MI",2020.0,44312.5
+"Bay City, MI",2021.0,48038.0
+"Beaumont, TX",2011.0,35794.4
+"Beaumont, TX",2012.0,36153.0
+"Beaumont, TX",2013.0,36636.8
+"Beaumont, TX",2014.0,35209.6
+"Beaumont, TX",2015.0,36397.0
+"Beaumont, TX",2016.0,37774.6
+"Beaumont, TX",2017.0,40574.6
+"Beaumont, TX",2018.0,41247.0
+"Beaumont, TX",2019.0,44854.8
+"Beaumont, TX",2020.0,47515.8
+"Beaumont, TX",2021.0,47675.2
+"Beckley, WV",2011.0,35813.0
+"Beckley, WV",2012.0,35814.0
+"Beckley, WV",2013.0,37124.0
+"Beckley, WV",2014.0,37584.0
+"Beckley, WV",2015.0,38585.0
+"Beckley, WV",2016.0,39697.0
+"Beckley, WV",2017.0,42376.0
+"Beckley, WV",2018.0,43066.0
+"Beckley, WV",2019.0,42875.0
+"Beckley, WV",2020.0,47148.0
+"Beckley, WV",2021.0,42880.0
+"Bellingham, WA",2011.0,48679.333333333336
+"Bellingham, WA",2012.0,50017.333333333336
+"Bellingham, WA",2013.0,50370.333333333336
+"Bellingham, WA",2014.0,50941.0
+"Bellingham, WA",2015.0,51086.0
+"Bellingham, WA",2016.0,51974.666666666664
+"Bellingham, WA",2017.0,54463.666666666664
+"Bellingham, WA",2018.0,56852.333333333336
+"Bellingham, WA",2019.0,62112.333333333336
+"Bellingham, WA",2020.0,65111.333333333336
+"Bellingham, WA",2021.0,67999.33333333333
+"Bend, OR",2011.0,55403.333333333336
+"Bend, OR",2012.0,55063.0
+"Bend, OR",2013.0,53062.0
+"Bend, OR",2014.0,52828.333333333336
+"Bend, OR",2015.0,53441.0
+"Bend, OR",2016.0,54734.333333333336
+"Bend, OR",2017.0,56672.666666666664
+"Bend, OR",2018.0,66081.66666666667
+"Bend, OR",2019.0,69147.66666666667
+"Bend, OR",2020.0,71084.33333333333
+"Bend, OR",2021.0,78771.0
+"Billings, MT",2011.0,59589.25
+"Billings, MT",2012.0,57087.5
+"Billings, MT",2013.0,57775.5
+"Billings, MT",2014.0,58002.25
+"Billings, MT",2015.0,58092.0
+"Billings, MT",2016.0,60409.5
+"Billings, MT",2017.0,62761.5
+"Billings, MT",2018.0,62050.5
+"Billings, MT",2019.0,64116.25
+"Billings, MT",2020.0,70844.25
+"Billings, MT",2021.0,72046.25
+"Binghamton, NY",2011.0,39597.75
+"Binghamton, NY",2012.0,39936.5
+"Binghamton, NY",2013.0,40279.0
+"Binghamton, NY",2014.0,41048.25
+"Binghamton, NY",2015.0,40065.25
+"Binghamton, NY",2016.0,42330.75
+"Binghamton, NY",2017.0,44092.0
+"Binghamton, NY",2018.0,44998.25
+"Binghamton, NY",2019.0,47051.5
+"Binghamton, NY",2020.0,48322.75
+"Binghamton, NY",2021.0,49637.75
+"Birmingham, AL",2011.0,26356.6
+"Birmingham, AL",2012.0,25232.4
+"Birmingham, AL",2013.0,25417.4
+"Birmingham, AL",2014.0,24730.2
+"Birmingham, AL",2015.0,23999.2
+"Birmingham, AL",2016.0,24396.8
+"Birmingham, AL",2017.0,25666.0
+"Birmingham, AL",2018.0,26331.8
+"Birmingham, AL",2019.0,27579.2
+"Birmingham, AL",2020.0,30609.0
+"Birmingham, AL",2021.0,33519.4
+"Bismarck, ND",2011.0,57976.666666666664
+"Bismarck, ND",2012.0,60733.333333333336
+"Bismarck, ND",2013.0,63479.666666666664
+"Bismarck, ND",2014.0,64328.666666666664
+"Bismarck, ND",2015.0,65890.66666666667
+"Bismarck, ND",2016.0,67753.66666666667
+"Bismarck, ND",2017.0,69346.66666666667
+"Bismarck, ND",2018.0,70854.0
+"Bismarck, ND",2019.0,72224.0
+"Bismarck, ND",2020.0,72861.66666666667
+"Bismarck, ND",2021.0,75702.33333333333
+"Blacksburg, VA",2011.0,37594.0
+"Blacksburg, VA",2012.0,36937.0
+"Blacksburg, VA",2013.0,39477.0
+"Blacksburg, VA",2014.0,38162.0
+"Blacksburg, VA",2015.0,40135.0
+"Blacksburg, VA",2016.0,42090.0
+"Blacksburg, VA",2017.0,46037.0
+"Blacksburg, VA",2018.0,46430.0
+"Blacksburg, VA",2019.0,53018.0
+"Blacksburg, VA",2020.0,54620.0
+"Blacksburg, VA",2021.0,56729.0
+"Bloomington, IL",2011.0,69773.33333333333
+"Bloomington, IL",2012.0,72220.33333333333
+"Bloomington, IL",2013.0,74659.33333333333
+"Bloomington, IL",2014.0,75862.0
+"Bloomington, IL",2015.0,75604.66666666667
+"Bloomington, IL",2016.0,75641.33333333333
+"Bloomington, IL",2017.0,78756.33333333333
+"Bloomington, IL",2018.0,79917.66666666667
+"Bloomington, IL",2019.0,81516.33333333333
+"Bloomington, IL",2020.0,79010.33333333333
+"Bloomington, IL",2021.0,80668.0
+"Bloomington, IN",2011.0,39769.0
+"Bloomington, IN",2012.0,40040.666666666664
+"Bloomington, IN",2013.0,40830.333333333336
+"Bloomington, IN",2014.0,43074.0
+"Bloomington, IN",2015.0,44020.0
+"Bloomington, IN",2016.0,44876.666666666664
+"Bloomington, IN",2017.0,46573.666666666664
+"Bloomington, IN",2018.0,47170.333333333336
+"Bloomington, IN",2019.0,49004.0
+"Bloomington, IN",2020.0,51840.333333333336
+"Bloomington, IN",2021.0,53861.0
+"Bloomsburg, PA",2011.0,45206.0
+"Bloomsburg, PA",2012.0,46027.0
+"Bloomsburg, PA",2013.0,44521.0
+"Bloomsburg, PA",2014.0,46481.0
+"Bloomsburg, PA",2015.0,44727.0
+"Bloomsburg, PA",2016.0,46754.0
+"Bloomsburg, PA",2017.0,48074.0
+"Bloomsburg, PA",2018.0,50491.0
+"Bloomsburg, PA",2019.0,50272.0
+"Bloomsburg, PA",2020.0,52824.0
+"Bloomsburg, PA",2021.0,56942.0
+"Boise, ID",2011.0,44840.0
+"Boise, ID",2012.0,44675.2
+"Boise, ID",2013.0,43869.6
+"Boise, ID",2014.0,44286.4
+"Boise, ID",2015.0,44441.6
+"Boise, ID",2016.0,47171.6
+"Boise, ID",2017.0,49375.6
+"Boise, ID",2018.0,52518.4
+"Boise, ID",2019.0,54682.2
+"Boise, ID",2020.0,59057.2
+"Boise, ID",2021.0,62563.0
+"Boston, MA",2011.0,86264.8
+"Boston, MA",2012.0,91348.2
+"Boston, MA",2013.0,87510.8
+"Boston, MA",2014.0,87793.8
+"Boston, MA",2015.0,94295.8
+"Boston, MA",2016.0,95790.0
+"Boston, MA",2017.0,98983.8
+"Boston, MA",2018.0,107544.6
+"Boston, MA",2019.0,121415.8
+"Boston, MA",2020.0,114176.2
+"Boston, MA",2021.0,119657.2
+"Boulder, CO",2011.0,61743.4
+"Boulder, CO",2012.0,63095.8
+"Boulder, CO",2013.0,62731.6
+"Boulder, CO",2014.0,65450.0
+"Boulder, CO",2015.0,67055.6
+"Boulder, CO",2016.0,68625.0
+"Boulder, CO",2017.0,72742.0
+"Boulder, CO",2018.0,74835.6
+"Boulder, CO",2019.0,77567.0
+"Boulder, CO",2020.0,79559.0
+"Boulder, CO",2021.0,83253.6
+"Bowling Green, KY",2011.0,46943.0
+"Bowling Green, KY",2012.0,48398.666666666664
+"Bowling Green, KY",2013.0,48649.333333333336
+"Bowling Green, KY",2014.0,50105.666666666664
+"Bowling Green, KY",2015.0,49320.333333333336
+"Bowling Green, KY",2016.0,49908.666666666664
+"Bowling Green, KY",2017.0,52051.333333333336
+"Bowling Green, KY",2018.0,54172.0
+"Bowling Green, KY",2019.0,54589.333333333336
+"Bowling Green, KY",2020.0,57374.333333333336
+"Bowling Green, KY",2021.0,60579.333333333336
+"Bremerton, WA",2011.0,48745.5
+"Bremerton, WA",2012.0,49785.5
+"Bremerton, WA",2013.0,52266.5
+"Bremerton, WA",2014.0,51102.0
+"Bremerton, WA",2015.0,51064.25
+"Bremerton, WA",2016.0,54472.5
+"Bremerton, WA",2017.0,56282.25
+"Bremerton, WA",2018.0,58336.0
+"Bremerton, WA",2019.0,61412.5
+"Bremerton, WA",2020.0,65675.75
+"Bremerton, WA",2021.0,69317.25
+"Bridgeport, CT",2011.0,36921.6
+"Bridgeport, CT",2012.0,36588.4
+"Bridgeport, CT",2013.0,37604.6
+"Bridgeport, CT",2014.0,38184.2
+"Bridgeport, CT",2015.0,38184.8
+"Bridgeport, CT",2016.0,39852.0
+"Bridgeport, CT",2017.0,41645.6
+"Bridgeport, CT",2018.0,42180.0
+"Bridgeport, CT",2019.0,43298.8
+"Bridgeport, CT",2020.0,43773.8
+"Bridgeport, CT",2021.0,46729.4
+"Brownsville, TX",2011.0,31929.0
+"Brownsville, TX",2012.0,32124.0
+"Brownsville, TX",2013.0,33730.333333333336
+"Brownsville, TX",2014.0,35236.666666666664
+"Brownsville, TX",2015.0,36132.666666666664
+"Brownsville, TX",2016.0,36606.666666666664
+"Brownsville, TX",2017.0,38434.666666666664
+"Brownsville, TX",2018.0,39013.666666666664
+"Brownsville, TX",2019.0,40940.0
+"Brownsville, TX",2020.0,43191.666666666664
+"Brownsville, TX",2021.0,46904.666666666664
+"Brunswick, GA",2011.0,46416.333333333336
+"Brunswick, GA",2012.0,46208.333333333336
+"Brunswick, GA",2013.0,44208.333333333336
+"Brunswick, GA",2014.0,44803.0
+"Brunswick, GA",2015.0,43412.333333333336
+"Brunswick, GA",2016.0,42619.666666666664
+"Brunswick, GA",2017.0,43556.333333333336
+"Brunswick, GA",2018.0,45143.333333333336
+"Brunswick, GA",2019.0,46956.666666666664
+"Brunswick, GA",2020.0,50716.333333333336
+"Brunswick, GA",2021.0,57060.0
+"Buffalo, NY",2011.0,25943.8
+"Buffalo, NY",2012.0,26819.2
+"Buffalo, NY",2013.0,29267.6
+"Buffalo, NY",2014.0,30310.0
+"Buffalo, NY",2015.0,32342.0
+"Buffalo, NY",2016.0,32147.0
+"Buffalo, NY",2017.0,33454.6
+"Buffalo, NY",2018.0,34724.0
+"Buffalo, NY",2019.0,37186.4
+"Buffalo, NY",2020.0,36364.0
+"Buffalo, NY",2021.0,38158.8
+"Burlington, NC",2011.0,42818.5
+"Burlington, NC",2012.0,40429.5
+"Burlington, NC",2013.0,38307.5
+"Burlington, NC",2014.0,38343.0
+"Burlington, NC",2015.0,37319.0
+"Burlington, NC",2016.0,39541.0
+"Burlington, NC",2017.0,41480.0
+"Burlington, NC",2018.0,43767.0
+"Burlington, NC",2019.0,47198.5
+"Burlington, NC",2020.0,50337.0
+"Burlington, NC",2021.0,51937.5
+"Burlington, VT",2011.0,46891.0
+"Burlington, VT",2012.0,50756.0
+"Burlington, VT",2013.0,50133.0
+"Burlington, VT",2014.0,51305.0
+"Burlington, VT",2015.0,52665.5
+"Burlington, VT",2016.0,53480.0
+"Burlington, VT",2017.0,54661.5
+"Burlington, VT",2018.0,55857.5
+"Burlington, VT",2019.0,56983.5
+"Burlington, VT",2020.0,61882.0
+"Burlington, VT",2021.0,67165.0
+"California, MD",2011.0,90287.0
+"California, MD",2012.0,91875.0
+"California, MD",2013.0,97114.0
+"California, MD",2014.0,99375.0
+"California, MD",2015.0,97063.0
+"California, MD",2016.0,96404.0
+"California, MD",2017.0,94682.0
+"California, MD",2018.0,93011.0
+"California, MD",2019.0,95123.0
+"California, MD",2020.0,102125.0
+"California, MD",2021.0,100986.0
+"Canton, OH",2011.0,28407.0
+"Canton, OH",2012.0,28279.6
+"Canton, OH",2013.0,26835.4
+"Canton, OH",2014.0,26689.6
+"Canton, OH",2015.0,25536.6
+"Canton, OH",2016.0,26058.8
+"Canton, OH",2017.0,26224.0
+"Canton, OH",2018.0,27140.4
+"Canton, OH",2019.0,29670.6
+"Canton, OH",2020.0,29188.6
+"Canton, OH",2021.0,31443.4
+"Cape Coral, FL",2011.0,51952.6
+"Cape Coral, FL",2012.0,51257.8
+"Cape Coral, FL",2013.0,49638.6
+"Cape Coral, FL",2014.0,50025.6
+"Cape Coral, FL",2015.0,50455.6
+"Cape Coral, FL",2016.0,53042.6
+"Cape Coral, FL",2017.0,54759.6
+"Cape Coral, FL",2018.0,58087.8
+"Cape Coral, FL",2019.0,61213.4
+"Cape Coral, FL",2020.0,60257.8
+"Cape Coral, FL",2021.0,64618.2
+"Cape Girardeau, MO",2011.0,38598.5
+"Cape Girardeau, MO",2012.0,37811.0
+"Cape Girardeau, MO",2013.0,37221.0
+"Cape Girardeau, MO",2014.0,34993.0
+"Cape Girardeau, MO",2015.0,35790.5
+"Cape Girardeau, MO",2016.0,37800.5
+"Cape Girardeau, MO",2017.0,37831.5
+"Cape Girardeau, MO",2018.0,41233.0
+"Cape Girardeau, MO",2019.0,42149.5
+"Cape Girardeau, MO",2020.0,40918.5
+"Cape Girardeau, MO",2021.0,45204.5
+"Carbondale, IL",2011.0,29978.666666666668
+"Carbondale, IL",2012.0,30762.0
+"Carbondale, IL",2013.0,31093.0
+"Carbondale, IL",2014.0,34368.666666666664
+"Carbondale, IL",2015.0,35204.666666666664
+"Carbondale, IL",2016.0,38330.333333333336
+"Carbondale, IL",2017.0,40812.0
+"Carbondale, IL",2018.0,40718.333333333336
+"Carbondale, IL",2019.0,36241.0
+"Carbondale, IL",2020.0,37110.333333333336
+"Carbondale, IL",2021.0,40003.0
+"Carson City, NV",2011.0,57118.5
+"Carson City, NV",2012.0,56506.0
+"Carson City, NV",2013.0,55063.0
+"Carson City, NV",2014.0,54721.5
+"Carson City, NV",2015.0,53911.25
+"Carson City, NV",2016.0,53435.0
+"Carson City, NV",2017.0,54339.5
+"Carson City, NV",2018.0,57466.75
+"Carson City, NV",2019.0,60682.5
+"Carson City, NV",2020.0,62596.5
+"Carson City, NV",2021.0,65501.25
+"Casper, WY",2011.0,55400.333333333336
+"Casper, WY",2012.0,57603.0
+"Casper, WY",2013.0,59474.0
+"Casper, WY",2014.0,59453.0
+"Casper, WY",2015.0,59394.666666666664
+"Casper, WY",2016.0,59550.0
+"Casper, WY",2017.0,61055.666666666664
+"Casper, WY",2018.0,62241.666666666664
+"Casper, WY",2019.0,63214.0
+"Casper, WY",2020.0,62708.0
+"Casper, WY",2021.0,64139.0
+"Cedar Rapids, IA",2011.0,46688.4
+"Cedar Rapids, IA",2012.0,46626.0
+"Cedar Rapids, IA",2013.0,46683.8
+"Cedar Rapids, IA",2014.0,48793.0
+"Cedar Rapids, IA",2015.0,48513.6
+"Cedar Rapids, IA",2016.0,50137.0
+"Cedar Rapids, IA",2017.0,52758.8
+"Cedar Rapids, IA",2018.0,55587.4
+"Cedar Rapids, IA",2019.0,55604.4
+"Cedar Rapids, IA",2020.0,57370.2
+"Cedar Rapids, IA",2021.0,59457.6
+"Chambersburg, PA",2011.0,49583.5
+"Chambersburg, PA",2012.0,51103.5
+"Chambersburg, PA",2013.0,51787.0
+"Chambersburg, PA",2014.0,53562.0
+"Chambersburg, PA",2015.0,54681.0
+"Chambersburg, PA",2016.0,56611.0
+"Chambersburg, PA",2017.0,61498.5
+"Chambersburg, PA",2018.0,61186.0
+"Chambersburg, PA",2019.0,65442.5
+"Chambersburg, PA",2020.0,66384.5
+"Chambersburg, PA",2021.0,70559.5
+"Champaign, IL",2011.0,51148.333333333336
+"Champaign, IL",2012.0,51458.333333333336
+"Champaign, IL",2013.0,50542.333333333336
+"Champaign, IL",2014.0,50999.333333333336
+"Champaign, IL",2015.0,50582.666666666664
+"Champaign, IL",2016.0,52506.666666666664
+"Champaign, IL",2017.0,52895.666666666664
+"Champaign, IL",2018.0,55093.0
+"Champaign, IL",2019.0,57118.333333333336
+"Champaign, IL",2020.0,56272.0
+"Champaign, IL",2021.0,58458.666666666664
+"Charleston, SC",2011.0,43006.8
+"Charleston, SC",2012.0,43760.0
+"Charleston, SC",2013.0,44812.6
+"Charleston, SC",2014.0,46425.4
+"Charleston, SC",2015.0,47829.4
+"Charleston, SC",2016.0,51514.6
+"Charleston, SC",2017.0,53774.2
+"Charleston, SC",2018.0,56691.0
+"Charleston, SC",2019.0,60575.4
+"Charleston, SC",2020.0,63378.6
+"Charleston, SC",2021.0,67852.2
+"Charleston, WV",2011.0,39682.0
+"Charleston, WV",2012.0,39571.25
+"Charleston, WV",2013.0,40787.5
+"Charleston, WV",2014.0,42485.5
+"Charleston, WV",2015.0,41927.5
+"Charleston, WV",2016.0,41471.25
+"Charleston, WV",2017.0,42720.5
+"Charleston, WV",2018.0,41223.75
+"Charleston, WV",2019.0,41261.25
+"Charleston, WV",2020.0,44275.75
+"Charleston, WV",2021.0,48327.25
+"Charlotte, NC",2011.0,45750.2
+"Charlotte, NC",2012.0,48319.2
+"Charlotte, NC",2013.0,49517.4
+"Charlotte, NC",2014.0,52331.4
+"Charlotte, NC",2015.0,54036.8
+"Charlotte, NC",2016.0,59450.0
+"Charlotte, NC",2017.0,60029.2
+"Charlotte, NC",2018.0,62952.2
+"Charlotte, NC",2019.0,65734.6
+"Charlotte, NC",2020.0,69669.6
+"Charlotte, NC",2021.0,71208.2
+"Charlottesville, VA",2011.0,58798.6
+"Charlottesville, VA",2012.0,59169.6
+"Charlottesville, VA",2013.0,59468.4
+"Charlottesville, VA",2014.0,60541.4
+"Charlottesville, VA",2015.0,61581.5
+"Charlottesville, VA",2016.0,64042.5
+"Charlottesville, VA",2017.0,54290.2
+"Charlottesville, VA",2018.0,55741.8
+"Charlottesville, VA",2019.0,71176.75
+"Charlottesville, VA",2020.0,59640.4
+"Charlottesville, VA",2021.0,64016.8
+"Chattanooga, TN",2011.0,27349.2
+"Chattanooga, TN",2012.0,29130.6
+"Chattanooga, TN",2013.0,29523.8
+"Chattanooga, TN",2014.0,31306.6
+"Chattanooga, TN",2015.0,30720.2
+"Chattanooga, TN",2016.0,32431.2
+"Chattanooga, TN",2017.0,32101.8
+"Chattanooga, TN",2018.0,33263.0
+"Chattanooga, TN",2019.0,35138.4
+"Chattanooga, TN",2020.0,40200.4
+"Chattanooga, TN",2021.0,42915.2
+"Cheyenne, WY",2011.0,55725.333333333336
+"Cheyenne, WY",2012.0,55700.666666666664
+"Cheyenne, WY",2013.0,56480.666666666664
+"Cheyenne, WY",2014.0,58995.333333333336
+"Cheyenne, WY",2015.0,60179.666666666664
+"Cheyenne, WY",2016.0,60533.666666666664
+"Cheyenne, WY",2017.0,62848.666666666664
+"Cheyenne, WY",2018.0,63839.666666666664
+"Cheyenne, WY",2019.0,66128.33333333333
+"Cheyenne, WY",2020.0,68364.33333333333
+"Cheyenne, WY",2021.0,70887.0
+"Chicago, IL",2011.0,93736.0
+"Chicago, IL",2012.0,89353.0
+"Chicago, IL",2013.0,98109.2
+"Chicago, IL",2014.0,104974.6
+"Chicago, IL",2015.0,104210.4
+"Chicago, IL",2016.0,115879.6
+"Chicago, IL",2017.0,117695.8
+"Chicago, IL",2018.0,127909.4
+"Chicago, IL",2019.0,128815.6
+"Chicago, IL",2020.0,128755.6
+"Chicago, IL",2021.0,130655.0
+"Chico, CA",2011.0,44707.333333333336
+"Chico, CA",2012.0,46000.666666666664
+"Chico, CA",2013.0,46622.0
+"Chico, CA",2014.0,46581.0
+"Chico, CA",2015.0,46620.333333333336
+"Chico, CA",2016.0,47255.0
+"Chico, CA",2017.0,50645.0
+"Chico, CA",2018.0,52632.666666666664
+"Chico, CA",2019.0,57328.0
+"Chico, CA",2020.0,60619.666666666664
+"Chico, CA",2021.0,65216.0
+"Cincinnati, OH",2011.0,25867.6
+"Cincinnati, OH",2012.0,26054.2
+"Cincinnati, OH",2013.0,26789.6
+"Cincinnati, OH",2014.0,28262.4
+"Cincinnati, OH",2015.0,28692.0
+"Cincinnati, OH",2016.0,29634.6
+"Cincinnati, OH",2017.0,33662.8
+"Cincinnati, OH",2018.0,35605.0
+"Cincinnati, OH",2019.0,37703.4
+"Cincinnati, OH",2020.0,41650.6
+"Cincinnati, OH",2021.0,44405.4
+"Clarksville, TN",2011.0,49363.666666666664
+"Clarksville, TN",2012.0,49347.0
+"Clarksville, TN",2013.0,49587.666666666664
+"Clarksville, TN",2014.0,50739.0
+"Clarksville, TN",2015.0,50590.666666666664
+"Clarksville, TN",2016.0,52442.0
+"Clarksville, TN",2017.0,55127.0
+"Clarksville, TN",2018.0,57638.333333333336
+"Clarksville, TN",2019.0,58762.0
+"Clarksville, TN",2020.0,62029.0
+"Clarksville, TN",2021.0,65480.333333333336
+"Cleveland, OH",2011.0,21947.4
+"Cleveland, OH",2012.0,21377.8
+"Cleveland, OH",2013.0,21133.2
+"Cleveland, OH",2014.0,21295.0
+"Cleveland, OH",2015.0,20744.0
+"Cleveland, OH",2016.0,21640.8
+"Cleveland, OH",2017.0,22674.2
+"Cleveland, OH",2018.0,23590.2
+"Cleveland, OH",2019.0,25154.6
+"Cleveland, OH",2020.0,26464.8
+"Cleveland, OH",2021.0,27667.2
+"Cleveland, TN",2011.0,40687.0
+"Cleveland, TN",2012.0,40273.333333333336
+"Cleveland, TN",2013.0,40851.666666666664
+"Cleveland, TN",2014.0,41315.333333333336
+"Cleveland, TN",2015.0,42017.666666666664
+"Cleveland, TN",2016.0,43009.666666666664
+"Cleveland, TN",2017.0,45753.333333333336
+"Cleveland, TN",2018.0,47134.666666666664
+"Cleveland, TN",2019.0,50631.0
+"Cleveland, TN",2020.0,50539.666666666664
+"Cleveland, TN",2021.0,55004.0
+"Coeur D Alene, ID",2011.0,44132.0
+"Coeur D Alene, ID",2012.0,44681.0
+"Coeur D Alene, ID",2013.0,44646.0
+"Coeur D Alene, ID",2014.0,45100.5
+"Coeur D Alene, ID",2015.0,46228.0
+"Coeur D Alene, ID",2016.0,46086.0
+"Coeur D Alene, ID",2017.0,50109.0
+"Coeur D Alene, ID",2018.0,52016.5
+"Coeur D Alene, ID",2019.0,54632.5
+"Coeur D Alene, ID",2020.0,56879.5
+"Coeur D Alene, ID",2021.0,60984.0
+"College Station, TX",2011.0,44701.5
+"College Station, TX",2012.0,44465.5
+"College Station, TX",2013.0,44705.5
+"College Station, TX",2014.0,45574.0
+"College Station, TX",2015.0,45896.0
+"College Station, TX",2016.0,48084.0
+"College Station, TX",2017.0,49828.0
+"College Station, TX",2018.0,52032.5
+"College Station, TX",2019.0,54502.0
+"College Station, TX",2020.0,53167.5
+"College Station, TX",2021.0,55657.0
+"Colorado Springs, CO",2011.0,42529.4
+"Colorado Springs, CO",2012.0,43454.6
+"Colorado Springs, CO",2013.0,43749.6
+"Colorado Springs, CO",2014.0,44294.2
+"Colorado Springs, CO",2015.0,43915.4
+"Colorado Springs, CO",2016.0,45599.0
+"Colorado Springs, CO",2017.0,47894.0
+"Colorado Springs, CO",2018.0,49289.8
+"Colorado Springs, CO",2019.0,52875.0
+"Colorado Springs, CO",2020.0,56059.6
+"Colorado Springs, CO",2021.0,60851.0
+"Columbia, MO",2011.0,45510.0
+"Columbia, MO",2012.0,44995.666666666664
+"Columbia, MO",2013.0,44930.666666666664
+"Columbia, MO",2014.0,44692.666666666664
+"Columbia, MO",2015.0,45988.333333333336
+"Columbia, MO",2016.0,46717.666666666664
+"Columbia, MO",2017.0,49200.666666666664
+"Columbia, MO",2018.0,50835.333333333336
+"Columbia, MO",2019.0,53025.666666666664
+"Columbia, MO",2020.0,54476.666666666664
+"Columbia, MO",2021.0,57542.0
+"Columbia, SC",2011.0,39031.6
+"Columbia, SC",2012.0,39811.0
+"Columbia, SC",2013.0,40303.8
+"Columbia, SC",2014.0,39651.6
+"Columbia, SC",2015.0,40825.0
+"Columbia, SC",2016.0,42998.0
+"Columbia, SC",2017.0,45015.4
+"Columbia, SC",2018.0,45909.2
+"Columbia, SC",2019.0,48316.2
+"Columbia, SC",2020.0,48134.2
+"Columbia, SC",2021.0,49032.8
+"Columbus, GA",2011.0,32373.8
+"Columbus, GA",2012.0,31809.0
+"Columbus, GA",2013.0,30781.0
+"Columbus, GA",2014.0,31583.2
+"Columbus, GA",2015.0,31811.0
+"Columbus, GA",2016.0,31067.0
+"Columbus, GA",2017.0,31439.8
+"Columbus, GA",2018.0,33253.4
+"Columbus, GA",2019.0,34474.0
+"Columbus, GA",2020.0,36960.2
+"Columbus, GA",2021.0,39720.0
+"Columbus, IN",2011.0,55477.0
+"Columbus, IN",2012.0,56138.5
+"Columbus, IN",2013.0,55727.0
+"Columbus, IN",2014.0,56641.5
+"Columbus, IN",2015.0,57030.0
+"Columbus, IN",2016.0,56570.0
+"Columbus, IN",2017.0,58025.0
+"Columbus, IN",2018.0,58971.0
+"Columbus, IN",2019.0,63234.0
+"Columbus, IN",2020.0,66624.5
+"Columbus, IN",2021.0,70804.0
+"Columbus, OH",2011.0,39355.0
+"Columbus, OH",2012.0,38751.0
+"Columbus, OH",2013.0,39744.8
+"Columbus, OH",2014.0,40403.2
+"Columbus, OH",2015.0,41659.4
+"Columbus, OH",2016.0,43007.4
+"Columbus, OH",2017.0,46507.0
+"Columbus, OH",2018.0,48566.2
+"Columbus, OH",2019.0,52035.0
+"Columbus, OH",2020.0,54071.4
+"Columbus, OH",2021.0,58488.0
+"Corpus Christi, TX",2011.0,30264.2
+"Corpus Christi, TX",2012.0,33929.6
+"Corpus Christi, TX",2013.0,37214.8
+"Corpus Christi, TX",2014.0,42434.6
+"Corpus Christi, TX",2015.0,38416.0
+"Corpus Christi, TX",2016.0,44104.8
+"Corpus Christi, TX",2017.0,43200.2
+"Corpus Christi, TX",2018.0,43310.8
+"Corpus Christi, TX",2019.0,39664.2
+"Corpus Christi, TX",2020.0,38591.5
+"Corpus Christi, TX",2021.0,39189.5
+"Corvallis, OR",2011.0,28099.0
+"Corvallis, OR",2012.0,29743.666666666668
+"Corvallis, OR",2013.0,29755.333333333332
+"Corvallis, OR",2014.0,32441.0
+"Corvallis, OR",2015.0,45742.5
+"Corvallis, OR",2016.0,47566.5
+"Corvallis, OR",2017.0,49709.5
+"Corvallis, OR",2018.0,52962.0
+"Corvallis, OR",2019.0,55676.0
+"Corvallis, OR",2020.0,58033.0
+"Corvallis, OR",2021.0,60859.5
+"Crestview, FL",2011.0,52270.0
+"Crestview, FL",2012.0,53284.0
+"Crestview, FL",2013.0,54235.0
+"Crestview, FL",2014.0,55269.0
+"Crestview, FL",2015.0,57025.5
+"Crestview, FL",2016.0,58443.0
+"Crestview, FL",2017.0,58603.5
+"Crestview, FL",2018.0,63178.0
+"Crestview, FL",2019.0,65181.5
+"Crestview, FL",2020.0,64791.0
+"Crestview, FL",2021.0,67473.5
+"Cumberland, MD",2011.0,38398.0
+"Cumberland, MD",2012.0,38307.0
+"Cumberland, MD",2013.0,37262.0
+"Cumberland, MD",2014.0,37788.0
+"Cumberland, MD",2015.0,38223.0
+"Cumberland, MD",2016.0,39329.0
+"Cumberland, MD",2017.0,41667.0
+"Cumberland, MD",2018.0,44375.0
+"Cumberland, MD",2019.0,46498.0
+"Cumberland, MD",2020.0,51793.0
+"Cumberland, MD",2021.0,53122.0
+"Dallas, TX",2011.0,68844.6
+"Dallas, TX",2012.0,68190.6
+"Dallas, TX",2013.0,69745.2
+"Dallas, TX",2014.0,73481.4
+"Dallas, TX",2015.0,76474.8
+"Dallas, TX",2016.0,78627.6
+"Dallas, TX",2017.0,82405.4
+"Dallas, TX",2018.0,86838.2
+"Dallas, TX",2019.0,90864.0
+"Dallas, TX",2020.0,93156.0
+"Dallas, TX",2021.0,94054.4
+"Dalton, GA",2011.0,41578.0
+"Dalton, GA",2012.0,40370.0
+"Dalton, GA",2013.0,39204.5
+"Dalton, GA",2014.0,39365.0
+"Dalton, GA",2015.0,39847.0
+"Dalton, GA",2016.0,41285.0
+"Dalton, GA",2017.0,43988.0
+"Dalton, GA",2018.0,46498.0
+"Dalton, GA",2019.0,47224.5
+"Dalton, GA",2020.0,48467.5
+"Dalton, GA",2021.0,51179.5
+"Danville, IL",2011.0,43901.5
+"Danville, IL",2012.0,42273.0
+"Danville, IL",2013.0,41782.5
+"Danville, IL",2014.0,46899.0
+"Danville, IL",2015.0,47837.0
+"Danville, IL",2016.0,48988.0
+"Danville, IL",2017.0,49327.0
+"Danville, IL",2018.0,50180.0
+"Danville, IL",2019.0,50784.5
+"Danville, IL",2020.0,53894.5
+"Danville, IL",2021.0,59821.0
+"Daphne, AL",2011.0,72291.5
+"Daphne, AL",2012.0,73137.5
+"Daphne, AL",2013.0,70135.0
+"Daphne, AL",2014.0,70749.5
+"Daphne, AL",2015.0,72898.5
+"Daphne, AL",2016.0,74626.0
+"Daphne, AL",2017.0,76603.5
+"Daphne, AL",2018.0,81433.5
+"Daphne, AL",2019.0,85913.5
+"Daphne, AL",2020.0,84842.5
+"Daphne, AL",2021.0,90346.0
+"Davenport, IA",2011.0,36109.2
+"Davenport, IA",2012.0,37817.0
+"Davenport, IA",2013.0,37541.4
+"Davenport, IA",2014.0,38439.8
+"Davenport, IA",2015.0,41757.0
+"Davenport, IA",2016.0,42227.8
+"Davenport, IA",2017.0,43084.4
+"Davenport, IA",2018.0,43715.0
+"Davenport, IA",2019.0,45017.4
+"Davenport, IA",2020.0,45930.2
+"Davenport, IA",2021.0,49309.8
+"Decatur, AL",2011.0,47124.5
+"Decatur, AL",2012.0,46243.5
+"Decatur, AL",2013.0,43734.5
+"Decatur, AL",2014.0,45895.5
+"Decatur, AL",2015.0,44481.0
+"Decatur, AL",2016.0,44925.5
+"Decatur, AL",2017.0,45551.5
+"Decatur, AL",2018.0,47300.0
+"Decatur, AL",2019.0,50031.0
+"Decatur, AL",2020.0,51781.5
+"Decatur, AL",2021.0,55614.5
+"Decatur, IL",2011.0,33804.5
+"Decatur, IL",2012.0,34342.0
+"Decatur, IL",2013.0,33886.5
+"Decatur, IL",2014.0,34050.25
+"Decatur, IL",2015.0,35009.5
+"Decatur, IL",2016.0,35702.25
+"Decatur, IL",2017.0,37310.0
+"Decatur, IL",2018.0,37703.5
+"Decatur, IL",2019.0,38515.0
+"Decatur, IL",2020.0,40102.0
+"Decatur, IL",2021.0,40717.5
+"Deltona, FL",2011.0,51276.5
+"Deltona, FL",2012.0,49336.0
+"Deltona, FL",2013.0,47702.5
+"Deltona, FL",2014.0,44797.5
+"Deltona, FL",2015.0,42651.5
+"Deltona, FL",2016.0,44520.5
+"Deltona, FL",2017.0,46740.0
+"Deltona, FL",2018.0,49638.0
+"Deltona, FL",2019.0,53269.0
+"Deltona, FL",2020.0,57718.0
+"Deltona, FL",2021.0,63109.0
+"Denver, CO",2011.0,48254.2
+"Denver, CO",2012.0,49395.2
+"Denver, CO",2013.0,50628.8
+"Denver, CO",2014.0,52444.0
+"Denver, CO",2015.0,52605.4
+"Denver, CO",2016.0,55116.0
+"Denver, CO",2017.0,60356.0
+"Denver, CO",2018.0,63833.6
+"Denver, CO",2019.0,69222.8
+"Denver, CO",2020.0,75592.8
+"Denver, CO",2021.0,79133.0
+"Des Moines, IA",2011.0,42863.0
+"Des Moines, IA",2012.0,42367.333333333336
+"Des Moines, IA",2013.0,44700.666666666664
+"Des Moines, IA",2014.0,43862.666666666664
+"Des Moines, IA",2015.0,43250.0
+"Des Moines, IA",2016.0,44529.666666666664
+"Des Moines, IA",2017.0,47422.666666666664
+"Des Moines, IA",2018.0,51207.333333333336
+"Des Moines, IA",2019.0,54563.0
+"Des Moines, IA",2020.0,56609.333333333336
+"Des Moines, IA",2021.0,58691.666666666664
+"Detroit, MI",2011.0,22515.2
+"Detroit, MI",2012.0,22088.6
+"Detroit, MI",2013.0,21017.8
+"Detroit, MI",2014.0,20472.0
+"Detroit, MI",2015.0,21073.8
+"Detroit, MI",2016.0,22099.2
+"Detroit, MI",2017.0,23471.4
+"Detroit, MI",2018.0,24861.8
+"Detroit, MI",2019.0,25996.0
+"Detroit, MI",2020.0,28253.4
+"Detroit, MI",2021.0,30449.2
+"Dothan, AL",2011.0,46139.0
+"Dothan, AL",2012.0,46941.666666666664
+"Dothan, AL",2013.0,46331.333333333336
+"Dothan, AL",2014.0,46081.333333333336
+"Dothan, AL",2015.0,46887.666666666664
+"Dothan, AL",2016.0,46321.666666666664
+"Dothan, AL",2017.0,46975.666666666664
+"Dothan, AL",2018.0,49471.0
+"Dothan, AL",2019.0,51460.0
+"Dothan, AL",2020.0,53859.0
+"Dothan, AL",2021.0,55520.0
+"Dover, DE",2011.0,52008.0
+"Dover, DE",2012.0,51885.0
+"Dover, DE",2013.0,50800.0
+"Dover, DE",2014.0,51684.0
+"Dover, DE",2015.0,50931.0
+"Dover, DE",2016.0,51333.5
+"Dover, DE",2017.0,53836.5
+"Dover, DE",2018.0,54679.0
+"Dover, DE",2019.0,54548.0
+"Dover, DE",2020.0,54894.0
+"Dover, DE",2021.0,57834.5
+"Dubuque, IA",2011.0,56663.666666666664
+"Dubuque, IA",2012.0,56903.333333333336
+"Dubuque, IA",2013.0,57515.0
+"Dubuque, IA",2014.0,58282.0
+"Dubuque, IA",2015.0,58180.0
+"Dubuque, IA",2016.0,59869.333333333336
+"Dubuque, IA",2017.0,63016.0
+"Dubuque, IA",2018.0,64965.0
+"Dubuque, IA",2019.0,68069.0
+"Dubuque, IA",2020.0,70042.66666666667
+"Dubuque, IA",2021.0,72851.66666666667
+"Duluth, MN",2011.0,41290.6
+"Duluth, MN",2012.0,42216.2
+"Duluth, MN",2013.0,43311.0
+"Duluth, MN",2014.0,43727.2
+"Duluth, MN",2015.0,43808.2
+"Duluth, MN",2016.0,44611.8
+"Duluth, MN",2017.0,46993.6
+"Duluth, MN",2018.0,51019.6
+"Duluth, MN",2019.0,52432.6
+"Duluth, MN",2020.0,55772.8
+"Duluth, MN",2021.0,60316.0
+"Durham, NC",2011.0,40209.75
+"Durham, NC",2012.0,41574.25
+"Durham, NC",2013.0,42286.25
+"Durham, NC",2014.0,42632.0
+"Durham, NC",2015.0,43374.5
+"Durham, NC",2016.0,45363.0
+"Durham, NC",2017.0,46647.5
+"Durham, NC",2018.0,49005.0
+"Durham, NC",2019.0,52046.75
+"Durham, NC",2020.0,54865.0
+"Durham, NC",2021.0,59242.75
+"East Stroudsburg, PA",2011.0,60805.5
+"East Stroudsburg, PA",2012.0,58511.0
+"East Stroudsburg, PA",2013.0,58440.0
+"East Stroudsburg, PA",2014.0,60606.0
+"East Stroudsburg, PA",2015.0,57833.0
+"East Stroudsburg, PA",2016.0,60382.5
+"East Stroudsburg, PA",2017.0,63509.5
+"East Stroudsburg, PA",2018.0,65567.0
+"East Stroudsburg, PA",2019.0,64564.5
+"East Stroudsburg, PA",2020.0,70407.0
+"East Stroudsburg, PA",2021.0,75157.0
+"Eau Claire, WI",2011.0,47199.5
+"Eau Claire, WI",2012.0,48182.0
+"Eau Claire, WI",2013.0,47985.0
+"Eau Claire, WI",2014.0,47818.5
+"Eau Claire, WI",2015.0,48737.5
+"Eau Claire, WI",2016.0,50106.0
+"Eau Claire, WI",2017.0,51280.0
+"Eau Claire, WI",2018.0,55174.5
+"Eau Claire, WI",2019.0,59092.5
+"Eau Claire, WI",2020.0,62344.0
+"Eau Claire, WI",2021.0,64154.0
+"El Centro, CA",2011.0,39754.0
+"El Centro, CA",2012.0,42268.0
+"El Centro, CA",2013.0,42618.0
+"El Centro, CA",2014.0,42206.0
+"El Centro, CA",2015.0,40878.0
+"El Centro, CA",2016.0,42476.0
+"El Centro, CA",2017.0,43842.0
+"El Centro, CA",2018.0,46648.0
+"El Centro, CA",2019.0,48290.0
+"El Centro, CA",2020.0,47614.0
+"El Centro, CA",2021.0,48888.0
+"El Paso, TX",2011.0,23530.8
+"El Paso, TX",2012.0,24036.8
+"El Paso, TX",2013.0,24676.4
+"El Paso, TX",2014.0,25016.8
+"El Paso, TX",2015.0,25914.4
+"El Paso, TX",2016.0,25758.4
+"El Paso, TX",2017.0,26814.2
+"El Paso, TX",2018.0,27258.0
+"El Paso, TX",2019.0,28297.6
+"El Paso, TX",2020.0,27060.2
+"El Paso, TX",2021.0,28440.0
+"Elizabethtown, KY",2011.0,48151.0
+"Elizabethtown, KY",2012.0,48411.0
+"Elizabethtown, KY",2013.0,47822.0
+"Elizabethtown, KY",2014.0,49082.0
+"Elizabethtown, KY",2015.0,51874.0
+"Elizabethtown, KY",2016.0,52982.0
+"Elizabethtown, KY",2017.0,56078.0
+"Elizabethtown, KY",2018.0,55314.0
+"Elizabethtown, KY",2019.0,57680.0
+"Elizabethtown, KY",2020.0,60130.0
+"Elizabethtown, KY",2021.0,62713.0
+"Elkhart, IN",2011.0,41115.333333333336
+"Elkhart, IN",2012.0,41113.333333333336
+"Elkhart, IN",2013.0,40435.666666666664
+"Elkhart, IN",2014.0,41807.333333333336
+"Elkhart, IN",2015.0,42884.0
+"Elkhart, IN",2016.0,44629.666666666664
+"Elkhart, IN",2017.0,46948.333333333336
+"Elkhart, IN",2018.0,49638.0
+"Elkhart, IN",2019.0,50822.333333333336
+"Elkhart, IN",2020.0,50676.666666666664
+"Elkhart, IN",2021.0,53442.333333333336
+"Elmira, NY",2011.0,39264.0
+"Elmira, NY",2012.0,41536.0
+"Elmira, NY",2013.0,42313.25
+"Elmira, NY",2014.0,42863.25
+"Elmira, NY",2015.0,44557.75
+"Elmira, NY",2016.0,43895.25
+"Elmira, NY",2017.0,45566.5
+"Elmira, NY",2018.0,47459.75
+"Elmira, NY",2019.0,50271.5
+"Elmira, NY",2020.0,51497.0
+"Elmira, NY",2021.0,55296.0
+"Enid, OK",2011.0,41202.5
+"Enid, OK",2012.0,42723.0
+"Enid, OK",2013.0,43813.0
+"Enid, OK",2014.0,46213.0
+"Enid, OK",2015.0,47690.5
+"Enid, OK",2016.0,49295.0
+"Enid, OK",2017.0,49585.5
+"Enid, OK",2018.0,49447.0
+"Enid, OK",2019.0,52938.0
+"Enid, OK",2020.0,52985.5
+"Enid, OK",2021.0,57513.0
+"Erie, PA",2011.0,31499.4
+"Erie, PA",2012.0,31974.6
+"Erie, PA",2013.0,31184.2
+"Erie, PA",2014.0,31518.6
+"Erie, PA",2015.0,31478.2
+"Erie, PA",2016.0,31598.6
+"Erie, PA",2017.0,32683.2
+"Erie, PA",2018.0,33979.6
+"Erie, PA",2019.0,34721.8
+"Erie, PA",2020.0,34834.2
+"Erie, PA",2021.0,36645.0
+"Eugene, OR",2011.0,40973.2
+"Eugene, OR",2012.0,41538.4
+"Eugene, OR",2013.0,43274.2
+"Eugene, OR",2014.0,43695.0
+"Eugene, OR",2015.0,43170.0
+"Eugene, OR",2016.0,45637.0
+"Eugene, OR",2017.0,48344.6
+"Eugene, OR",2018.0,50925.4
+"Eugene, OR",2019.0,52456.8
+"Eugene, OR",2020.0,54340.4
+"Eugene, OR",2021.0,58643.4
+"Evansville, IN",2011.0,31976.4
+"Evansville, IN",2012.0,35077.2
+"Evansville, IN",2013.0,36961.6
+"Evansville, IN",2014.0,34445.4
+"Evansville, IN",2015.0,34212.2
+"Evansville, IN",2016.0,35824.2
+"Evansville, IN",2017.0,38564.8
+"Evansville, IN",2018.0,40842.0
+"Evansville, IN",2019.0,53928.2
+"Evansville, IN",2020.0,44728.25
+"Evansville, IN",2021.0,47732.2
+"Fairbanks, AK",2011.0,60101.25
+"Fairbanks, AK",2012.0,67114.25
+"Fairbanks, AK",2013.0,64447.5
+"Fairbanks, AK",2014.0,72552.0
+"Fairbanks, AK",2015.0,71733.33333333333
+"Fairbanks, AK",2016.0,75224.66666666667
+"Fairbanks, AK",2017.0,76317.66666666667
+"Fairbanks, AK",2018.0,77473.0
+"Fairbanks, AK",2019.0,78504.0
+"Fairbanks, AK",2020.0,77199.0
+"Fairbanks, AK",2021.0,104531.5
+"Fargo, ND",2011.0,46527.333333333336
+"Fargo, ND",2012.0,48079.333333333336
+"Fargo, ND",2013.0,49553.666666666664
+"Fargo, ND",2014.0,50114.0
+"Fargo, ND",2015.0,49851.333333333336
+"Fargo, ND",2016.0,51487.666666666664
+"Fargo, ND",2017.0,53693.666666666664
+"Fargo, ND",2018.0,56888.333333333336
+"Fargo, ND",2019.0,57357.0
+"Fargo, ND",2020.0,60335.333333333336
+"Fargo, ND",2021.0,62710.666666666664
+"Farmington, NM",2011.0,61110.0
+"Farmington, NM",2012.0,61693.5
+"Farmington, NM",2013.0,61664.5
+"Farmington, NM",2014.0,63731.5
+"Farmington, NM",2015.0,62364.0
+"Farmington, NM",2016.0,61273.5
+"Farmington, NM",2017.0,61083.5
+"Farmington, NM",2018.0,61941.0
+"Farmington, NM",2019.0,58134.5
+"Farmington, NM",2020.0,59129.5
+"Farmington, NM",2021.0,57498.0
+"Fayetteville, AR",2011.0,40658.0
+"Fayetteville, AR",2012.0,40925.333333333336
+"Fayetteville, AR",2013.0,41239.333333333336
+"Fayetteville, AR",2014.0,42320.666666666664
+"Fayetteville, AR",2015.0,43523.333333333336
+"Fayetteville, AR",2016.0,44766.666666666664
+"Fayetteville, AR",2017.0,46830.0
+"Fayetteville, AR",2018.0,47620.333333333336
+"Fayetteville, AR",2019.0,49176.666666666664
+"Fayetteville, AR",2020.0,53719.333333333336
+"Fayetteville, AR",2021.0,57454.333333333336
+"Fayetteville, NC",2011.0,42098.2
+"Fayetteville, NC",2012.0,42051.6
+"Fayetteville, NC",2013.0,41358.0
+"Fayetteville, NC",2014.0,41498.4
+"Fayetteville, NC",2015.0,40442.2
+"Fayetteville, NC",2016.0,41493.6
+"Fayetteville, NC",2017.0,41632.6
+"Fayetteville, NC",2018.0,43226.4
+"Fayetteville, NC",2019.0,44280.6
+"Fayetteville, NC",2020.0,46028.0
+"Fayetteville, NC",2021.0,47853.6
+"Flagstaff, AZ",2011.0,52969.0
+"Flagstaff, AZ",2012.0,51832.5
+"Flagstaff, AZ",2013.0,52826.5
+"Flagstaff, AZ",2014.0,53021.0
+"Flagstaff, AZ",2015.0,54589.5
+"Flagstaff, AZ",2016.0,55786.5
+"Flagstaff, AZ",2017.0,58279.5
+"Flagstaff, AZ",2018.0,62606.0
+"Flagstaff, AZ",2019.0,64518.0
+"Flagstaff, AZ",2020.0,63968.5
+"Flagstaff, AZ",2021.0,67218.66666666667
+"Flint, MI",2011.0,24942.8
+"Flint, MI",2012.0,25833.0
+"Flint, MI",2013.0,27741.0
+"Flint, MI",2014.0,27425.0
+"Flint, MI",2015.0,27581.6
+"Flint, MI",2016.0,28439.2
+"Flint, MI",2017.0,29293.6
+"Flint, MI",2018.0,30443.4
+"Flint, MI",2019.0,31116.0
+"Flint, MI",2020.0,32695.0
+"Flint, MI",2021.0,36241.4
+"Florence, AL",2011.0,40706.333333333336
+"Florence, AL",2012.0,42127.666666666664
+"Florence, AL",2013.0,44379.666666666664
+"Florence, AL",2014.0,44336.666666666664
+"Florence, AL",2015.0,45936.0
+"Florence, AL",2016.0,48437.0
+"Florence, AL",2017.0,50611.333333333336
+"Florence, AL",2018.0,53878.666666666664
+"Florence, AL",2019.0,56810.666666666664
+"Florence, AL",2020.0,55899.0
+"Florence, AL",2021.0,56036.666666666664
+"Florence, SC",2011.0,44068.666666666664
+"Florence, SC",2012.0,44559.666666666664
+"Florence, SC",2013.0,44164.0
+"Florence, SC",2014.0,44426.333333333336
+"Florence, SC",2015.0,44046.333333333336
+"Florence, SC",2016.0,44900.0
+"Florence, SC",2017.0,45125.333333333336
+"Florence, SC",2018.0,46080.333333333336
+"Florence, SC",2019.0,47671.666666666664
+"Florence, SC",2020.0,50720.333333333336
+"Florence, SC",2021.0,51254.333333333336
+"Fond Du Lac, WI",2011.0,52512.5
+"Fond Du Lac, WI",2012.0,52268.5
+"Fond Du Lac, WI",2013.0,53012.0
+"Fond Du Lac, WI",2014.0,53671.0
+"Fond Du Lac, WI",2015.0,54632.0
+"Fond Du Lac, WI",2016.0,55033.5
+"Fond Du Lac, WI",2017.0,56987.5
+"Fond Du Lac, WI",2018.0,58661.5
+"Fond Du Lac, WI",2019.0,61405.5
+"Fond Du Lac, WI",2020.0,63038.0
+"Fond Du Lac, WI",2021.0,65279.5
+"Fort Collins, CO",2011.0,56867.8
+"Fort Collins, CO",2012.0,58616.2
+"Fort Collins, CO",2013.0,60474.6
+"Fort Collins, CO",2014.0,60914.2
+"Fort Collins, CO",2015.0,61287.6
+"Fort Collins, CO",2016.0,63158.4
+"Fort Collins, CO",2017.0,65929.8
+"Fort Collins, CO",2018.0,67714.0
+"Fort Collins, CO",2019.0,71247.0
+"Fort Collins, CO",2020.0,74919.0
+"Fort Collins, CO",2021.0,79565.4
+"Fort Smith, AR",2011.0,43002.2
+"Fort Smith, AR",2012.0,42174.0
+"Fort Smith, AR",2013.0,42883.8
+"Fort Smith, AR",2014.0,42771.6
+"Fort Smith, AR",2015.0,41951.6
+"Fort Smith, AR",2016.0,42561.6
+"Fort Smith, AR",2017.0,44283.4
+"Fort Smith, AR",2018.0,45822.0
+"Fort Smith, AR",2019.0,48009.4
+"Fort Smith, AR",2020.0,50349.4
+"Fort Smith, AR",2021.0,52515.6
+"Fort Wayne, IN",2011.0,36629.6
+"Fort Wayne, IN",2012.0,36141.4
+"Fort Wayne, IN",2013.0,34609.4
+"Fort Wayne, IN",2014.0,34981.4
+"Fort Wayne, IN",2015.0,35048.4
+"Fort Wayne, IN",2016.0,35961.8
+"Fort Wayne, IN",2017.0,36866.8
+"Fort Wayne, IN",2018.0,39566.4
+"Fort Wayne, IN",2019.0,41405.4
+"Fort Wayne, IN",2020.0,42674.0
+"Fort Wayne, IN",2021.0,45679.8
+"Fresno, CA",2011.0,31663.0
+"Fresno, CA",2012.0,30969.2
+"Fresno, CA",2013.0,30461.4
+"Fresno, CA",2014.0,30653.8
+"Fresno, CA",2015.0,31139.2
+"Fresno, CA",2016.0,31403.0
+"Fresno, CA",2017.0,32557.0
+"Fresno, CA",2018.0,33895.6
+"Fresno, CA",2019.0,35882.2
+"Fresno, CA",2020.0,36995.4
+"Fresno, CA",2021.0,39196.4
+"Gadsden, AL",2011.0,43377.0
+"Gadsden, AL",2012.0,43726.6
+"Gadsden, AL",2013.0,43170.8
+"Gadsden, AL",2014.0,43083.4
+"Gadsden, AL",2015.0,43609.2
+"Gadsden, AL",2016.0,44093.8
+"Gadsden, AL",2017.0,45590.4
+"Gadsden, AL",2018.0,48221.6
+"Gadsden, AL",2019.0,48732.2
+"Gadsden, AL",2020.0,48931.2
+"Gadsden, AL",2021.0,49985.2
+"Gainesville, FL",2011.0,38833.2
+"Gainesville, FL",2012.0,39369.4
+"Gainesville, FL",2013.0,39141.4
+"Gainesville, FL",2014.0,39522.6
+"Gainesville, FL",2015.0,41292.4
+"Gainesville, FL",2016.0,41491.8
+"Gainesville, FL",2017.0,42286.6
+"Gainesville, FL",2018.0,44616.0
+"Gainesville, FL",2019.0,45183.8
+"Gainesville, FL",2020.0,43276.4
+"Gainesville, FL",2021.0,46200.4
+"Gainesville, GA",2011.0,47509.5
+"Gainesville, GA",2012.0,47112.75
+"Gainesville, GA",2013.0,45296.75
+"Gainesville, GA",2014.0,45441.5
+"Gainesville, GA",2015.0,46655.0
+"Gainesville, GA",2016.0,48176.5
+"Gainesville, GA",2017.0,51290.5
+"Gainesville, GA",2018.0,55529.5
+"Gainesville, GA",2019.0,58203.25
+"Gainesville, GA",2020.0,60507.75
+"Gainesville, GA",2021.0,64232.5
+"Gettysburg, PA",2011.0,57325.0
+"Gettysburg, PA",2012.0,57760.0
+"Gettysburg, PA",2013.0,59529.0
+"Gettysburg, PA",2014.0,58082.0
+"Gettysburg, PA",2015.0,58037.0
+"Gettysburg, PA",2016.0,59222.0
+"Gettysburg, PA",2017.0,60188.0
+"Gettysburg, PA",2018.0,61815.0
+"Gettysburg, PA",2019.0,63867.0
+"Gettysburg, PA",2020.0,69601.0
+"Gettysburg, PA",2021.0,72137.0
+"Glens Falls, NY",2011.0,43790.0
+"Glens Falls, NY",2012.0,43533.0
+"Glens Falls, NY",2013.0,45538.0
+"Glens Falls, NY",2014.0,44341.0
+"Glens Falls, NY",2015.0,45395.0
+"Glens Falls, NY",2016.0,46305.0
+"Glens Falls, NY",2017.0,48901.0
+"Glens Falls, NY",2018.0,48485.0
+"Glens Falls, NY",2019.0,50232.0
+"Glens Falls, NY",2020.0,55573.0
+"Glens Falls, NY",2021.0,60700.0
+"Goldsboro, NC",2011.0,41661.0
+"Goldsboro, NC",2012.0,41015.5
+"Goldsboro, NC",2013.0,41342.0
+"Goldsboro, NC",2014.0,40744.5
+"Goldsboro, NC",2015.0,40282.0
+"Goldsboro, NC",2016.0,41426.5
+"Goldsboro, NC",2017.0,41533.5
+"Goldsboro, NC",2018.0,42276.5
+"Goldsboro, NC",2019.0,43892.5
+"Goldsboro, NC",2020.0,45910.0
+"Goldsboro, NC",2021.0,49507.5
+"Grand Forks, ND",2011.0,43178.666666666664
+"Grand Forks, ND",2012.0,41272.5
+"Grand Forks, ND",2013.0,41734.0
+"Grand Forks, ND",2014.0,43185.5
+"Grand Forks, ND",2015.0,45041.5
+"Grand Forks, ND",2016.0,46776.0
+"Grand Forks, ND",2017.0,47839.5
+"Grand Forks, ND",2018.0,48365.5
+"Grand Forks, ND",2019.0,49290.5
+"Grand Forks, ND",2020.0,48781.0
+"Grand Forks, ND",2021.0,43826.333333333336
+"Grand Island, NE",2011.0,48350.5
+"Grand Island, NE",2012.0,47811.5
+"Grand Island, NE",2013.0,49150.0
+"Grand Island, NE",2014.0,48813.5
+"Grand Island, NE",2015.0,48760.5
+"Grand Island, NE",2016.0,50672.0
+"Grand Island, NE",2017.0,53919.5
+"Grand Island, NE",2018.0,54179.0
+"Grand Island, NE",2019.0,57049.5
+"Grand Island, NE",2020.0,58655.0
+"Grand Island, NE",2021.0,60661.0
+"Grand Junction, CO",2011.0,53421.8
+"Grand Junction, CO",2012.0,51984.8
+"Grand Junction, CO",2013.0,51517.4
+"Grand Junction, CO",2014.0,48794.6
+"Grand Junction, CO",2015.0,47719.4
+"Grand Junction, CO",2016.0,46993.6
+"Grand Junction, CO",2017.0,49237.8
+"Grand Junction, CO",2018.0,52022.0
+"Grand Junction, CO",2019.0,54027.2
+"Grand Junction, CO",2020.0,58590.6
+"Grand Junction, CO",2021.0,63455.0
+"Grand Rapids, MI",2011.0,42591.0
+"Grand Rapids, MI",2012.0,43298.0
+"Grand Rapids, MI",2013.0,43532.4
+"Grand Rapids, MI",2014.0,44052.2
+"Grand Rapids, MI",2015.0,44633.0
+"Grand Rapids, MI",2016.0,46626.0
+"Grand Rapids, MI",2017.0,48833.4
+"Grand Rapids, MI",2018.0,52075.6
+"Grand Rapids, MI",2019.0,55171.2
+"Grand Rapids, MI",2020.0,57209.4
+"Grand Rapids, MI",2021.0,62535.8
+"Grants Pass, OR",2011.0,38619.0
+"Grants Pass, OR",2012.0,37695.5
+"Grants Pass, OR",2013.0,38297.0
+"Grants Pass, OR",2014.0,37759.5
+"Grants Pass, OR",2015.0,38780.0
+"Grants Pass, OR",2016.0,39565.0
+"Grants Pass, OR",2017.0,41953.5
+"Grants Pass, OR",2018.0,45141.5
+"Grants Pass, OR",2019.0,48542.0
+"Grants Pass, OR",2020.0,49825.0
+"Grants Pass, OR",2021.0,53371.5
+"Great Falls, MT",2011.0,43778.333333333336
+"Great Falls, MT",2012.0,43531.666666666664
+"Great Falls, MT",2013.0,45697.666666666664
+"Great Falls, MT",2014.0,45680.666666666664
+"Great Falls, MT",2015.0,44950.666666666664
+"Great Falls, MT",2016.0,45467.333333333336
+"Great Falls, MT",2017.0,47075.333333333336
+"Great Falls, MT",2018.0,48748.333333333336
+"Great Falls, MT",2019.0,50104.666666666664
+"Great Falls, MT",2020.0,51547.0
+"Great Falls, MT",2021.0,55368.666666666664
+"Greeley, CO",2011.0,43074.0
+"Greeley, CO",2012.0,43199.0
+"Greeley, CO",2013.0,44597.0
+"Greeley, CO",2014.0,47033.0
+"Greeley, CO",2015.0,49026.0
+"Greeley, CO",2016.0,51575.0
+"Greeley, CO",2017.0,54615.0
+"Greeley, CO",2018.0,56766.5
+"Greeley, CO",2019.0,58748.5
+"Greeley, CO",2020.0,58991.0
+"Greeley, CO",2021.0,62354.0
+"Green Bay, WI",2011.0,46074.2
+"Green Bay, WI",2012.0,46145.2
+"Green Bay, WI",2013.0,46141.4
+"Green Bay, WI",2014.0,46453.6
+"Green Bay, WI",2015.0,46168.2
+"Green Bay, WI",2016.0,46781.2
+"Green Bay, WI",2017.0,48538.0
+"Green Bay, WI",2018.0,50293.6
+"Green Bay, WI",2019.0,51918.4
+"Green Bay, WI",2020.0,54224.4
+"Green Bay, WI",2021.0,58233.4
+"Greensboro, NC",2011.0,32352.0
+"Greensboro, NC",2012.0,32882.25
+"Greensboro, NC",2013.0,32337.25
+"Greensboro, NC",2014.0,33166.75
+"Greensboro, NC",2015.0,34131.5
+"Greensboro, NC",2016.0,35192.25
+"Greensboro, NC",2017.0,36846.25
+"Greensboro, NC",2018.0,39569.5
+"Greensboro, NC",2019.0,41243.25
+"Greensboro, NC",2020.0,42916.0
+"Greensboro, NC",2021.0,45648.75
+"Greenville, NC",2011.0,37985.5
+"Greenville, NC",2012.0,38259.5
+"Greenville, NC",2013.0,37909.5
+"Greenville, NC",2014.0,39165.5
+"Greenville, NC",2015.0,38347.5
+"Greenville, NC",2016.0,38603.0
+"Greenville, NC",2017.0,39659.0
+"Greenville, NC",2018.0,40555.5
+"Greenville, NC",2019.0,42847.0
+"Greenville, NC",2020.0,45067.0
+"Greenville, NC",2021.0,45904.0
+"Greenville, SC",2011.0,36985.6
+"Greenville, SC",2012.0,36961.6
+"Greenville, SC",2013.0,37927.6
+"Greenville, SC",2014.0,38044.4
+"Greenville, SC",2015.0,38921.4
+"Greenville, SC",2016.0,40576.4
+"Greenville, SC",2017.0,42936.0
+"Greenville, SC",2018.0,46974.2
+"Greenville, SC",2019.0,50596.4
+"Greenville, SC",2020.0,54404.4
+"Greenville, SC",2021.0,56107.2
+"Gulfport, MS",2011.0,39183.666666666664
+"Gulfport, MS",2012.0,39153.333333333336
+"Gulfport, MS",2013.0,38893.333333333336
+"Gulfport, MS",2014.0,36800.0
+"Gulfport, MS",2015.0,36766.0
+"Gulfport, MS",2016.0,38607.0
+"Gulfport, MS",2017.0,38794.0
+"Gulfport, MS",2018.0,39738.0
+"Gulfport, MS",2019.0,42416.333333333336
+"Gulfport, MS",2020.0,43012.0
+"Gulfport, MS",2021.0,44052.0
+"Hagerstown, MD",2011.0,52486.0
+"Hagerstown, MD",2012.0,53884.0
+"Hagerstown, MD",2013.0,54574.0
+"Hagerstown, MD",2014.0,55630.5
+"Hagerstown, MD",2015.0,55903.0
+"Hagerstown, MD",2016.0,55592.0
+"Hagerstown, MD",2017.0,56194.0
+"Hagerstown, MD",2018.0,56927.5
+"Hagerstown, MD",2019.0,57005.0
+"Hagerstown, MD",2020.0,59678.5
+"Hagerstown, MD",2021.0,62731.0
+"Hammond, LA",2011.0,40638.0
+"Hammond, LA",2012.0,39717.0
+"Hammond, LA",2013.0,38260.0
+"Hammond, LA",2014.0,38083.0
+"Hammond, LA",2015.0,38297.5
+"Hammond, LA",2016.0,40721.0
+"Hammond, LA",2017.0,43079.5
+"Hammond, LA",2018.0,43916.5
+"Hammond, LA",2019.0,43451.0
+"Hammond, LA",2020.0,42819.0
+"Hammond, LA",2021.0,46312.5
+"Hanford, CA",2011.0,53929.0
+"Hanford, CA",2012.0,54274.0
+"Hanford, CA",2013.0,52611.0
+"Hanford, CA",2014.0,53008.0
+"Hanford, CA",2015.0,53070.0
+"Hanford, CA",2016.0,51209.0
+"Hanford, CA",2017.0,54697.0
+"Hanford, CA",2018.0,59904.0
+"Hanford, CA",2019.0,62239.0
+"Hanford, CA",2020.0,65674.0
+"Hanford, CA",2021.0,68450.0
+"Harrisburg, PA",2011.0,34666.8
+"Harrisburg, PA",2012.0,36560.4
+"Harrisburg, PA",2013.0,34773.6
+"Harrisburg, PA",2014.0,33487.2
+"Harrisburg, PA",2015.0,35728.8
+"Harrisburg, PA",2016.0,35542.6
+"Harrisburg, PA",2017.0,37179.4
+"Harrisburg, PA",2018.0,39207.0
+"Harrisburg, PA",2019.0,42196.6
+"Harrisburg, PA",2020.0,44605.4
+"Harrisburg, PA",2021.0,47167.4
+"Harrisonburg, VA",2011.0,44494.0
+"Harrisonburg, VA",2012.0,43475.0
+"Harrisonburg, VA",2013.0,43018.5
+"Harrisonburg, VA",2014.0,43635.5
+"Harrisonburg, VA",2015.0,43353.0
+"Harrisonburg, VA",2016.0,43781.0
+"Harrisonburg, VA",2017.0,46585.5
+"Harrisonburg, VA",2018.0,48225.5
+"Harrisonburg, VA",2019.0,50894.0
+"Harrisonburg, VA",2020.0,54606.5
+"Harrisonburg, VA",2021.0,56989.0
+"Hartford, CT",2011.0,40967.25
+"Hartford, CT",2012.0,43130.5
+"Hartford, CT",2013.0,44982.25
+"Hartford, CT",2014.0,46589.0
+"Hartford, CT",2015.0,44335.5
+"Hartford, CT",2016.0,44910.5
+"Hartford, CT",2017.0,45448.75
+"Hartford, CT",2018.0,45941.0
+"Hartford, CT",2019.0,48527.25
+"Hartford, CT",2020.0,48617.75
+"Hartford, CT",2021.0,49145.75
+"Hattiesburg, MS",2011.0,40011.0
+"Hattiesburg, MS",2012.0,40576.5
+"Hattiesburg, MS",2013.0,40967.0
+"Hattiesburg, MS",2014.0,42136.0
+"Hattiesburg, MS",2015.0,41110.5
+"Hattiesburg, MS",2016.0,43867.0
+"Hattiesburg, MS",2017.0,46071.0
+"Hattiesburg, MS",2018.0,47088.0
+"Hattiesburg, MS",2019.0,46886.5
+"Hattiesburg, MS",2020.0,47000.0
+"Hattiesburg, MS",2021.0,48410.0
+"Hickory, NC",2011.0,41577.5
+"Hickory, NC",2012.0,42410.5
+"Hickory, NC",2013.0,42066.5
+"Hickory, NC",2014.0,44089.5
+"Hickory, NC",2015.0,44364.0
+"Hickory, NC",2016.0,44741.5
+"Hickory, NC",2017.0,47206.0
+"Hickory, NC",2018.0,49157.0
+"Hickory, NC",2019.0,50061.5
+"Hickory, NC",2020.0,51435.5
+"Hickory, NC",2021.0,54642.5
+"Hilton Head Island, SC",2011.0,71067.5
+"Hilton Head Island, SC",2012.0,70701.0
+"Hilton Head Island, SC",2013.0,70601.5
+"Hilton Head Island, SC",2014.0,69447.0
+"Hilton Head Island, SC",2015.0,68299.0
+"Hilton Head Island, SC",2016.0,71505.0
+"Hilton Head Island, SC",2017.0,73405.5
+"Hilton Head Island, SC",2018.0,75056.5
+"Hilton Head Island, SC",2019.0,85804.0
+"Hilton Head Island, SC",2020.0,87205.0
+"Hilton Head Island, SC",2021.0,88317.0
+"Hinesville, GA",2011.0,44657.0
+"Hinesville, GA",2012.0,44807.0
+"Hinesville, GA",2013.0,45852.0
+"Hinesville, GA",2014.0,45408.0
+"Hinesville, GA",2015.0,43773.0
+"Hinesville, GA",2016.0,44803.0
+"Hinesville, GA",2017.0,45252.0
+"Hinesville, GA",2018.0,47668.0
+"Hinesville, GA",2019.0,50006.0
+"Hinesville, GA",2020.0,50823.0
+"Hinesville, GA",2021.0,50526.0
+"Honolulu, HI",2011.0,56408.6
+"Honolulu, HI",2012.0,57517.8
+"Honolulu, HI",2013.0,58540.2
+"Honolulu, HI",2014.0,59804.0
+"Honolulu, HI",2015.0,61799.0
+"Honolulu, HI",2016.0,63953.4
+"Honolulu, HI",2017.0,66500.4
+"Honolulu, HI",2018.0,69226.6
+"Honolulu, HI",2019.0,71449.0
+"Honolulu, HI",2020.0,72010.2
+"Honolulu, HI",2021.0,76193.4
+"Hot Springs National Park, AR",2011.0,35236.5
+"Hot Springs National Park, AR",2012.0,35058.5
+"Hot Springs National Park, AR",2013.0,35518.0
+"Hot Springs National Park, AR",2014.0,36139.5
+"Hot Springs National Park, AR",2015.0,34970.5
+"Hot Springs National Park, AR",2016.0,36428.5
+"Hot Springs National Park, AR",2017.0,38698.5
+"Hot Springs National Park, AR",2018.0,40656.5
+"Hot Springs National Park, AR",2019.0,42772.5
+"Hot Springs National Park, AR",2020.0,47396.0
+"Hot Springs National Park, AR",2021.0,49088.5
+"Houma, LA",2011.0,51443.333333333336
+"Houma, LA",2012.0,53285.333333333336
+"Houma, LA",2013.0,54366.0
+"Houma, LA",2014.0,52637.666666666664
+"Houma, LA",2015.0,51843.333333333336
+"Houma, LA",2016.0,52860.333333333336
+"Houma, LA",2017.0,50752.666666666664
+"Houma, LA",2018.0,53042.0
+"Houma, LA",2019.0,53704.666666666664
+"Houma, LA",2020.0,58620.666666666664
+"Houma, LA",2021.0,60777.333333333336
+"Houston, TX",2011.0,69192.0
+"Houston, TX",2012.0,70206.8
+"Houston, TX",2013.0,73935.6
+"Houston, TX",2014.0,78267.0
+"Houston, TX",2015.0,77202.4
+"Houston, TX",2016.0,84047.6
+"Houston, TX",2017.0,88821.8
+"Houston, TX",2018.0,91206.8
+"Houston, TX",2019.0,94661.8
+"Houston, TX",2020.0,99627.0
+"Houston, TX",2021.0,98973.6
+"Huntington, WV",2011.0,30547.4
+"Huntington, WV",2012.0,31498.8
+"Huntington, WV",2013.0,32525.2
+"Huntington, WV",2014.0,31399.8
+"Huntington, WV",2015.0,31688.8
+"Huntington, WV",2016.0,32031.8
+"Huntington, WV",2017.0,31855.6
+"Huntington, WV",2018.0,31180.8
+"Huntington, WV",2019.0,32869.0
+"Huntington, WV",2020.0,35057.4
+"Huntington, WV",2021.0,36639.0
+"Huntsville, AL",2011.0,56685.2
+"Huntsville, AL",2012.0,57495.6
+"Huntsville, AL",2013.0,57711.4
+"Huntsville, AL",2014.0,57000.6
+"Huntsville, AL",2015.0,57415.4
+"Huntsville, AL",2016.0,59413.6
+"Huntsville, AL",2017.0,60306.8
+"Huntsville, AL",2018.0,61337.0
+"Huntsville, AL",2019.0,61834.8
+"Huntsville, AL",2020.0,62134.8
+"Huntsville, AL",2021.0,65994.6
+"Idaho Falls, ID",2011.0,52555.0
+"Idaho Falls, ID",2012.0,52682.75
+"Idaho Falls, ID",2013.0,52141.5
+"Idaho Falls, ID",2014.0,52386.75
+"Idaho Falls, ID",2015.0,52753.0
+"Idaho Falls, ID",2016.0,55084.0
+"Idaho Falls, ID",2017.0,56610.0
+"Idaho Falls, ID",2018.0,58550.0
+"Idaho Falls, ID",2019.0,62165.5
+"Idaho Falls, ID",2020.0,63106.0
+"Idaho Falls, ID",2021.0,66543.0
+"Indianapolis, IN",2011.0,31030.8
+"Indianapolis, IN",2012.0,32564.8
+"Indianapolis, IN",2013.0,32965.0
+"Indianapolis, IN",2014.0,33297.6
+"Indianapolis, IN",2015.0,34113.4
+"Indianapolis, IN",2016.0,35552.4
+"Indianapolis, IN",2017.0,38339.4
+"Indianapolis, IN",2018.0,40681.0
+"Indianapolis, IN",2019.0,43954.2
+"Indianapolis, IN",2020.0,49707.4
+"Indianapolis, IN",2021.0,53726.4
+"Iowa City, IA",2011.0,46605.666666666664
+"Iowa City, IA",2012.0,46323.666666666664
+"Iowa City, IA",2013.0,45481.0
+"Iowa City, IA",2014.0,46684.0
+"Iowa City, IA",2015.0,47660.666666666664
+"Iowa City, IA",2016.0,48417.666666666664
+"Iowa City, IA",2017.0,51320.666666666664
+"Iowa City, IA",2018.0,52072.666666666664
+"Iowa City, IA",2019.0,53292.333333333336
+"Iowa City, IA",2020.0,52173.333333333336
+"Iowa City, IA",2021.0,56714.666666666664
+"Ithaca, NY",2011.0,45311.0
+"Ithaca, NY",2012.0,47022.0
+"Ithaca, NY",2013.0,46331.0
+"Ithaca, NY",2014.0,46423.0
+"Ithaca, NY",2015.0,48088.0
+"Ithaca, NY",2016.0,50290.0
+"Ithaca, NY",2017.0,51564.0
+"Ithaca, NY",2018.0,53239.0
+"Ithaca, NY",2019.0,55987.0
+"Ithaca, NY",2020.0,56794.0
+"Ithaca, NY",2021.0,58846.0
+"Jackson, MI",2011.0,41769.333333333336
+"Jackson, MI",2012.0,41829.0
+"Jackson, MI",2013.0,40659.666666666664
+"Jackson, MI",2014.0,40525.666666666664
+"Jackson, MI",2015.0,40529.333333333336
+"Jackson, MI",2016.0,41695.333333333336
+"Jackson, MI",2017.0,42688.0
+"Jackson, MI",2018.0,44409.666666666664
+"Jackson, MI",2019.0,46628.666666666664
+"Jackson, MI",2020.0,48819.333333333336
+"Jackson, MI",2021.0,51087.666666666664
+"Jackson, MS",2011.0,36813.2
+"Jackson, MS",2012.0,34872.4
+"Jackson, MS",2013.0,33621.4
+"Jackson, MS",2014.0,29682.2
+"Jackson, MS",2015.0,29673.2
+"Jackson, MS",2016.0,30570.6
+"Jackson, MS",2017.0,30797.0
+"Jackson, MS",2018.0,32129.25
+"Jackson, MS",2019.0,36116.4
+"Jackson, MS",2020.0,38692.4
+"Jackson, MS",2021.0,40055.0
+"Jackson, TN",2011.0,39358.5
+"Jackson, TN",2012.0,40254.5
+"Jackson, TN",2013.0,40694.5
+"Jackson, TN",2014.0,41704.5
+"Jackson, TN",2015.0,41202.0
+"Jackson, TN",2016.0,42029.5
+"Jackson, TN",2017.0,42099.0
+"Jackson, TN",2018.0,42692.5
+"Jackson, TN",2019.0,43787.5
+"Jackson, TN",2020.0,43772.0
+"Jackson, TN",2021.0,46800.5
+"Jacksonville, FL",2011.0,28365.25
+"Jacksonville, FL",2012.0,28202.75
+"Jacksonville, FL",2013.0,28741.0
+"Jacksonville, FL",2014.0,28524.5
+"Jacksonville, FL",2015.0,29935.5
+"Jacksonville, FL",2016.0,32870.0
+"Jacksonville, FL",2017.0,34313.25
+"Jacksonville, FL",2018.0,34461.0
+"Jacksonville, FL",2019.0,38735.75
+"Jacksonville, FL",2020.0,40819.5
+"Jacksonville, FL",2021.0,42093.5
+"Jacksonville, NC",2011.0,46177.5
+"Jacksonville, NC",2012.0,46314.0
+"Jacksonville, NC",2013.0,45624.5
+"Jacksonville, NC",2014.0,46465.5
+"Jacksonville, NC",2015.0,46863.5
+"Jacksonville, NC",2016.0,46469.5
+"Jacksonville, NC",2017.0,47293.5
+"Jacksonville, NC",2018.0,48364.0
+"Jacksonville, NC",2019.0,48296.0
+"Jacksonville, NC",2020.0,49568.0
+"Jacksonville, NC",2021.0,52208.5
+"Janesville, WI",2011.0,50298.666666666664
+"Janesville, WI",2012.0,49866.666666666664
+"Janesville, WI",2013.0,49361.666666666664
+"Janesville, WI",2014.0,49440.666666666664
+"Janesville, WI",2015.0,49765.666666666664
+"Janesville, WI",2016.0,50996.333333333336
+"Janesville, WI",2017.0,54194.333333333336
+"Janesville, WI",2018.0,55310.666666666664
+"Janesville, WI",2019.0,56928.333333333336
+"Janesville, WI",2020.0,57289.0
+"Janesville, WI",2021.0,64845.333333333336
+"Jefferson City, MO",2011.0,53119.5
+"Jefferson City, MO",2012.0,52137.0
+"Jefferson City, MO",2013.0,51806.0
+"Jefferson City, MO",2014.0,52596.0
+"Jefferson City, MO",2015.0,52739.5
+"Jefferson City, MO",2016.0,54028.5
+"Jefferson City, MO",2017.0,53928.5
+"Jefferson City, MO",2018.0,56899.0
+"Jefferson City, MO",2019.0,58495.0
+"Jefferson City, MO",2020.0,60264.0
+"Jefferson City, MO",2021.0,64091.0
+"Johnson City, TN",2011.0,40498.0
+"Johnson City, TN",2012.0,42121.0
+"Johnson City, TN",2013.0,41103.666666666664
+"Johnson City, TN",2014.0,42482.333333333336
+"Johnson City, TN",2015.0,42079.0
+"Johnson City, TN",2016.0,43183.333333333336
+"Johnson City, TN",2017.0,43724.333333333336
+"Johnson City, TN",2018.0,45206.666666666664
+"Johnson City, TN",2019.0,47021.333333333336
+"Johnson City, TN",2020.0,46256.333333333336
+"Johnson City, TN",2021.0,50444.666666666664
+"Johnstown, PA",2011.0,35295.0
+"Johnstown, PA",2012.0,35733.0
+"Johnstown, PA",2013.0,35204.0
+"Johnstown, PA",2014.0,35311.0
+"Johnstown, PA",2015.0,35566.2
+"Johnstown, PA",2016.0,36507.0
+"Johnstown, PA",2017.0,36941.4
+"Johnstown, PA",2018.0,38289.0
+"Johnstown, PA",2019.0,38460.6
+"Johnstown, PA",2020.0,40416.8
+"Johnstown, PA",2021.0,43834.4
+"Jonesboro, AR",2011.0,46521.5
+"Jonesboro, AR",2012.0,47785.0
+"Jonesboro, AR",2013.0,46384.5
+"Jonesboro, AR",2014.0,46021.5
+"Jonesboro, AR",2015.0,46035.5
+"Jonesboro, AR",2016.0,47355.5
+"Jonesboro, AR",2017.0,48003.0
+"Jonesboro, AR",2018.0,47859.5
+"Jonesboro, AR",2019.0,51905.0
+"Jonesboro, AR",2020.0,51657.0
+"Jonesboro, AR",2021.0,58356.666666666664
+"Joplin, MO",2011.0,40164.0
+"Joplin, MO",2012.0,40089.0
+"Joplin, MO",2013.0,39702.5
+"Joplin, MO",2014.0,40114.5
+"Joplin, MO",2015.0,40531.5
+"Joplin, MO",2016.0,42013.0
+"Joplin, MO",2017.0,44720.0
+"Joplin, MO",2018.0,46769.0
+"Joplin, MO",2019.0,48964.0
+"Joplin, MO",2020.0,48139.0
+"Joplin, MO",2021.0,50516.0
+"Kahului, HI",2011.0,61132.0
+"Kahului, HI",2012.0,62197.0
+"Kahului, HI",2013.0,62981.0
+"Kahului, HI",2014.0,64692.0
+"Kahului, HI",2015.0,68429.0
+"Kahului, HI",2016.0,70789.0
+"Kahului, HI",2017.0,75584.0
+"Kahului, HI",2018.0,81329.0
+"Kahului, HI",2019.0,83547.0
+"Kahului, HI",2020.0,81129.0
+"Kahului, HI",2021.0,85890.0
+"Kalamazoo, MI",2011.0,35026.8
+"Kalamazoo, MI",2012.0,35189.0
+"Kalamazoo, MI",2013.0,35872.6
+"Kalamazoo, MI",2014.0,38132.8
+"Kalamazoo, MI",2015.0,38531.4
+"Kalamazoo, MI",2016.0,40846.4
+"Kalamazoo, MI",2017.0,42915.8
+"Kalamazoo, MI",2018.0,44230.8
+"Kalamazoo, MI",2019.0,45672.0
+"Kalamazoo, MI",2020.0,47039.2
+"Kalamazoo, MI",2021.0,48392.4
+"Kankakee, IL",2011.0,39833.0
+"Kankakee, IL",2012.0,39537.0
+"Kankakee, IL",2013.0,39915.0
+"Kankakee, IL",2014.0,40325.0
+"Kankakee, IL",2015.0,40273.0
+"Kankakee, IL",2016.0,42391.0
+"Kankakee, IL",2017.0,45542.0
+"Kankakee, IL",2018.0,47629.0
+"Kankakee, IL",2019.0,48319.0
+"Kankakee, IL",2020.0,49090.0
+"Kankakee, IL",2021.0,50202.0
+"Kansas City, MO",2011.0,33958.0
+"Kansas City, MO",2012.0,32906.333333333336
+"Kansas City, MO",2013.0,34366.0
+"Kansas City, MO",2014.0,35029.333333333336
+"Kansas City, MO",2015.0,37754.333333333336
+"Kansas City, MO",2016.0,40502.0
+"Kansas City, MO",2017.0,44300.333333333336
+"Kansas City, MO",2018.0,46704.666666666664
+"Kansas City, MO",2019.0,48047.333333333336
+"Kansas City, MO",2020.0,51227.666666666664
+"Kansas City, MO",2021.0,54822.666666666664
+"Kennewick, WA",2011.0,68910.33333333333
+"Kennewick, WA",2012.0,67285.33333333333
+"Kennewick, WA",2013.0,70795.33333333333
+"Kennewick, WA",2014.0,67239.66666666667
+"Kennewick, WA",2015.0,68582.0
+"Kennewick, WA",2016.0,68788.0
+"Kennewick, WA",2017.0,73829.33333333333
+"Kennewick, WA",2018.0,75044.66666666667
+"Kennewick, WA",2019.0,79520.0
+"Kennewick, WA",2020.0,82432.66666666667
+"Kennewick, WA",2021.0,84351.66666666667
+"Killeen, TX",2011.0,45322.5
+"Killeen, TX",2012.0,44350.25
+"Killeen, TX",2013.0,44733.5
+"Killeen, TX",2014.0,45684.75
+"Killeen, TX",2015.0,44756.75
+"Killeen, TX",2016.0,45410.5
+"Killeen, TX",2017.0,46195.5
+"Killeen, TX",2018.0,47472.75
+"Killeen, TX",2019.0,46983.0
+"Killeen, TX",2020.0,47980.5
+"Killeen, TX",2021.0,49934.25
+"Kingsport, TN",2011.0,42533.5
+"Kingsport, TN",2012.0,43031.5
+"Kingsport, TN",2013.0,40783.5
+"Kingsport, TN",2014.0,40755.25
+"Kingsport, TN",2015.0,40629.0
+"Kingsport, TN",2016.0,41738.0
+"Kingsport, TN",2017.0,41796.0
+"Kingsport, TN",2018.0,43040.25
+"Kingsport, TN",2019.0,46787.5
+"Kingsport, TN",2020.0,48134.25
+"Kingsport, TN",2021.0,51045.0
+"Kingston, NY",2011.0,49503.0
+"Kingston, NY",2012.0,48650.0
+"Kingston, NY",2013.0,47225.0
+"Kingston, NY",2014.0,45782.0
+"Kingston, NY",2015.0,46071.0
+"Kingston, NY",2016.0,48058.0
+"Kingston, NY",2017.0,51016.0
+"Kingston, NY",2018.0,52784.0
+"Kingston, NY",2019.0,56668.0
+"Kingston, NY",2020.0,57830.0
+"Kingston, NY",2021.0,61261.0
+"Knoxville, TN",2011.0,31878.4
+"Knoxville, TN",2012.0,32087.4
+"Knoxville, TN",2013.0,30488.2
+"Knoxville, TN",2014.0,30912.0
+"Knoxville, TN",2015.0,31111.0
+"Knoxville, TN",2016.0,31867.8
+"Knoxville, TN",2017.0,32109.4
+"Knoxville, TN",2018.0,32521.6
+"Knoxville, TN",2019.0,35517.4
+"Knoxville, TN",2020.0,38322.2
+"Knoxville, TN",2021.0,40062.6
+"Kokomo, IN",2011.0,42103.0
+"Kokomo, IN",2012.0,41698.5
+"Kokomo, IN",2013.0,41034.5
+"Kokomo, IN",2014.0,39792.5
+"Kokomo, IN",2015.0,42788.0
+"Kokomo, IN",2016.0,44112.5
+"Kokomo, IN",2017.0,46073.5
+"Kokomo, IN",2018.0,48594.0
+"Kokomo, IN",2019.0,50203.0
+"Kokomo, IN",2020.0,53568.0
+"Kokomo, IN",2021.0,56098.5
+"La Crosse, WI",2011.0,42992.5
+"La Crosse, WI",2012.0,42907.5
+"La Crosse, WI",2013.0,43374.0
+"La Crosse, WI",2014.0,42844.0
+"La Crosse, WI",2015.0,42923.5
+"La Crosse, WI",2016.0,43214.5
+"La Crosse, WI",2017.0,46520.0
+"La Crosse, WI",2018.0,47578.0
+"La Crosse, WI",2019.0,49893.5
+"La Crosse, WI",2020.0,49777.5
+"La Crosse, WI",2021.0,50346.5
+"Lafayette, IN",2011.0,39348.0
+"Lafayette, IN",2012.0,39532.0
+"Lafayette, IN",2013.0,39810.5
+"Lafayette, IN",2014.0,41296.25
+"Lafayette, IN",2015.0,42146.75
+"Lafayette, IN",2016.0,43451.5
+"Lafayette, IN",2017.0,45540.25
+"Lafayette, IN",2018.0,46876.0
+"Lafayette, IN",2019.0,47636.25
+"Lafayette, IN",2020.0,49046.0
+"Lafayette, IN",2021.0,50434.0
+"Lafayette, LA",2011.0,45445.5
+"Lafayette, LA",2012.0,46267.25
+"Lafayette, LA",2013.0,46492.25
+"Lafayette, LA",2014.0,45629.5
+"Lafayette, LA",2015.0,45265.25
+"Lafayette, LA",2016.0,46067.75
+"Lafayette, LA",2017.0,47468.75
+"Lafayette, LA",2018.0,48457.0
+"Lafayette, LA",2019.0,50715.75
+"Lafayette, LA",2020.0,56012.75
+"Lafayette, LA",2021.0,56050.0
+"Lake Charles, LA",2011.0,43766.2
+"Lake Charles, LA",2012.0,44747.0
+"Lake Charles, LA",2013.0,44363.6
+"Lake Charles, LA",2014.0,44849.2
+"Lake Charles, LA",2015.0,45086.0
+"Lake Charles, LA",2016.0,45634.0
+"Lake Charles, LA",2017.0,47586.6
+"Lake Charles, LA",2018.0,49793.4
+"Lake Charles, LA",2019.0,51825.8
+"Lake Charles, LA",2020.0,52965.2
+"Lake Charles, LA",2021.0,60829.4
+"Lake Havasu City, AZ",2011.0,43482.666666666664
+"Lake Havasu City, AZ",2012.0,41837.666666666664
+"Lake Havasu City, AZ",2013.0,41671.666666666664
+"Lake Havasu City, AZ",2014.0,41279.333333333336
+"Lake Havasu City, AZ",2015.0,41662.0
+"Lake Havasu City, AZ",2016.0,43746.0
+"Lake Havasu City, AZ",2017.0,46667.0
+"Lake Havasu City, AZ",2018.0,49920.666666666664
+"Lake Havasu City, AZ",2019.0,53284.333333333336
+"Lake Havasu City, AZ",2020.0,55590.333333333336
+"Lake Havasu City, AZ",2021.0,59363.333333333336
+"Lake Saint Louis, MO",2011.0,84456.0
+"Lake Saint Louis, MO",2012.0,86170.0
+"Lake Saint Louis, MO",2013.0,84756.0
+"Lake Saint Louis, MO",2014.0,82391.0
+"Lake Saint Louis, MO",2015.0,85405.0
+"Lake Saint Louis, MO",2016.0,87379.0
+"Lake Saint Louis, MO",2017.0,91310.0
+"Lake Saint Louis, MO",2018.0,95576.0
+"Lake Saint Louis, MO",2019.0,99543.0
+"Lake Saint Louis, MO",2020.0,107243.0
+"Lake Saint Louis, MO",2021.0,116198.0
+"Lakeland, FL",2011.0,42738.6
+"Lakeland, FL",2012.0,42022.6
+"Lakeland, FL",2013.0,41821.8
+"Lakeland, FL",2014.0,41764.0
+"Lakeland, FL",2015.0,41629.0
+"Lakeland, FL",2016.0,42712.0
+"Lakeland, FL",2017.0,43639.8
+"Lakeland, FL",2018.0,45834.6
+"Lakeland, FL",2019.0,47227.6
+"Lakeland, FL",2020.0,48616.4
+"Lakeland, FL",2021.0,51905.6
+"Lancaster, PA",2011.0,50449.666666666664
+"Lancaster, PA",2012.0,50745.333333333336
+"Lancaster, PA",2013.0,50420.333333333336
+"Lancaster, PA",2014.0,52055.333333333336
+"Lancaster, PA",2015.0,52047.0
+"Lancaster, PA",2016.0,54197.0
+"Lancaster, PA",2017.0,57643.666666666664
+"Lancaster, PA",2018.0,59531.0
+"Lancaster, PA",2019.0,62124.333333333336
+"Lancaster, PA",2020.0,67517.66666666667
+"Lancaster, PA",2021.0,72600.66666666667
+"Lansing, MI",2011.0,40047.4
+"Lansing, MI",2012.0,39434.4
+"Lansing, MI",2013.0,38721.6
+"Lansing, MI",2014.0,37859.4
+"Lansing, MI",2015.0,38023.4
+"Lansing, MI",2016.0,38968.6
+"Lansing, MI",2017.0,40239.6
+"Lansing, MI",2018.0,41893.0
+"Lansing, MI",2019.0,43457.6
+"Lansing, MI",2020.0,45942.6
+"Lansing, MI",2021.0,48401.8
+"Laredo, TX",2011.0,37624.8
+"Laredo, TX",2012.0,38621.6
+"Laredo, TX",2013.0,39180.4
+"Laredo, TX",2014.0,38275.2
+"Laredo, TX",2015.0,38735.8
+"Laredo, TX",2016.0,38525.0
+"Laredo, TX",2017.0,40282.4
+"Laredo, TX",2018.0,42288.4
+"Laredo, TX",2019.0,45690.4
+"Laredo, TX",2020.0,47846.4
+"Laredo, TX",2021.0,52132.0
+"Las Cruces, NM",2011.0,43726.0
+"Las Cruces, NM",2012.0,44971.4
+"Las Cruces, NM",2013.0,44613.8
+"Las Cruces, NM",2014.0,44759.4
+"Las Cruces, NM",2015.0,44779.0
+"Las Cruces, NM",2016.0,44066.4
+"Las Cruces, NM",2017.0,44196.6
+"Las Cruces, NM",2018.0,44689.6
+"Las Cruces, NM",2019.0,47058.6
+"Las Cruces, NM",2020.0,49115.2
+"Las Cruces, NM",2021.0,51765.0
+"Las Vegas, NV",2011.0,33999.0
+"Las Vegas, NV",2012.0,32239.2
+"Las Vegas, NV",2013.0,30975.2
+"Las Vegas, NV",2014.0,30994.4
+"Las Vegas, NV",2015.0,30445.4
+"Las Vegas, NV",2016.0,31006.6
+"Las Vegas, NV",2017.0,32737.4
+"Las Vegas, NV",2018.0,33412.2
+"Las Vegas, NV",2019.0,34186.0
+"Las Vegas, NV",2020.0,35801.0
+"Las Vegas, NV",2021.0,38203.2
+"Lawrence, KS",2011.0,46488.75
+"Lawrence, KS",2012.0,47652.0
+"Lawrence, KS",2013.0,49307.75
+"Lawrence, KS",2014.0,49504.25
+"Lawrence, KS",2015.0,48814.0
+"Lawrence, KS",2016.0,50166.5
+"Lawrence, KS",2017.0,51638.5
+"Lawrence, KS",2018.0,51955.25
+"Lawrence, KS",2019.0,55751.25
+"Lawrence, KS",2020.0,57431.75
+"Lawrence, KS",2021.0,59575.75
+"Lawton, OK",2011.0,44689.333333333336
+"Lawton, OK",2012.0,45464.0
+"Lawton, OK",2013.0,44111.333333333336
+"Lawton, OK",2014.0,43884.666666666664
+"Lawton, OK",2015.0,42957.666666666664
+"Lawton, OK",2016.0,43676.0
+"Lawton, OK",2017.0,44207.666666666664
+"Lawton, OK",2018.0,47198.333333333336
+"Lawton, OK",2019.0,48110.666666666664
+"Lawton, OK",2020.0,48368.666666666664
+"Lawton, OK",2021.0,52708.0
+"Lebanon, PA",2011.0,49184.5
+"Lebanon, PA",2012.0,49980.5
+"Lebanon, PA",2013.0,50605.0
+"Lebanon, PA",2014.0,52542.0
+"Lebanon, PA",2015.0,50911.0
+"Lebanon, PA",2016.0,52463.5
+"Lebanon, PA",2017.0,54021.5
+"Lebanon, PA",2018.0,54264.5
+"Lebanon, PA",2019.0,55224.5
+"Lebanon, PA",2020.0,55055.5
+"Lebanon, PA",2021.0,57742.0
+"Lewiston, ID",2011.0,44430.0
+"Lewiston, ID",2012.0,45354.0
+"Lewiston, ID",2013.0,46046.0
+"Lewiston, ID",2014.0,45712.0
+"Lewiston, ID",2015.0,47839.0
+"Lewiston, ID",2016.0,49476.0
+"Lewiston, ID",2017.0,52285.0
+"Lewiston, ID",2018.0,54792.0
+"Lewiston, ID",2019.0,58611.0
+"Lewiston, ID",2020.0,57362.0
+"Lewiston, ID",2021.0,62388.0
+"Lewiston, ME",2011.0,37941.0
+"Lewiston, ME",2012.0,36600.0
+"Lewiston, ME",2013.0,36035.0
+"Lewiston, ME",2014.0,36696.0
+"Lewiston, ME",2015.0,37500.0
+"Lewiston, ME",2016.0,38199.0
+"Lewiston, ME",2017.0,39890.0
+"Lewiston, ME",2018.0,41371.0
+"Lewiston, ME",2019.0,44523.0
+"Lewiston, ME",2020.0,42969.0
+"Lewiston, ME",2021.0,48069.0
+"Lexington, KY",2011.0,40090.8
+"Lexington, KY",2012.0,39850.6
+"Lexington, KY",2013.0,39641.2
+"Lexington, KY",2014.0,39874.2
+"Lexington, KY",2015.0,40635.2
+"Lexington, KY",2016.0,41198.6
+"Lexington, KY",2017.0,42843.8
+"Lexington, KY",2018.0,45269.0
+"Lexington, KY",2019.0,48611.2
+"Lexington, KY",2020.0,48917.6
+"Lexington, KY",2021.0,51638.4
+"Lima, OH",2011.0,44217.4
+"Lima, OH",2012.0,43999.0
+"Lima, OH",2013.0,43298.2
+"Lima, OH",2014.0,44593.6
+"Lima, OH",2015.0,45572.6
+"Lima, OH",2016.0,46340.8
+"Lima, OH",2017.0,48610.0
+"Lima, OH",2018.0,50538.0
+"Lima, OH",2019.0,52922.6
+"Lima, OH",2020.0,52155.6
+"Lima, OH",2021.0,56477.2
+"Lincoln, NE",2011.0,41918.2
+"Lincoln, NE",2012.0,42078.8
+"Lincoln, NE",2013.0,42375.4
+"Lincoln, NE",2014.0,42408.2
+"Lincoln, NE",2015.0,42258.0
+"Lincoln, NE",2016.0,43636.4
+"Lincoln, NE",2017.0,46004.0
+"Lincoln, NE",2018.0,48323.8
+"Lincoln, NE",2019.0,49842.2
+"Lincoln, NE",2020.0,51723.0
+"Lincoln, NE",2021.0,54434.8
+"Little Rock, AR",2011.0,35983.6
+"Little Rock, AR",2012.0,38896.4
+"Little Rock, AR",2013.0,38238.0
+"Little Rock, AR",2014.0,42877.2
+"Little Rock, AR",2015.0,42858.6
+"Little Rock, AR",2016.0,43738.8
+"Little Rock, AR",2017.0,44246.4
+"Little Rock, AR",2018.0,44095.8
+"Little Rock, AR",2019.0,45422.8
+"Little Rock, AR",2020.0,53686.6
+"Little Rock, AR",2021.0,51334.2
+"Logan, UT",2011.0,42564.0
+"Logan, UT",2012.0,43122.0
+"Logan, UT",2013.0,43762.0
+"Logan, UT",2014.0,43794.5
+"Logan, UT",2015.0,43745.0
+"Logan, UT",2016.0,44863.0
+"Logan, UT",2017.0,45371.5
+"Logan, UT",2018.0,48395.5
+"Logan, UT",2019.0,48608.0
+"Logan, UT",2020.0,50735.0
+"Logan, UT",2021.0,53253.0
+"Longview, TX",2011.0,43289.0
+"Longview, TX",2012.0,44731.8
+"Longview, TX",2013.0,45131.4
+"Longview, TX",2014.0,44586.8
+"Longview, TX",2015.0,44794.2
+"Longview, TX",2016.0,45791.0
+"Longview, TX",2017.0,46599.8
+"Longview, TX",2018.0,48718.0
+"Longview, TX",2019.0,49736.2
+"Longview, TX",2020.0,51971.4
+"Longview, TX",2021.0,56395.2
+"Longview, WA",2011.0,43673.0
+"Longview, WA",2012.0,43690.0
+"Longview, WA",2013.0,42930.0
+"Longview, WA",2014.0,41732.0
+"Longview, WA",2015.0,41515.0
+"Longview, WA",2016.0,41824.0
+"Longview, WA",2017.0,42144.0
+"Longview, WA",2018.0,44385.0
+"Longview, WA",2019.0,47774.0
+"Longview, WA",2020.0,51188.0
+"Longview, WA",2021.0,55275.0
+"Los Angeles, CA",2011.0,33464.8
+"Los Angeles, CA",2012.0,33529.4
+"Los Angeles, CA",2013.0,33182.0
+"Los Angeles, CA",2014.0,32797.4
+"Los Angeles, CA",2015.0,33371.8
+"Los Angeles, CA",2016.0,34677.2
+"Los Angeles, CA",2017.0,36619.8
+"Los Angeles, CA",2018.0,39012.0
+"Los Angeles, CA",2019.0,41881.8
+"Los Angeles, CA",2020.0,45529.8
+"Los Angeles, CA",2021.0,49311.6
+"Louisville, KY",2011.0,38275.8
+"Louisville, KY",2012.0,37791.0
+"Louisville, KY",2013.0,37672.2
+"Louisville, KY",2014.0,38330.0
+"Louisville, KY",2015.0,38209.2
+"Louisville, KY",2016.0,39166.8
+"Louisville, KY",2017.0,41964.4
+"Louisville, KY",2018.0,43787.8
+"Louisville, KY",2019.0,45956.0
+"Louisville, KY",2020.0,47177.2
+"Louisville, KY",2021.0,51118.2
+"Lubbock, TX",2011.0,25544.333333333332
+"Lubbock, TX",2012.0,25265.666666666668
+"Lubbock, TX",2013.0,24812.666666666668
+"Lubbock, TX",2014.0,25248.0
+"Lubbock, TX",2015.0,26838.333333333332
+"Lubbock, TX",2016.0,29126.0
+"Lubbock, TX",2017.0,30152.333333333332
+"Lubbock, TX",2018.0,29981.0
+"Lubbock, TX",2019.0,31972.333333333332
+"Lubbock, TX",2020.0,33006.666666666664
+"Lubbock, TX",2021.0,32676.0
+"Lynchburg, VA",2011.0,43191.75
+"Lynchburg, VA",2012.0,42893.5
+"Lynchburg, VA",2013.0,42179.25
+"Lynchburg, VA",2014.0,43016.25
+"Lynchburg, VA",2015.0,43371.25
+"Lynchburg, VA",2016.0,44519.0
+"Lynchburg, VA",2017.0,46044.0
+"Lynchburg, VA",2018.0,49018.0
+"Lynchburg, VA",2019.0,51227.75
+"Lynchburg, VA",2020.0,52141.25
+"Lynchburg, VA",2021.0,56283.0
+"Macon, GA",2011.0,34829.2
+"Macon, GA",2012.0,34541.2
+"Macon, GA",2013.0,33890.6
+"Macon, GA",2014.0,32896.0
+"Macon, GA",2015.0,32528.4
+"Macon, GA",2016.0,32421.8
+"Macon, GA",2017.0,34028.6
+"Macon, GA",2018.0,36008.6
+"Macon, GA",2019.0,36784.8
+"Macon, GA",2020.0,36254.8
+"Macon, GA",2021.0,38925.8
+"Madera, CA",2011.0,53562.0
+"Madera, CA",2012.0,54265.0
+"Madera, CA",2013.0,53597.333333333336
+"Madera, CA",2014.0,53723.666666666664
+"Madera, CA",2015.0,52035.333333333336
+"Madera, CA",2016.0,54230.0
+"Madera, CA",2017.0,55932.666666666664
+"Madera, CA",2018.0,57803.333333333336
+"Madera, CA",2019.0,62083.333333333336
+"Madera, CA",2020.0,70028.66666666667
+"Madera, CA",2021.0,74644.33333333333
+"Madison, WI",2011.0,51587.8
+"Madison, WI",2012.0,52273.6
+"Madison, WI",2013.0,46820.8
+"Madison, WI",2014.0,48073.6
+"Madison, WI",2015.0,53604.75
+"Madison, WI",2016.0,55696.5
+"Madison, WI",2017.0,48966.4
+"Madison, WI",2018.0,50983.6
+"Madison, WI",2019.0,53643.2
+"Madison, WI",2020.0,54818.8
+"Madison, WI",2021.0,68887.5
+"Manchester, NH",2011.0,50707.2
+"Manchester, NH",2012.0,52019.2
+"Manchester, NH",2013.0,53281.4
+"Manchester, NH",2014.0,55291.4
+"Manchester, NH",2015.0,52815.0
+"Manchester, NH",2016.0,54432.6
+"Manchester, NH",2017.0,56144.8
+"Manchester, NH",2018.0,56854.2
+"Manchester, NH",2019.0,58669.0
+"Manchester, NH",2020.0,62991.4
+"Manchester, NH",2021.0,68352.4
+"Manhattan, KS",2011.0,52110.0
+"Manhattan, KS",2012.0,37685.0
+"Manhattan, KS",2013.0,38783.333333333336
+"Manhattan, KS",2014.0,41189.333333333336
+"Manhattan, KS",2015.0,41734.333333333336
+"Manhattan, KS",2016.0,42725.0
+"Manhattan, KS",2017.0,61006.0
+"Manhattan, KS",2018.0,62801.5
+"Manhattan, KS",2019.0,62241.5
+"Manhattan, KS",2020.0,64049.5
+"Manhattan, KS",2021.0,67533.0
+"Mankato, MN",2011.0,53867.0
+"Mankato, MN",2012.0,53094.0
+"Mankato, MN",2013.0,53826.0
+"Mankato, MN",2014.0,51884.5
+"Mankato, MN",2015.0,50509.5
+"Mankato, MN",2016.0,53252.0
+"Mankato, MN",2017.0,55825.5
+"Mankato, MN",2018.0,57592.0
+"Mankato, MN",2019.0,61149.0
+"Mankato, MN",2020.0,65377.0
+"Mankato, MN",2021.0,68121.5
+"Mansfield, OH",2011.0,42489.4
+"Mansfield, OH",2012.0,40789.4
+"Mansfield, OH",2013.0,40460.6
+"Mansfield, OH",2014.0,40547.2
+"Mansfield, OH",2015.0,39404.4
+"Mansfield, OH",2016.0,40191.0
+"Mansfield, OH",2017.0,41417.2
+"Mansfield, OH",2018.0,44445.4
+"Mansfield, OH",2019.0,46805.6
+"Mansfield, OH",2020.0,46622.0
+"Mansfield, OH",2021.0,48972.0
+"Mcallen, TX",2011.0,42151.0
+"Mcallen, TX",2012.0,43544.666666666664
+"Mcallen, TX",2013.0,42717.0
+"Mcallen, TX",2014.0,43544.666666666664
+"Mcallen, TX",2015.0,43785.666666666664
+"Mcallen, TX",2016.0,44622.333333333336
+"Mcallen, TX",2017.0,43659.666666666664
+"Mcallen, TX",2018.0,44581.333333333336
+"Mcallen, TX",2019.0,45157.0
+"Mcallen, TX",2020.0,46483.333333333336
+"Mcallen, TX",2021.0,50571.666666666664
+"Medford, OR",2011.0,42212.5
+"Medford, OR",2012.0,42663.5
+"Medford, OR",2013.0,42538.5
+"Medford, OR",2014.0,42926.0
+"Medford, OR",2015.0,42789.5
+"Medford, OR",2016.0,44621.0
+"Medford, OR",2017.0,46187.5
+"Medford, OR",2018.0,48618.0
+"Medford, OR",2019.0,50888.5
+"Medford, OR",2020.0,55542.0
+"Medford, OR",2021.0,60826.0
+"Memphis, TN",2011.0,33331.6
+"Memphis, TN",2012.0,32494.2
+"Memphis, TN",2013.0,31931.8
+"Memphis, TN",2014.0,33084.2
+"Memphis, TN",2015.0,32642.0
+"Memphis, TN",2016.0,33025.2
+"Memphis, TN",2017.0,34415.6
+"Memphis, TN",2018.0,36492.2
+"Memphis, TN",2019.0,37867.0
+"Memphis, TN",2020.0,38646.4
+"Memphis, TN",2021.0,42410.2
+"Merced, CA",2011.0,41355.0
+"Merced, CA",2012.0,43097.333333333336
+"Merced, CA",2013.0,40563.0
+"Merced, CA",2014.0,40941.333333333336
+"Merced, CA",2015.0,39807.333333333336
+"Merced, CA",2016.0,41677.333333333336
+"Merced, CA",2017.0,42747.0
+"Merced, CA",2018.0,46129.666666666664
+"Merced, CA",2019.0,48259.0
+"Merced, CA",2020.0,51609.333333333336
+"Merced, CA",2021.0,53117.0
+"Miami, FL",2011.0,26075.5
+"Miami, FL",2012.0,24607.5
+"Miami, FL",2013.0,25038.25
+"Miami, FL",2014.0,24794.75
+"Miami, FL",2015.0,24632.0
+"Miami, FL",2016.0,25648.75
+"Miami, FL",2017.0,34701.2
+"Miami, FL",2018.0,27997.0
+"Miami, FL",2019.0,33444.2
+"Miami, FL",2020.0,44459.6
+"Miami, FL",2021.0,43430.0
+"Michigan City, IN",2011.0,41493.0
+"Michigan City, IN",2012.0,43211.0
+"Michigan City, IN",2013.0,42396.0
+"Michigan City, IN",2014.0,40419.0
+"Michigan City, IN",2015.0,40547.0
+"Michigan City, IN",2016.0,42219.0
+"Michigan City, IN",2017.0,42642.0
+"Michigan City, IN",2018.0,43816.0
+"Michigan City, IN",2019.0,46300.0
+"Michigan City, IN",2020.0,50075.0
+"Michigan City, IN",2021.0,52026.0
+"Midland, MI",2011.0,53748.5
+"Midland, MI",2012.0,54575.5
+"Midland, MI",2013.0,54721.0
+"Midland, MI",2014.0,54105.0
+"Midland, MI",2015.0,56577.5
+"Midland, MI",2016.0,58234.5
+"Midland, MI",2017.0,60133.5
+"Midland, MI",2018.0,62066.0
+"Midland, MI",2019.0,65505.0
+"Midland, MI",2020.0,66979.5
+"Midland, MI",2021.0,69828.0
+"Midland, TX",2011.0,57445.0
+"Midland, TX",2012.0,58373.8
+"Midland, TX",2013.0,61360.2
+"Midland, TX",2014.0,64695.0
+"Midland, TX",2015.0,67592.8
+"Midland, TX",2016.0,71383.0
+"Midland, TX",2017.0,76191.2
+"Midland, TX",2018.0,78951.4
+"Midland, TX",2019.0,79498.4
+"Midland, TX",2020.0,83432.2
+"Midland, TX",2021.0,87324.8
+"Milwaukee, WI",2011.0,31497.0
+"Milwaukee, WI",2012.0,34125.4
+"Milwaukee, WI",2013.0,36913.8
+"Milwaukee, WI",2014.0,35639.2
+"Milwaukee, WI",2015.0,35853.0
+"Milwaukee, WI",2016.0,36718.2
+"Milwaukee, WI",2017.0,38564.4
+"Milwaukee, WI",2018.0,38274.6
+"Milwaukee, WI",2019.0,40979.8
+"Milwaukee, WI",2020.0,42100.4
+"Milwaukee, WI",2021.0,44636.8
+"Minneapolis, MN",2011.0,45207.6
+"Minneapolis, MN",2012.0,45421.0
+"Minneapolis, MN",2013.0,46735.8
+"Minneapolis, MN",2014.0,45724.6
+"Minneapolis, MN",2015.0,49070.5
+"Minneapolis, MN",2016.0,51512.0
+"Minneapolis, MN",2017.0,54042.0
+"Minneapolis, MN",2018.0,54955.4
+"Minneapolis, MN",2019.0,57707.4
+"Minneapolis, MN",2020.0,61932.8
+"Minneapolis, MN",2021.0,65033.8
+"Missoula, MT",2011.0,46872.8
+"Missoula, MT",2012.0,46935.0
+"Missoula, MT",2013.0,47740.6
+"Missoula, MT",2014.0,49297.4
+"Missoula, MT",2015.0,50397.6
+"Missoula, MT",2016.0,50985.8
+"Missoula, MT",2017.0,52401.2
+"Missoula, MT",2018.0,54129.6
+"Missoula, MT",2019.0,58022.2
+"Missoula, MT",2020.0,62277.4
+"Missoula, MT",2021.0,66326.2
+"Mobile, AL",2011.0,33498.2
+"Mobile, AL",2012.0,30194.8
+"Mobile, AL",2013.0,29530.0
+"Mobile, AL",2014.0,29485.8
+"Mobile, AL",2015.0,29495.6
+"Mobile, AL",2016.0,29483.0
+"Mobile, AL",2017.0,30839.8
+"Mobile, AL",2018.0,32105.4
+"Mobile, AL",2019.0,34622.6
+"Mobile, AL",2020.0,35706.2
+"Mobile, AL",2021.0,36319.2
+"Modesto, CA",2011.0,46705.4
+"Modesto, CA",2012.0,46225.6
+"Modesto, CA",2013.0,44826.0
+"Modesto, CA",2014.0,46660.2
+"Modesto, CA",2015.0,47189.4
+"Modesto, CA",2016.0,49534.2
+"Modesto, CA",2017.0,52024.2
+"Modesto, CA",2018.0,55039.4
+"Modesto, CA",2019.0,56511.4
+"Modesto, CA",2020.0,59518.0
+"Modesto, CA",2021.0,64347.2
+"Monroe, LA",2011.0,35112.666666666664
+"Monroe, LA",2012.0,34552.666666666664
+"Monroe, LA",2013.0,35374.0
+"Monroe, LA",2014.0,36053.333333333336
+"Monroe, LA",2015.0,35651.0
+"Monroe, LA",2016.0,36186.666666666664
+"Monroe, LA",2017.0,36973.666666666664
+"Monroe, LA",2018.0,37519.0
+"Monroe, LA",2019.0,36432.333333333336
+"Monroe, LA",2020.0,39261.0
+"Monroe, LA",2021.0,38934.666666666664
+"Monroe, MI",2011.0,47471.5
+"Monroe, MI",2012.0,45109.0
+"Monroe, MI",2013.0,44673.0
+"Monroe, MI",2014.0,45860.5
+"Monroe, MI",2015.0,46624.5
+"Monroe, MI",2016.0,47494.5
+"Monroe, MI",2017.0,51187.0
+"Monroe, MI",2018.0,52267.5
+"Monroe, MI",2019.0,54138.5
+"Monroe, MI",2020.0,57316.5
+"Monroe, MI",2021.0,61318.5
+"Montgomery, AL",2011.0,32361.2
+"Montgomery, AL",2012.0,31328.4
+"Montgomery, AL",2013.0,32868.0
+"Montgomery, AL",2014.0,30893.0
+"Montgomery, AL",2015.0,29915.0
+"Montgomery, AL",2016.0,30593.4
+"Montgomery, AL",2017.0,32596.4
+"Montgomery, AL",2018.0,33010.8
+"Montgomery, AL",2019.0,34419.4
+"Montgomery, AL",2020.0,35662.8
+"Montgomery, AL",2021.0,37263.4
+"Morgantown, WV",2011.0,41538.333333333336
+"Morgantown, WV",2012.0,42064.0
+"Morgantown, WV",2013.0,44511.666666666664
+"Morgantown, WV",2014.0,46928.666666666664
+"Morgantown, WV",2015.0,46197.666666666664
+"Morgantown, WV",2016.0,48213.333333333336
+"Morgantown, WV",2017.0,51666.333333333336
+"Morgantown, WV",2018.0,52226.0
+"Morgantown, WV",2019.0,54836.666666666664
+"Morgantown, WV",2020.0,57206.666666666664
+"Morgantown, WV",2021.0,57299.333333333336
+"Morristown, TN",2011.0,37650.0
+"Morristown, TN",2012.0,37983.0
+"Morristown, TN",2013.0,38162.0
+"Morristown, TN",2014.0,36372.0
+"Morristown, TN",2015.0,35547.5
+"Morristown, TN",2016.0,37265.5
+"Morristown, TN",2017.0,39499.0
+"Morristown, TN",2018.0,39733.5
+"Morristown, TN",2019.0,41026.0
+"Morristown, TN",2020.0,40868.0
+"Morristown, TN",2021.0,42534.0
+"Mount Vernon, WA",2011.0,53803.5
+"Mount Vernon, WA",2012.0,54673.0
+"Mount Vernon, WA",2013.0,55089.5
+"Mount Vernon, WA",2014.0,53850.5
+"Mount Vernon, WA",2015.0,54918.0
+"Mount Vernon, WA",2016.0,57094.0
+"Mount Vernon, WA",2017.0,59467.0
+"Mount Vernon, WA",2018.0,63545.5
+"Mount Vernon, WA",2019.0,70983.0
+"Mount Vernon, WA",2020.0,71913.0
+"Mount Vernon, WA",2021.0,74445.0
+"Muncie, IN",2011.0,32989.25
+"Muncie, IN",2012.0,33078.0
+"Muncie, IN",2013.0,32014.75
+"Muncie, IN",2014.0,32715.0
+"Muncie, IN",2015.0,32555.0
+"Muncie, IN",2016.0,33596.25
+"Muncie, IN",2017.0,34928.25
+"Muncie, IN",2018.0,36958.75
+"Muncie, IN",2019.0,37637.5
+"Muncie, IN",2020.0,39017.0
+"Muncie, IN",2021.0,40688.75
+"Muskegon, MI",2011.0,35592.8
+"Muskegon, MI",2012.0,35847.2
+"Muskegon, MI",2013.0,35690.0
+"Muskegon, MI",2014.0,36507.6
+"Muskegon, MI",2015.0,37337.0
+"Muskegon, MI",2016.0,36800.0
+"Muskegon, MI",2017.0,38601.6
+"Muskegon, MI",2018.0,40725.4
+"Muskegon, MI",2019.0,42614.4
+"Muskegon, MI",2020.0,45050.4
+"Muskegon, MI",2021.0,50119.6
+"Myrtle Beach, SC",2011.0,44741.0
+"Myrtle Beach, SC",2012.0,44981.8
+"Myrtle Beach, SC",2013.0,45355.4
+"Myrtle Beach, SC",2014.0,45234.2
+"Myrtle Beach, SC",2015.0,43947.0
+"Myrtle Beach, SC",2016.0,46012.0
+"Myrtle Beach, SC",2017.0,47933.6
+"Myrtle Beach, SC",2018.0,49949.6
+"Myrtle Beach, SC",2019.0,52123.8
+"Myrtle Beach, SC",2020.0,54237.8
+"Myrtle Beach, SC",2021.0,56718.0
+"Napa, CA",2011.0,64295.5
+"Napa, CA",2012.0,65145.5
+"Napa, CA",2013.0,64590.5
+"Napa, CA",2014.0,65541.5
+"Napa, CA",2015.0,68110.0
+"Napa, CA",2016.0,71595.0
+"Napa, CA",2017.0,76108.0
+"Napa, CA",2018.0,81086.5
+"Napa, CA",2019.0,85006.5
+"Napa, CA",2020.0,87359.5
+"Napa, CA",2021.0,93696.5
+"Naples, FL",2011.0,65616.8
+"Naples, FL",2012.0,66507.2
+"Naples, FL",2013.0,66513.0
+"Naples, FL",2014.0,67760.2
+"Naples, FL",2015.0,68672.6
+"Naples, FL",2016.0,71477.6
+"Naples, FL",2017.0,75862.4
+"Naples, FL",2018.0,79300.8
+"Naples, FL",2019.0,84624.4
+"Naples, FL",2020.0,88387.0
+"Naples, FL",2021.0,92227.2
+"Nashville, TN",2011.0,51104.2
+"Nashville, TN",2012.0,51881.2
+"Nashville, TN",2013.0,53117.8
+"Nashville, TN",2014.0,55419.0
+"Nashville, TN",2015.0,58333.6
+"Nashville, TN",2016.0,60800.8
+"Nashville, TN",2017.0,67586.4
+"Nashville, TN",2018.0,73107.0
+"Nashville, TN",2019.0,77216.0
+"Nashville, TN",2020.0,82950.8
+"Nashville, TN",2021.0,89061.8
+"New Bern, NC",2011.0,46270.0
+"New Bern, NC",2012.0,47521.0
+"New Bern, NC",2013.0,48822.0
+"New Bern, NC",2014.0,48915.5
+"New Bern, NC",2015.0,48977.5
+"New Bern, NC",2016.0,49105.0
+"New Bern, NC",2017.0,50425.5
+"New Bern, NC",2018.0,51862.5
+"New Bern, NC",2019.0,54540.0
+"New Bern, NC",2020.0,57809.5
+"New Bern, NC",2021.0,60981.5
+"New Haven, CT",2011.0,39140.2
+"New Haven, CT",2012.0,39210.6
+"New Haven, CT",2013.0,38394.8
+"New Haven, CT",2014.0,38730.6
+"New Haven, CT",2015.0,38877.2
+"New Haven, CT",2016.0,40488.6
+"New Haven, CT",2017.0,41837.2
+"New Haven, CT",2018.0,44024.8
+"New Haven, CT",2019.0,46007.2
+"New Haven, CT",2020.0,50537.6
+"New Haven, CT",2021.0,53150.8
+"New Orleans, LA",2011.0,30238.6
+"New Orleans, LA",2012.0,30302.8
+"New Orleans, LA",2013.0,30859.2
+"New Orleans, LA",2014.0,30900.0
+"New Orleans, LA",2015.0,31918.2
+"New Orleans, LA",2016.0,36078.0
+"New Orleans, LA",2017.0,37527.8
+"New Orleans, LA",2018.0,39115.0
+"New Orleans, LA",2019.0,40187.0
+"New Orleans, LA",2020.0,40612.0
+"New Orleans, LA",2021.0,42474.2
+"New York, NY",2011.0,86827.2
+"New York, NY",2012.0,89636.0
+"New York, NY",2013.0,92282.4
+"New York, NY",2014.0,91436.8
+"New York, NY",2015.0,92512.6
+"New York, NY",2016.0,94945.0
+"New York, NY",2017.0,103954.8
+"New York, NY",2018.0,113498.8
+"New York, NY",2019.0,125581.6
+"New York, NY",2020.0,130401.0
+"New York, NY",2021.0,137848.0
+"Niles, MI",2011.0,41974.0
+"Niles, MI",2012.0,42233.0
+"Niles, MI",2013.0,41693.0
+"Niles, MI",2014.0,42295.0
+"Niles, MI",2015.0,42218.0
+"Niles, MI",2016.0,42974.0
+"Niles, MI",2017.0,43969.0
+"Niles, MI",2018.0,47348.0
+"Niles, MI",2019.0,49409.0
+"Niles, MI",2020.0,52998.0
+"Niles, MI",2021.0,55905.0
+"North Port, FL",2011.0,48350.6
+"North Port, FL",2012.0,50043.2
+"North Port, FL",2013.0,44209.6
+"North Port, FL",2014.0,48249.6
+"North Port, FL",2015.0,48761.0
+"North Port, FL",2016.0,49903.2
+"North Port, FL",2017.0,52071.2
+"North Port, FL",2018.0,56927.2
+"North Port, FL",2019.0,59997.4
+"North Port, FL",2020.0,66165.0
+"North Port, FL",2021.0,70297.0
+"Norwich, CT",2011.0,51525.0
+"Norwich, CT",2012.0,51588.0
+"Norwich, CT",2013.0,49620.0
+"Norwich, CT",2014.0,50586.0
+"Norwich, CT",2015.0,50822.0
+"Norwich, CT",2016.0,52275.0
+"Norwich, CT",2017.0,54407.0
+"Norwich, CT",2018.0,56177.0
+"Norwich, CT",2019.0,58269.0
+"Norwich, CT",2020.0,58409.0
+"Norwich, CT",2021.0,61145.0
+"Ocala, FL",2011.0,40169.6
+"Ocala, FL",2012.0,39865.0
+"Ocala, FL",2013.0,39705.6
+"Ocala, FL",2014.0,39899.0
+"Ocala, FL",2015.0,39131.6
+"Ocala, FL",2016.0,40488.4
+"Ocala, FL",2017.0,42728.0
+"Ocala, FL",2018.0,44918.2
+"Ocala, FL",2019.0,47036.6
+"Ocala, FL",2020.0,50187.8
+"Ocala, FL",2021.0,53287.6
+"Ocean City, NJ",2011.0,57226.0
+"Ocean City, NJ",2012.0,56463.0
+"Ocean City, NJ",2013.0,57970.0
+"Ocean City, NJ",2014.0,59522.0
+"Ocean City, NJ",2015.0,57813.0
+"Ocean City, NJ",2016.0,61786.0
+"Ocean City, NJ",2017.0,72715.0
+"Ocean City, NJ",2018.0,70871.0
+"Ocean City, NJ",2019.0,81076.0
+"Ocean City, NJ",2020.0,87060.0
+"Ocean City, NJ",2021.0,88414.0
+"Odessa, TX",2011.0,54116.4
+"Odessa, TX",2012.0,55351.2
+"Odessa, TX",2013.0,56912.4
+"Odessa, TX",2014.0,59158.8
+"Odessa, TX",2015.0,62161.4
+"Odessa, TX",2016.0,62462.6
+"Odessa, TX",2017.0,63237.6
+"Odessa, TX",2018.0,64685.0
+"Odessa, TX",2019.0,66757.8
+"Odessa, TX",2020.0,66938.2
+"Odessa, TX",2021.0,68721.2
+"Ogden, UT",2011.0,56069.6
+"Ogden, UT",2012.0,55402.0
+"Ogden, UT",2013.0,55113.8
+"Ogden, UT",2014.0,55488.2
+"Ogden, UT",2015.0,55974.4
+"Ogden, UT",2016.0,58445.2
+"Ogden, UT",2017.0,60560.0
+"Ogden, UT",2018.0,64387.0
+"Ogden, UT",2019.0,67480.8
+"Ogden, UT",2020.0,71918.0
+"Ogden, UT",2021.0,75275.8
+"Oklahoma City, OK",2011.0,34410.0
+"Oklahoma City, OK",2012.0,35828.6
+"Oklahoma City, OK",2013.0,38356.2
+"Oklahoma City, OK",2014.0,40054.8
+"Oklahoma City, OK",2015.0,40970.0
+"Oklahoma City, OK",2016.0,43187.0
+"Oklahoma City, OK",2017.0,44509.4
+"Oklahoma City, OK",2018.0,47992.6
+"Oklahoma City, OK",2019.0,49444.6
+"Oklahoma City, OK",2020.0,50939.2
+"Oklahoma City, OK",2021.0,53095.0
+"Olympia, WA",2011.0,62800.0
+"Olympia, WA",2012.0,64159.2
+"Olympia, WA",2013.0,63971.0
+"Olympia, WA",2014.0,65021.2
+"Olympia, WA",2015.0,64503.2
+"Olympia, WA",2016.0,66080.4
+"Olympia, WA",2017.0,67722.0
+"Olympia, WA",2018.0,70666.4
+"Olympia, WA",2019.0,73395.6
+"Olympia, WA",2020.0,79036.0
+"Olympia, WA",2021.0,83006.4
+"Omaha, NE",2011.0,39069.6
+"Omaha, NE",2012.0,40324.2
+"Omaha, NE",2013.0,41209.2
+"Omaha, NE",2014.0,39921.8
+"Omaha, NE",2015.0,41067.8
+"Omaha, NE",2016.0,42646.0
+"Omaha, NE",2017.0,45434.0
+"Omaha, NE",2018.0,47832.4
+"Omaha, NE",2019.0,50462.4
+"Omaha, NE",2020.0,53238.6
+"Omaha, NE",2021.0,56505.0
+"Orlando, FL",2011.0,47772.6
+"Orlando, FL",2012.0,46490.0
+"Orlando, FL",2013.0,46949.2
+"Orlando, FL",2014.0,47989.6
+"Orlando, FL",2015.0,49688.4
+"Orlando, FL",2016.0,50922.4
+"Orlando, FL",2017.0,53442.6
+"Orlando, FL",2018.0,56176.2
+"Orlando, FL",2019.0,61192.8
+"Orlando, FL",2020.0,67779.6
+"Orlando, FL",2021.0,73455.8
+"Oshkosh, WI",2011.0,52532.0
+"Oshkosh, WI",2012.0,51572.0
+"Oshkosh, WI",2013.0,50391.0
+"Oshkosh, WI",2014.0,51225.333333333336
+"Oshkosh, WI",2015.0,50441.333333333336
+"Oshkosh, WI",2016.0,51964.0
+"Oshkosh, WI",2017.0,53326.666666666664
+"Oshkosh, WI",2018.0,55662.666666666664
+"Oshkosh, WI",2019.0,59136.666666666664
+"Oshkosh, WI",2020.0,60129.0
+"Oshkosh, WI",2021.0,64316.333333333336
+"Owensboro, KY",2011.0,42872.0
+"Owensboro, KY",2012.0,43959.0
+"Owensboro, KY",2013.0,44860.5
+"Owensboro, KY",2014.0,43972.5
+"Owensboro, KY",2015.0,44078.0
+"Owensboro, KY",2016.0,44562.5
+"Owensboro, KY",2017.0,46063.5
+"Owensboro, KY",2018.0,47455.0
+"Owensboro, KY",2019.0,49315.5
+"Owensboro, KY",2020.0,52540.5
+"Owensboro, KY",2021.0,55081.5
+"Oxnard, CA",2011.0,63544.0
+"Oxnard, CA",2012.0,64360.0
+"Oxnard, CA",2013.0,63660.25
+"Oxnard, CA",2014.0,65452.25
+"Oxnard, CA",2015.0,63588.0
+"Oxnard, CA",2016.0,64072.25
+"Oxnard, CA",2017.0,68279.5
+"Oxnard, CA",2018.0,71761.0
+"Oxnard, CA",2019.0,76391.0
+"Oxnard, CA",2020.0,77803.25
+"Oxnard, CA",2021.0,84375.5
+"Palm Bay, FL",2011.0,44720.0
+"Palm Bay, FL",2012.0,43918.25
+"Palm Bay, FL",2013.0,43330.25
+"Palm Bay, FL",2014.0,43943.25
+"Palm Bay, FL",2015.0,43452.75
+"Palm Bay, FL",2016.0,44428.0
+"Palm Bay, FL",2017.0,45794.0
+"Palm Bay, FL",2018.0,48778.25
+"Palm Bay, FL",2019.0,51144.0
+"Palm Bay, FL",2020.0,51550.75
+"Palm Bay, FL",2021.0,55211.75
+"Panama City, FL",2011.0,45516.0
+"Panama City, FL",2012.0,45149.2
+"Panama City, FL",2013.0,44783.8
+"Panama City, FL",2014.0,46597.0
+"Panama City, FL",2015.0,45673.2
+"Panama City, FL",2016.0,47149.8
+"Panama City, FL",2017.0,49956.8
+"Panama City, FL",2018.0,51595.0
+"Panama City, FL",2019.0,53126.6
+"Panama City, FL",2020.0,55483.6
+"Panama City, FL",2021.0,58434.0
+"Parkersburg, WV",2011.0,40659.0
+"Parkersburg, WV",2012.0,40045.5
+"Parkersburg, WV",2013.0,40425.5
+"Parkersburg, WV",2014.0,40395.5
+"Parkersburg, WV",2015.0,37564.5
+"Parkersburg, WV",2016.0,39879.5
+"Parkersburg, WV",2017.0,41204.0
+"Parkersburg, WV",2018.0,39811.0
+"Parkersburg, WV",2019.0,39641.5
+"Parkersburg, WV",2020.0,41201.5
+"Parkersburg, WV",2021.0,41190.5
+"Pensacola, FL",2011.0,36844.6
+"Pensacola, FL",2012.0,37574.2
+"Pensacola, FL",2013.0,36641.4
+"Pensacola, FL",2014.0,38152.6
+"Pensacola, FL",2015.0,39446.0
+"Pensacola, FL",2016.0,39710.2
+"Pensacola, FL",2017.0,40539.6
+"Pensacola, FL",2018.0,43208.8
+"Pensacola, FL",2019.0,44674.6
+"Pensacola, FL",2020.0,47170.2
+"Pensacola, FL",2021.0,50430.0
+"Peoria, IL",2011.0,31395.8
+"Peoria, IL",2012.0,30738.8
+"Peoria, IL",2013.0,31254.6
+"Peoria, IL",2014.0,32206.6
+"Peoria, IL",2015.0,30108.6
+"Peoria, IL",2016.0,30245.0
+"Peoria, IL",2017.0,32493.8
+"Peoria, IL",2018.0,33743.2
+"Peoria, IL",2019.0,31591.8
+"Peoria, IL",2020.0,37036.25
+"Peoria, IL",2021.0,34143.6
+"Philadelphia, PA",2011.0,55663.6
+"Philadelphia, PA",2012.0,57173.4
+"Philadelphia, PA",2013.0,59605.8
+"Philadelphia, PA",2014.0,61486.4
+"Philadelphia, PA",2015.0,64504.6
+"Philadelphia, PA",2016.0,68439.4
+"Philadelphia, PA",2017.0,70281.8
+"Philadelphia, PA",2018.0,70630.6
+"Philadelphia, PA",2019.0,73031.6
+"Philadelphia, PA",2020.0,78970.6
+"Philadelphia, PA",2021.0,83777.2
+"Phoenix, AZ",2011.0,29124.6
+"Phoenix, AZ",2012.0,28484.6
+"Phoenix, AZ",2013.0,29117.8
+"Phoenix, AZ",2014.0,31798.4
+"Phoenix, AZ",2015.0,31883.6
+"Phoenix, AZ",2016.0,34469.4
+"Phoenix, AZ",2017.0,36534.8
+"Phoenix, AZ",2018.0,37446.4
+"Phoenix, AZ",2019.0,40490.6
+"Phoenix, AZ",2020.0,45247.8
+"Phoenix, AZ",2021.0,49951.2
+"Pine Bluff, AR",2011.0,32558.0
+"Pine Bluff, AR",2012.0,32191.5
+"Pine Bluff, AR",2013.0,32999.0
+"Pine Bluff, AR",2014.0,33064.0
+"Pine Bluff, AR",2015.0,33223.0
+"Pine Bluff, AR",2016.0,33357.0
+"Pine Bluff, AR",2017.0,35281.5
+"Pine Bluff, AR",2018.0,35753.0
+"Pine Bluff, AR",2019.0,37502.0
+"Pine Bluff, AR",2020.0,36583.0
+"Pine Bluff, AR",2021.0,39676.0
+"Pittsburgh, PA",2011.0,41363.6
+"Pittsburgh, PA",2012.0,42576.0
+"Pittsburgh, PA",2013.0,44285.8
+"Pittsburgh, PA",2014.0,45949.2
+"Pittsburgh, PA",2015.0,47303.6
+"Pittsburgh, PA",2016.0,48597.4
+"Pittsburgh, PA",2017.0,50628.8
+"Pittsburgh, PA",2018.0,52322.0
+"Pittsburgh, PA",2019.0,54447.0
+"Pittsburgh, PA",2020.0,55637.2
+"Pittsburgh, PA",2021.0,60591.6
+"Pittsfield, MA",2011.0,45154.0
+"Pittsfield, MA",2012.0,42620.0
+"Pittsfield, MA",2013.0,42633.0
+"Pittsfield, MA",2014.0,44120.0
+"Pittsfield, MA",2015.0,44509.0
+"Pittsfield, MA",2016.0,45893.0
+"Pittsfield, MA",2017.0,47614.0
+"Pittsfield, MA",2018.0,49385.0
+"Pittsfield, MA",2019.0,52223.0
+"Pittsfield, MA",2020.0,57160.0
+"Pittsfield, MA",2021.0,60060.0
+"Pocatello, ID",2011.0,45059.0
+"Pocatello, ID",2012.0,45417.333333333336
+"Pocatello, ID",2013.0,43442.333333333336
+"Pocatello, ID",2014.0,43468.666666666664
+"Pocatello, ID",2015.0,44171.666666666664
+"Pocatello, ID",2016.0,45458.0
+"Pocatello, ID",2017.0,47645.0
+"Pocatello, ID",2018.0,49207.333333333336
+"Pocatello, ID",2019.0,50896.666666666664
+"Pocatello, ID",2020.0,51402.666666666664
+"Pocatello, ID",2021.0,55117.0
+"Port Saint Lucie, FL",2011.0,48970.6
+"Port Saint Lucie, FL",2012.0,48418.0
+"Port Saint Lucie, FL",2013.0,48961.4
+"Port Saint Lucie, FL",2014.0,48360.4
+"Port Saint Lucie, FL",2015.0,49029.0
+"Port Saint Lucie, FL",2016.0,50113.4
+"Port Saint Lucie, FL",2017.0,52571.8
+"Port Saint Lucie, FL",2018.0,55165.2
+"Port Saint Lucie, FL",2019.0,59464.0
+"Port Saint Lucie, FL",2020.0,60864.4
+"Port Saint Lucie, FL",2021.0,66532.6
+"Portland, ME",2011.0,48800.0
+"Portland, ME",2012.0,49904.75
+"Portland, ME",2013.0,50799.75
+"Portland, ME",2014.0,48591.5
+"Portland, ME",2015.0,49049.75
+"Portland, ME",2016.0,51318.5
+"Portland, ME",2017.0,53673.75
+"Portland, ME",2018.0,58036.25
+"Portland, ME",2019.0,60685.25
+"Portland, ME",2020.0,55238.5
+"Portland, ME",2021.0,66174.66666666667
+"Portland, OR",2011.0,32901.6
+"Portland, OR",2012.0,34130.4
+"Portland, OR",2013.0,35493.0
+"Portland, OR",2014.0,37253.8
+"Portland, OR",2015.0,37621.6
+"Portland, OR",2016.0,41419.0
+"Portland, OR",2017.0,50971.75
+"Portland, OR",2018.0,46304.4
+"Portland, OR",2019.0,52826.0
+"Portland, OR",2020.0,63592.5
+"Portland, OR",2021.0,67070.75
+"Providence, RI",2011.0,41408.8
+"Providence, RI",2012.0,40920.8
+"Providence, RI",2013.0,40700.8
+"Providence, RI",2014.0,41070.0
+"Providence, RI",2015.0,42404.2
+"Providence, RI",2016.0,42505.0
+"Providence, RI",2017.0,45147.6
+"Providence, RI",2018.0,48059.2
+"Providence, RI",2019.0,50741.0
+"Providence, RI",2020.0,52557.6
+"Providence, RI",2021.0,57112.4
+"Provo, UT",2011.0,40567.0
+"Provo, UT",2012.0,41328.0
+"Provo, UT",2013.0,40295.666666666664
+"Provo, UT",2014.0,41212.333333333336
+"Provo, UT",2015.0,41659.333333333336
+"Provo, UT",2016.0,42994.0
+"Provo, UT",2017.0,45259.0
+"Provo, UT",2018.0,46647.333333333336
+"Provo, UT",2019.0,48873.0
+"Provo, UT",2020.0,50782.666666666664
+"Provo, UT",2021.0,48669.5
+"Pueblo, CO",2011.0,38004.6
+"Pueblo, CO",2012.0,37905.0
+"Pueblo, CO",2013.0,38036.8
+"Pueblo, CO",2014.0,38398.4
+"Pueblo, CO",2015.0,37790.8
+"Pueblo, CO",2016.0,39052.6
+"Pueblo, CO",2017.0,39479.6
+"Pueblo, CO",2018.0,40776.0
+"Pueblo, CO",2019.0,42187.4
+"Pueblo, CO",2020.0,44585.0
+"Pueblo, CO",2021.0,47991.8
+"Punta Gorda, FL",2011.0,48237.4
+"Punta Gorda, FL",2012.0,46683.2
+"Punta Gorda, FL",2013.0,47363.0
+"Punta Gorda, FL",2014.0,46781.6
+"Punta Gorda, FL",2015.0,47168.8
+"Punta Gorda, FL",2016.0,47651.8
+"Punta Gorda, FL",2017.0,50357.6
+"Punta Gorda, FL",2018.0,52466.6
+"Punta Gorda, FL",2019.0,55551.8
+"Punta Gorda, FL",2020.0,56686.2
+"Punta Gorda, FL",2021.0,59987.2
+"Racine, WI",2011.0,47160.0
+"Racine, WI",2012.0,47076.0
+"Racine, WI",2013.0,47080.8
+"Racine, WI",2014.0,47745.8
+"Racine, WI",2015.0,48482.8
+"Racine, WI",2016.0,48625.4
+"Racine, WI",2017.0,50802.8
+"Racine, WI",2018.0,51473.6
+"Racine, WI",2019.0,51429.4
+"Racine, WI",2020.0,52690.2
+"Racine, WI",2021.0,56666.6
+"Raleigh, NC",2011.0,42767.0
+"Raleigh, NC",2012.0,42940.0
+"Raleigh, NC",2013.0,43764.4
+"Raleigh, NC",2014.0,45309.8
+"Raleigh, NC",2015.0,44899.2
+"Raleigh, NC",2016.0,47653.6
+"Raleigh, NC",2017.0,51316.2
+"Raleigh, NC",2018.0,54786.4
+"Raleigh, NC",2019.0,59835.4
+"Raleigh, NC",2020.0,64455.0
+"Raleigh, NC",2021.0,66116.4
+"Rapid City, SD",2011.0,51752.666666666664
+"Rapid City, SD",2012.0,54114.333333333336
+"Rapid City, SD",2013.0,54932.0
+"Rapid City, SD",2014.0,54109.666666666664
+"Rapid City, SD",2015.0,53969.333333333336
+"Rapid City, SD",2016.0,54121.666666666664
+"Rapid City, SD",2017.0,55759.0
+"Rapid City, SD",2018.0,57817.333333333336
+"Rapid City, SD",2019.0,60378.666666666664
+"Rapid City, SD",2020.0,61988.333333333336
+"Rapid City, SD",2021.0,65948.33333333333
+"Reading, PA",2011.0,40130.8
+"Reading, PA",2012.0,39728.2
+"Reading, PA",2013.0,40629.4
+"Reading, PA",2014.0,41374.6
+"Reading, PA",2015.0,40899.8
+"Reading, PA",2016.0,41750.0
+"Reading, PA",2017.0,43592.8
+"Reading, PA",2018.0,44683.0
+"Reading, PA",2019.0,46918.4
+"Reading, PA",2020.0,49669.2
+"Reading, PA",2021.0,52925.6
+"Redding, CA",2011.0,45031.333333333336
+"Redding, CA",2012.0,45273.333333333336
+"Redding, CA",2013.0,45909.0
+"Redding, CA",2014.0,45525.333333333336
+"Redding, CA",2015.0,45650.666666666664
+"Redding, CA",2016.0,46056.0
+"Redding, CA",2017.0,47762.666666666664
+"Redding, CA",2018.0,52012.0
+"Redding, CA",2019.0,56796.0
+"Redding, CA",2020.0,58692.0
+"Redding, CA",2021.0,63474.0
+"Reno, NV",2011.0,46968.2
+"Reno, NV",2012.0,44446.6
+"Reno, NV",2013.0,43185.4
+"Reno, NV",2014.0,43288.8
+"Reno, NV",2015.0,43524.8
+"Reno, NV",2016.0,44988.4
+"Reno, NV",2017.0,49438.6
+"Reno, NV",2018.0,53270.6
+"Reno, NV",2019.0,56046.8
+"Reno, NV",2020.0,58375.2
+"Reno, NV",2021.0,60701.4
+"Richmond, VA",2011.0,35656.8
+"Richmond, VA",2012.0,35785.2
+"Richmond, VA",2013.0,35844.6
+"Richmond, VA",2014.0,37581.8
+"Richmond, VA",2015.0,37817.8
+"Richmond, VA",2016.0,39437.8
+"Richmond, VA",2017.0,42681.2
+"Richmond, VA",2018.0,45654.8
+"Richmond, VA",2019.0,48563.8
+"Richmond, VA",2020.0,53561.8
+"Richmond, VA",2021.0,57746.0
+"Riverside, CA",2011.0,61115.8
+"Riverside, CA",2012.0,59822.0
+"Riverside, CA",2013.0,59202.8
+"Riverside, CA",2014.0,58955.2
+"Riverside, CA",2015.0,59377.0
+"Riverside, CA",2016.0,62019.4
+"Riverside, CA",2017.0,65564.6
+"Riverside, CA",2018.0,68247.6
+"Riverside, CA",2019.0,73143.6
+"Riverside, CA",2020.0,77791.8
+"Riverside, CA",2021.0,81106.6
+"Roanoke, VA",2011.0,46182.0
+"Roanoke, VA",2012.0,48194.6
+"Roanoke, VA",2013.0,49070.2
+"Roanoke, VA",2014.0,50533.4
+"Roanoke, VA",2015.0,49999.4
+"Roanoke, VA",2016.0,47800.0
+"Roanoke, VA",2017.0,47630.0
+"Roanoke, VA",2018.0,50145.8
+"Roanoke, VA",2019.0,50193.2
+"Roanoke, VA",2020.0,51153.8
+"Roanoke, VA",2021.0,53662.4
+"Rochester, MN",2011.0,66842.75
+"Rochester, MN",2012.0,67574.5
+"Rochester, MN",2013.0,66990.5
+"Rochester, MN",2014.0,68222.0
+"Rochester, MN",2015.0,69713.75
+"Rochester, MN",2016.0,69952.75
+"Rochester, MN",2017.0,73357.0
+"Rochester, MN",2018.0,75331.25
+"Rochester, MN",2019.0,79037.75
+"Rochester, MN",2020.0,81501.75
+"Rochester, MN",2021.0,87229.0
+"Rochester, NY",2011.0,24888.0
+"Rochester, NY",2012.0,25333.2
+"Rochester, NY",2013.0,26048.4
+"Rochester, NY",2014.0,26189.6
+"Rochester, NY",2015.0,26426.2
+"Rochester, NY",2016.0,28271.6
+"Rochester, NY",2017.0,28463.8
+"Rochester, NY",2018.0,30691.4
+"Rochester, NY",2019.0,33629.8
+"Rochester, NY",2020.0,43335.4
+"Rochester, NY",2021.0,39863.2
+"Rockford, IL",2011.0,35637.0
+"Rockford, IL",2012.0,35582.4
+"Rockford, IL",2013.0,35728.2
+"Rockford, IL",2014.0,36389.2
+"Rockford, IL",2015.0,36706.0
+"Rockford, IL",2016.0,37704.2
+"Rockford, IL",2017.0,38669.4
+"Rockford, IL",2018.0,40290.6
+"Rockford, IL",2019.0,40766.4
+"Rockford, IL",2020.0,40797.0
+"Rockford, IL",2021.0,43455.4
+"Rocky Mount, NC",2011.0,39989.333333333336
+"Rocky Mount, NC",2012.0,39633.0
+"Rocky Mount, NC",2013.0,38481.0
+"Rocky Mount, NC",2014.0,39125.0
+"Rocky Mount, NC",2015.0,37792.666666666664
+"Rocky Mount, NC",2016.0,39085.0
+"Rocky Mount, NC",2017.0,40819.0
+"Rocky Mount, NC",2018.0,43858.0
+"Rocky Mount, NC",2019.0,44985.666666666664
+"Rocky Mount, NC",2020.0,44981.666666666664
+"Rocky Mount, NC",2021.0,48558.333333333336
+"Rome, GA",2011.0,41249.0
+"Rome, GA",2012.0,40142.0
+"Rome, GA",2013.0,39730.5
+"Rome, GA",2014.0,40257.5
+"Rome, GA",2015.0,40509.5
+"Rome, GA",2016.0,42208.5
+"Rome, GA",2017.0,44831.5
+"Rome, GA",2018.0,45682.5
+"Rome, GA",2019.0,48082.5
+"Rome, GA",2020.0,51662.5
+"Rome, GA",2021.0,52530.5
+"Sacramento, CA",2011.0,36629.6
+"Sacramento, CA",2012.0,35690.8
+"Sacramento, CA",2013.0,37344.6
+"Sacramento, CA",2014.0,37722.6
+"Sacramento, CA",2015.0,36899.0
+"Sacramento, CA",2016.0,38696.6
+"Sacramento, CA",2017.0,42754.2
+"Sacramento, CA",2018.0,45915.6
+"Sacramento, CA",2019.0,50194.0
+"Sacramento, CA",2020.0,54440.4
+"Sacramento, CA",2021.0,56600.8
+"Saginaw, MI",2011.0,34014.0
+"Saginaw, MI",2012.0,34299.4
+"Saginaw, MI",2013.0,33779.6
+"Saginaw, MI",2014.0,35417.2
+"Saginaw, MI",2015.0,34854.0
+"Saginaw, MI",2016.0,34801.2
+"Saginaw, MI",2017.0,35339.4
+"Saginaw, MI",2018.0,38194.6
+"Saginaw, MI",2019.0,38562.8
+"Saginaw, MI",2020.0,40858.0
+"Saginaw, MI",2021.0,43294.0
+"Saint Cloud, MN",2011.0,42388.0
+"Saint Cloud, MN",2012.0,42697.333333333336
+"Saint Cloud, MN",2013.0,43709.666666666664
+"Saint Cloud, MN",2014.0,46129.0
+"Saint Cloud, MN",2015.0,46840.666666666664
+"Saint Cloud, MN",2016.0,46772.0
+"Saint Cloud, MN",2017.0,48198.333333333336
+"Saint Cloud, MN",2018.0,49134.0
+"Saint Cloud, MN",2019.0,51309.666666666664
+"Saint Cloud, MN",2020.0,53517.333333333336
+"Saint Cloud, MN",2021.0,57419.666666666664
+"Saint George, UT",2011.0,49287.5
+"Saint George, UT",2012.0,48548.5
+"Saint George, UT",2013.0,48900.5
+"Saint George, UT",2014.0,49405.5
+"Saint George, UT",2015.0,50227.0
+"Saint George, UT",2016.0,51935.5
+"Saint George, UT",2017.0,54463.5
+"Saint George, UT",2018.0,55492.0
+"Saint George, UT",2019.0,58666.5
+"Saint George, UT",2020.0,60989.0
+"Saint George, UT",2021.0,66801.5
+"Saint Joseph, MO",2011.0,41816.6
+"Saint Joseph, MO",2012.0,42409.8
+"Saint Joseph, MO",2013.0,43018.4
+"Saint Joseph, MO",2014.0,42249.4
+"Saint Joseph, MO",2015.0,43980.8
+"Saint Joseph, MO",2016.0,44350.4
+"Saint Joseph, MO",2017.0,46444.0
+"Saint Joseph, MO",2018.0,47909.0
+"Saint Joseph, MO",2019.0,49138.0
+"Saint Joseph, MO",2020.0,48774.8
+"Saint Joseph, MO",2021.0,50757.2
+"Salem, OR",2011.0,47372.2
+"Salem, OR",2012.0,48640.4
+"Salem, OR",2013.0,49434.2
+"Salem, OR",2014.0,48252.4
+"Salem, OR",2015.0,49232.0
+"Salem, OR",2016.0,51366.2
+"Salem, OR",2017.0,54470.4
+"Salem, OR",2018.0,56130.0
+"Salem, OR",2019.0,59521.6
+"Salem, OR",2020.0,61793.6
+"Salem, OR",2021.0,65471.0
+"Salinas, CA",2011.0,67471.2
+"Salinas, CA",2012.0,66420.8
+"Salinas, CA",2013.0,64613.8
+"Salinas, CA",2014.0,65856.8
+"Salinas, CA",2015.0,66219.8
+"Salinas, CA",2016.0,68983.2
+"Salinas, CA",2017.0,73108.4
+"Salinas, CA",2018.0,77377.6
+"Salinas, CA",2019.0,79131.6
+"Salinas, CA",2020.0,87003.6
+"Salinas, CA",2021.0,93766.4
+"Salisbury, MD",2011.0,51711.0
+"Salisbury, MD",2012.0,48279.0
+"Salisbury, MD",2013.0,50046.0
+"Salisbury, MD",2014.0,51420.5
+"Salisbury, MD",2015.0,49702.5
+"Salisbury, MD",2016.0,49730.0
+"Salisbury, MD",2017.0,51868.5
+"Salisbury, MD",2018.0,54755.0
+"Salisbury, MD",2019.0,53763.5
+"Salisbury, MD",2020.0,57525.0
+"Salisbury, MD",2021.0,59683.0
+"Salt Lake City, UT",2011.0,42743.0
+"Salt Lake City, UT",2012.0,43276.4
+"Salt Lake City, UT",2013.0,45324.2
+"Salt Lake City, UT",2014.0,46337.4
+"Salt Lake City, UT",2015.0,48526.0
+"Salt Lake City, UT",2016.0,52798.4
+"Salt Lake City, UT",2017.0,53146.6
+"Salt Lake City, UT",2018.0,54461.2
+"Salt Lake City, UT",2019.0,58095.4
+"Salt Lake City, UT",2020.0,59257.8
+"Salt Lake City, UT",2021.0,62075.6
+"San Angelo, TX",2011.0,45180.75
+"San Angelo, TX",2012.0,45720.75
+"San Angelo, TX",2013.0,46213.75
+"San Angelo, TX",2014.0,46475.75
+"San Angelo, TX",2015.0,47737.5
+"San Angelo, TX",2016.0,48732.0
+"San Angelo, TX",2017.0,51998.5
+"San Angelo, TX",2018.0,53300.25
+"San Angelo, TX",2019.0,55089.25
+"San Angelo, TX",2020.0,59111.5
+"San Angelo, TX",2021.0,63642.0
+"San Antonio, TX",2011.0,24339.4
+"San Antonio, TX",2012.0,24530.0
+"San Antonio, TX",2013.0,28240.0
+"San Antonio, TX",2014.0,25909.6
+"San Antonio, TX",2015.0,29208.8
+"San Antonio, TX",2016.0,31091.2
+"San Antonio, TX",2017.0,33181.6
+"San Antonio, TX",2018.0,32309.4
+"San Antonio, TX",2019.0,34730.8
+"San Antonio, TX",2020.0,35178.6
+"San Antonio, TX",2021.0,38347.8
+"San Diego, CA",2011.0,46520.8
+"San Diego, CA",2012.0,47197.2
+"San Diego, CA",2013.0,48136.0
+"San Diego, CA",2014.0,49061.6
+"San Diego, CA",2015.0,50473.0
+"San Diego, CA",2016.0,52362.0
+"San Diego, CA",2017.0,55843.0
+"San Diego, CA",2018.0,59264.8
+"San Diego, CA",2019.0,62667.8
+"San Diego, CA",2020.0,65159.2
+"San Diego, CA",2021.0,70846.2
+"San Francisco, CA",2011.0,52696.25
+"San Francisco, CA",2012.0,58752.25
+"San Francisco, CA",2013.0,69645.0
+"San Francisco, CA",2014.0,79184.0
+"San Francisco, CA",2015.0,80417.66666666667
+"San Francisco, CA",2016.0,80565.25
+"San Francisco, CA",2017.0,82599.25
+"San Francisco, CA",2018.0,91134.5
+"San Francisco, CA",2019.0,96905.75
+"San Francisco, CA",2020.0,112017.5
+"San Francisco, CA",2021.0,109071.0
+"San Jose, CA",2011.0,55325.0
+"San Jose, CA",2012.0,46833.0
+"San Jose, CA",2013.0,50754.75
+"San Jose, CA",2014.0,59173.5
+"San Jose, CA",2015.0,62190.0
+"San Jose, CA",2016.0,71114.75
+"San Jose, CA",2017.0,79476.75
+"San Jose, CA",2018.0,85573.25
+"San Jose, CA",2019.0,92824.5
+"San Jose, CA",2020.0,95082.75
+"San Jose, CA",2021.0,102105.75
+"San Luis Obispo, CA",2011.0,45974.0
+"San Luis Obispo, CA",2012.0,49282.5
+"San Luis Obispo, CA",2013.0,46713.5
+"San Luis Obispo, CA",2014.0,47197.0
+"San Luis Obispo, CA",2015.0,48997.0
+"San Luis Obispo, CA",2016.0,49872.5
+"San Luis Obispo, CA",2017.0,51812.0
+"San Luis Obispo, CA",2018.0,55728.5
+"San Luis Obispo, CA",2019.0,59020.0
+"San Luis Obispo, CA",2020.0,63285.5
+"San Luis Obispo, CA",2021.0,66746.0
+"Santa Cruz, CA",2011.0,63770.25
+"Santa Cruz, CA",2012.0,64156.25
+"Santa Cruz, CA",2013.0,65684.75
+"Santa Cruz, CA",2014.0,67796.25
+"Santa Cruz, CA",2015.0,69488.5
+"Santa Cruz, CA",2016.0,64736.25
+"Santa Cruz, CA",2017.0,67777.5
+"Santa Cruz, CA",2018.0,71036.5
+"Santa Cruz, CA",2019.0,79026.0
+"Santa Cruz, CA",2020.0,94455.25
+"Santa Cruz, CA",2021.0,103669.5
+"Santa Fe, NM",2011.0,59652.8
+"Santa Fe, NM",2012.0,58504.2
+"Santa Fe, NM",2013.0,58008.2
+"Santa Fe, NM",2014.0,57582.2
+"Santa Fe, NM",2015.0,58463.8
+"Santa Fe, NM",2016.0,60723.8
+"Santa Fe, NM",2017.0,62529.0
+"Santa Fe, NM",2018.0,64468.4
+"Santa Fe, NM",2019.0,66914.2
+"Santa Fe, NM",2020.0,65654.6
+"Santa Fe, NM",2021.0,68982.2
+"Santa Maria, CA",2011.0,56014.0
+"Santa Maria, CA",2012.0,55358.666666666664
+"Santa Maria, CA",2013.0,54907.666666666664
+"Santa Maria, CA",2014.0,56193.0
+"Santa Maria, CA",2015.0,56157.0
+"Santa Maria, CA",2016.0,57992.0
+"Santa Maria, CA",2017.0,61668.666666666664
+"Santa Maria, CA",2018.0,66769.66666666667
+"Santa Maria, CA",2019.0,70765.33333333333
+"Santa Maria, CA",2020.0,74030.33333333333
+"Santa Maria, CA",2021.0,79644.66666666667
+"Santa Rosa, CA",2011.0,61106.8
+"Santa Rosa, CA",2012.0,60729.6
+"Santa Rosa, CA",2013.0,60896.4
+"Santa Rosa, CA",2014.0,61730.2
+"Santa Rosa, CA",2015.0,61911.2
+"Santa Rosa, CA",2016.0,64217.4
+"Santa Rosa, CA",2017.0,68306.4
+"Santa Rosa, CA",2018.0,72414.0
+"Santa Rosa, CA",2019.0,77305.6
+"Santa Rosa, CA",2020.0,81968.0
+"Santa Rosa, CA",2021.0,86205.0
+"Savannah, GA",2011.0,36160.0
+"Savannah, GA",2012.0,34911.4
+"Savannah, GA",2013.0,34396.0
+"Savannah, GA",2014.0,35263.4
+"Savannah, GA",2015.0,36478.0
+"Savannah, GA",2016.0,38053.6
+"Savannah, GA",2017.0,41896.0
+"Savannah, GA",2018.0,43818.4
+"Savannah, GA",2019.0,45122.6
+"Savannah, GA",2020.0,45591.2
+"Savannah, GA",2021.0,48313.6
+"Scranton, PA",2011.0,34411.4
+"Scranton, PA",2012.0,34386.4
+"Scranton, PA",2013.0,35195.8
+"Scranton, PA",2014.0,34133.6
+"Scranton, PA",2015.0,33654.8
+"Scranton, PA",2016.0,34666.8
+"Scranton, PA",2017.0,35066.4
+"Scranton, PA",2018.0,36363.0
+"Scranton, PA",2019.0,38680.0
+"Scranton, PA",2020.0,41056.4
+"Scranton, PA",2021.0,44050.4
+"Seattle, WA",2011.0,45680.6
+"Seattle, WA",2012.0,47835.6
+"Seattle, WA",2013.0,51190.4
+"Seattle, WA",2014.0,54261.2
+"Seattle, WA",2015.0,57971.8
+"Seattle, WA",2016.0,62075.4
+"Seattle, WA",2017.0,67503.6
+"Seattle, WA",2018.0,72377.0
+"Seattle, WA",2019.0,78604.2
+"Seattle, WA",2020.0,83974.2
+"Seattle, WA",2021.0,89420.0
+"Sebastian, FL",2011.0,38246.5
+"Sebastian, FL",2012.0,37818.0
+"Sebastian, FL",2013.0,37249.0
+"Sebastian, FL",2014.0,37562.5
+"Sebastian, FL",2015.0,39694.0
+"Sebastian, FL",2016.0,39517.0
+"Sebastian, FL",2017.0,41000.5
+"Sebastian, FL",2018.0,43400.5
+"Sebastian, FL",2019.0,45592.0
+"Sebastian, FL",2020.0,47193.5
+"Sebastian, FL",2021.0,51809.0
+"Sebring, FL",2011.0,38263.0
+"Sebring, FL",2012.0,38179.5
+"Sebring, FL",2013.0,38396.5
+"Sebring, FL",2014.0,38951.75
+"Sebring, FL",2015.0,38560.5
+"Sebring, FL",2016.0,39469.5
+"Sebring, FL",2017.0,40700.5
+"Sebring, FL",2018.0,43196.0
+"Sebring, FL",2019.0,46020.0
+"Sebring, FL",2020.0,49306.25
+"Sebring, FL",2021.0,53205.75
+"Sheboygan, WI",2011.0,51309.0
+"Sheboygan, WI",2012.0,51193.0
+"Sheboygan, WI",2013.0,51595.5
+"Sheboygan, WI",2014.0,51675.5
+"Sheboygan, WI",2015.0,52580.0
+"Sheboygan, WI",2016.0,55501.0
+"Sheboygan, WI",2017.0,55942.5
+"Sheboygan, WI",2018.0,59258.5
+"Sheboygan, WI",2019.0,61590.0
+"Sheboygan, WI",2020.0,61426.5
+"Sheboygan, WI",2021.0,63900.0
+"Sherman, TX",2011.0,45152.0
+"Sherman, TX",2012.0,44534.5
+"Sherman, TX",2013.0,44493.5
+"Sherman, TX",2014.0,46575.5
+"Sherman, TX",2015.0,46526.5
+"Sherman, TX",2016.0,46320.5
+"Sherman, TX",2017.0,47522.0
+"Sherman, TX",2018.0,49265.0
+"Sherman, TX",2019.0,49492.5
+"Sherman, TX",2020.0,50719.5
+"Sherman, TX",2021.0,54654.5
+"Shreveport, LA",2011.0,36771.2
+"Shreveport, LA",2012.0,37785.4
+"Shreveport, LA",2013.0,38503.4
+"Shreveport, LA",2014.0,38945.8
+"Shreveport, LA",2015.0,38667.8
+"Shreveport, LA",2016.0,37998.4
+"Shreveport, LA",2017.0,37078.8
+"Shreveport, LA",2018.0,37534.0
+"Shreveport, LA",2019.0,38848.4
+"Shreveport, LA",2020.0,42869.0
+"Shreveport, LA",2021.0,41583.8
+"Sierra Vista, AZ",2011.0,65133.5
+"Sierra Vista, AZ",2012.0,65010.5
+"Sierra Vista, AZ",2013.0,66650.0
+"Sierra Vista, AZ",2014.0,65876.0
+"Sierra Vista, AZ",2015.0,59266.5
+"Sierra Vista, AZ",2016.0,59173.0
+"Sierra Vista, AZ",2017.0,61113.0
+"Sierra Vista, AZ",2018.0,60633.0
+"Sierra Vista, AZ",2019.0,61243.0
+"Sierra Vista, AZ",2020.0,60569.0
+"Sierra Vista, AZ",2021.0,66198.0
+"Sioux City, IA",2011.0,37591.0
+"Sioux City, IA",2012.0,36877.4
+"Sioux City, IA",2013.0,36864.4
+"Sioux City, IA",2014.0,37100.0
+"Sioux City, IA",2015.0,37652.0
+"Sioux City, IA",2016.0,38858.6
+"Sioux City, IA",2017.0,40546.2
+"Sioux City, IA",2018.0,44372.4
+"Sioux City, IA",2019.0,47474.4
+"Sioux City, IA",2020.0,48347.4
+"Sioux City, IA",2021.0,50678.6
+"Sioux Falls, SD",2011.0,50538.2
+"Sioux Falls, SD",2012.0,49994.8
+"Sioux Falls, SD",2013.0,50311.2
+"Sioux Falls, SD",2014.0,51260.6
+"Sioux Falls, SD",2015.0,51163.4
+"Sioux Falls, SD",2016.0,52203.6
+"Sioux Falls, SD",2017.0,54659.4
+"Sioux Falls, SD",2018.0,55439.4
+"Sioux Falls, SD",2019.0,58014.6
+"Sioux Falls, SD",2020.0,59078.2
+"Sioux Falls, SD",2021.0,62219.0
+"South Bend, IN",2011.0,34078.6
+"South Bend, IN",2012.0,33342.6
+"South Bend, IN",2013.0,33709.0
+"South Bend, IN",2014.0,33800.8
+"South Bend, IN",2015.0,33273.0
+"South Bend, IN",2016.0,33809.2
+"South Bend, IN",2017.0,36482.6
+"South Bend, IN",2018.0,38237.0
+"South Bend, IN",2019.0,39190.6
+"South Bend, IN",2020.0,40925.2
+"South Bend, IN",2021.0,45197.0
+"Spartanburg, SC",2011.0,39527.4
+"Spartanburg, SC",2012.0,38710.0
+"Spartanburg, SC",2013.0,38134.0
+"Spartanburg, SC",2014.0,38466.4
+"Spartanburg, SC",2015.0,38041.0
+"Spartanburg, SC",2016.0,38700.2
+"Spartanburg, SC",2017.0,40960.8
+"Spartanburg, SC",2018.0,42767.0
+"Spartanburg, SC",2019.0,44250.6
+"Spartanburg, SC",2020.0,45471.6
+"Spartanburg, SC",2021.0,48090.6
+"Spokane, WA",2011.0,37924.4
+"Spokane, WA",2012.0,38609.8
+"Spokane, WA",2013.0,39113.8
+"Spokane, WA",2014.0,40046.6
+"Spokane, WA",2015.0,39525.4
+"Spokane, WA",2016.0,40841.0
+"Spokane, WA",2017.0,42706.8
+"Spokane, WA",2018.0,45395.2
+"Spokane, WA",2019.0,47254.6
+"Spokane, WA",2020.0,50260.0
+"Spokane, WA",2021.0,54745.0
+"Springfield, IL",2011.0,41294.0
+"Springfield, IL",2012.0,44371.2
+"Springfield, IL",2013.0,44172.4
+"Springfield, IL",2014.0,41304.4
+"Springfield, IL",2015.0,43901.2
+"Springfield, IL",2016.0,42267.0
+"Springfield, IL",2017.0,43066.0
+"Springfield, IL",2018.0,44745.8
+"Springfield, IL",2019.0,45855.0
+"Springfield, IL",2020.0,46568.8
+"Springfield, IL",2021.0,50869.8
+"Springfield, MA",2011.0,25386.2
+"Springfield, MA",2012.0,24853.6
+"Springfield, MA",2013.0,24121.8
+"Springfield, MA",2014.0,23606.4
+"Springfield, MA",2015.0,23733.6
+"Springfield, MA",2016.0,24330.2
+"Springfield, MA",2017.0,25922.6
+"Springfield, MA",2018.0,27483.6
+"Springfield, MA",2019.0,29998.4
+"Springfield, MA",2020.0,30551.8
+"Springfield, MA",2021.0,31712.4
+"Springfield, MO",2011.0,33417.2
+"Springfield, MO",2012.0,33136.8
+"Springfield, MO",2013.0,32423.2
+"Springfield, MO",2014.0,32527.6
+"Springfield, MO",2015.0,33290.4
+"Springfield, MO",2016.0,33629.2
+"Springfield, MO",2017.0,34790.6
+"Springfield, MO",2018.0,36157.6
+"Springfield, MO",2019.0,37485.6
+"Springfield, MO",2020.0,38761.0
+"Springfield, MO",2021.0,41648.6
+"Springfield, OH",2011.0,43602.2
+"Springfield, OH",2012.0,43096.6
+"Springfield, OH",2013.0,42955.0
+"Springfield, OH",2014.0,42660.0
+"Springfield, OH",2015.0,43577.2
+"Springfield, OH",2016.0,44832.4
+"Springfield, OH",2017.0,46292.0
+"Springfield, OH",2018.0,48248.8
+"Springfield, OH",2019.0,50323.8
+"Springfield, OH",2020.0,50857.4
+"Springfield, OH",2021.0,53432.0
+"State College, PA",2011.0,42104.0
+"State College, PA",2012.0,44155.5
+"State College, PA",2013.0,45202.0
+"State College, PA",2014.0,44993.5
+"State College, PA",2015.0,48641.0
+"State College, PA",2016.0,49982.0
+"State College, PA",2017.0,52475.5
+"State College, PA",2018.0,52380.5
+"State College, PA",2019.0,54329.0
+"State College, PA",2020.0,55793.0
+"State College, PA",2021.0,59998.0
+"Staunton, VA",2011.0,44392.0
+"Staunton, VA",2012.0,45105.0
+"Staunton, VA",2013.0,45044.0
+"Staunton, VA",2014.0,44386.0
+"Staunton, VA",2015.0,43635.0
+"Staunton, VA",2016.0,46394.0
+"Staunton, VA",2017.0,49905.0
+"Staunton, VA",2018.0,49926.0
+"Staunton, VA",2019.0,53770.0
+"Staunton, VA",2020.0,53578.0
+"Staunton, VA",2021.0,54348.0
+"Stockton, CA",2011.0,35439.8
+"Stockton, CA",2012.0,34934.2
+"Stockton, CA",2013.0,35023.2
+"Stockton, CA",2014.0,34284.0
+"Stockton, CA",2015.0,34234.8
+"Stockton, CA",2016.0,34076.0
+"Stockton, CA",2017.0,35995.4
+"Stockton, CA",2018.0,37690.0
+"Stockton, CA",2019.0,40036.6
+"Stockton, CA",2020.0,42609.2
+"Stockton, CA",2021.0,47209.2
+"Sumter, SC",2011.0,40190.0
+"Sumter, SC",2012.0,40681.333333333336
+"Sumter, SC",2013.0,41392.666666666664
+"Sumter, SC",2014.0,41096.666666666664
+"Sumter, SC",2015.0,42636.333333333336
+"Sumter, SC",2016.0,41381.0
+"Sumter, SC",2017.0,42588.333333333336
+"Sumter, SC",2018.0,44321.333333333336
+"Sumter, SC",2019.0,46344.333333333336
+"Sumter, SC",2020.0,47404.0
+"Sumter, SC",2021.0,50377.0
+"Syracuse, NY",2011.0,28309.2
+"Syracuse, NY",2012.0,27926.2
+"Syracuse, NY",2013.0,27911.6
+"Syracuse, NY",2014.0,28150.0
+"Syracuse, NY",2015.0,28612.8
+"Syracuse, NY",2016.0,28858.0
+"Syracuse, NY",2017.0,30267.2
+"Syracuse, NY",2018.0,31805.6
+"Syracuse, NY",2019.0,33864.6
+"Syracuse, NY",2020.0,34505.2
+"Syracuse, NY",2021.0,37173.4
+"Tallahassee, FL",2011.0,38022.6
+"Tallahassee, FL",2012.0,37881.0
+"Tallahassee, FL",2013.0,37864.8
+"Tallahassee, FL",2014.0,37451.4
+"Tallahassee, FL",2015.0,38043.0
+"Tallahassee, FL",2016.0,38822.6
+"Tallahassee, FL",2017.0,41085.4
+"Tallahassee, FL",2018.0,42984.8
+"Tallahassee, FL",2019.0,45249.8
+"Tallahassee, FL",2020.0,45896.0
+"Tallahassee, FL",2021.0,47615.8
+"Tampa, FL",2011.0,44163.4
+"Tampa, FL",2012.0,44081.6
+"Tampa, FL",2013.0,43507.8
+"Tampa, FL",2014.0,44062.0
+"Tampa, FL",2015.0,45430.6
+"Tampa, FL",2016.0,46423.4
+"Tampa, FL",2017.0,49263.0
+"Tampa, FL",2018.0,52245.6
+"Tampa, FL",2019.0,54169.6
+"Tampa, FL",2020.0,57224.8
+"Tampa, FL",2021.0,62525.4
+"Terre Haute, IN",2011.0,39350.2
+"Terre Haute, IN",2012.0,39129.2
+"Terre Haute, IN",2013.0,39833.4
+"Terre Haute, IN",2014.0,39945.4
+"Terre Haute, IN",2015.0,38520.6
+"Terre Haute, IN",2016.0,39210.8
+"Terre Haute, IN",2017.0,39839.4
+"Terre Haute, IN",2018.0,41409.2
+"Terre Haute, IN",2019.0,43380.2
+"Terre Haute, IN",2020.0,44250.0
+"Terre Haute, IN",2021.0,45631.2
+"Texarkana, TX",2011.0,46562.5
+"Texarkana, TX",2012.0,46922.5
+"Texarkana, TX",2013.0,46053.5
+"Texarkana, TX",2014.0,45192.5
+"Texarkana, TX",2015.0,43584.0
+"Texarkana, TX",2016.0,44035.0
+"Texarkana, TX",2017.0,47873.0
+"Texarkana, TX",2018.0,48710.0
+"Texarkana, TX",2019.0,52344.5
+"Texarkana, TX",2020.0,57362.0
+"Texarkana, TX",2021.0,58474.0
+"The Villages, FL",2011.0,53404.0
+"The Villages, FL",2012.0,54601.0
+"The Villages, FL",2013.0,56133.0
+"The Villages, FL",2014.0,56780.0
+"The Villages, FL",2015.0,57672.0
+"The Villages, FL",2016.0,59527.0
+"The Villages, FL",2017.0,61313.0
+"The Villages, FL",2018.0,61654.0
+"The Villages, FL",2019.0,63877.0
+"The Villages, FL",2020.0,64578.0
+"The Villages, FL",2021.0,75127.0
+"Toledo, OH",2011.0,25997.0
+"Toledo, OH",2012.0,25051.0
+"Toledo, OH",2013.0,25488.25
+"Toledo, OH",2014.0,24972.0
+"Toledo, OH",2015.0,25311.75
+"Toledo, OH",2016.0,25784.0
+"Toledo, OH",2017.0,27421.5
+"Toledo, OH",2018.0,28249.5
+"Toledo, OH",2019.0,29538.25
+"Toledo, OH",2020.0,30501.75
+"Toledo, OH",2021.0,33333.25
+"Topeka, KS",2011.0,34159.4
+"Topeka, KS",2012.0,34062.6
+"Topeka, KS",2013.0,34100.4
+"Topeka, KS",2014.0,35873.4
+"Topeka, KS",2015.0,36197.2
+"Topeka, KS",2016.0,37249.2
+"Topeka, KS",2017.0,39191.2
+"Topeka, KS",2018.0,40114.4
+"Topeka, KS",2019.0,41118.2
+"Topeka, KS",2020.0,43240.4
+"Topeka, KS",2021.0,40985.2
+"Trenton, NJ",2011.0,38679.2
+"Trenton, NJ",2012.0,36950.4
+"Trenton, NJ",2013.0,36675.8
+"Trenton, NJ",2014.0,35988.6
+"Trenton, NJ",2015.0,35343.4
+"Trenton, NJ",2016.0,35931.6
+"Trenton, NJ",2017.0,37281.8
+"Trenton, NJ",2018.0,38693.6
+"Trenton, NJ",2019.0,38502.0
+"Trenton, NJ",2020.0,41279.0
+"Trenton, NJ",2021.0,44758.2
+"Tucson, AZ",2011.0,38176.2
+"Tucson, AZ",2012.0,37832.8
+"Tucson, AZ",2013.0,37323.2
+"Tucson, AZ",2014.0,38070.8
+"Tucson, AZ",2015.0,39034.2
+"Tucson, AZ",2016.0,38972.0
+"Tucson, AZ",2017.0,41960.0
+"Tucson, AZ",2018.0,42985.6
+"Tucson, AZ",2019.0,44929.4
+"Tucson, AZ",2020.0,47486.4
+"Tucson, AZ",2021.0,49721.8
+"Tulsa, OK",2011.0,46934.4
+"Tulsa, OK",2012.0,39161.8
+"Tulsa, OK",2013.0,37955.6
+"Tulsa, OK",2014.0,41129.6
+"Tulsa, OK",2015.0,43727.4
+"Tulsa, OK",2016.0,44440.0
+"Tulsa, OK",2017.0,44563.4
+"Tulsa, OK",2018.0,47423.0
+"Tulsa, OK",2019.0,52185.2
+"Tulsa, OK",2020.0,49248.2
+"Tulsa, OK",2021.0,54009.2
+"Tuscaloosa, AL",2011.0,42969.0
+"Tuscaloosa, AL",2012.0,44226.5
+"Tuscaloosa, AL",2013.0,45977.5
+"Tuscaloosa, AL",2014.0,47535.25
+"Tuscaloosa, AL",2015.0,48207.75
+"Tuscaloosa, AL",2016.0,50244.25
+"Tuscaloosa, AL",2017.0,51493.25
+"Tuscaloosa, AL",2018.0,56101.5
+"Tuscaloosa, AL",2019.0,56937.5
+"Tuscaloosa, AL",2020.0,57308.25
+"Tuscaloosa, AL",2021.0,58369.75
+"Twin Falls, ID",2011.0,42952.0
+"Twin Falls, ID",2012.0,42648.0
+"Twin Falls, ID",2013.0,43726.0
+"Twin Falls, ID",2014.0,44126.0
+"Twin Falls, ID",2015.0,43767.0
+"Twin Falls, ID",2016.0,45379.0
+"Twin Falls, ID",2017.0,47906.0
+"Twin Falls, ID",2018.0,50185.0
+"Twin Falls, ID",2019.0,52496.0
+"Twin Falls, ID",2020.0,52183.0
+"Twin Falls, ID",2021.0,55356.0
+"Tyler, TX",2011.0,38993.6
+"Tyler, TX",2012.0,39310.2
+"Tyler, TX",2013.0,39741.0
+"Tyler, TX",2014.0,40997.6
+"Tyler, TX",2015.0,39518.0
+"Tyler, TX",2016.0,43724.6
+"Tyler, TX",2017.0,43112.0
+"Tyler, TX",2018.0,43773.4
+"Tyler, TX",2019.0,45491.2
+"Tyler, TX",2020.0,48555.2
+"Tyler, TX",2021.0,52043.0
+"Utica, NY",2011.0,35927.0
+"Utica, NY",2012.0,34923.5
+"Utica, NY",2013.0,34904.5
+"Utica, NY",2014.0,34522.5
+"Utica, NY",2015.0,33642.5
+"Utica, NY",2016.0,35980.5
+"Utica, NY",2017.0,37592.5
+"Utica, NY",2018.0,38706.0
+"Utica, NY",2019.0,41687.0
+"Utica, NY",2020.0,46418.5
+"Utica, NY",2021.0,47562.0
+"Valdosta, GA",2011.0,42361.75
+"Valdosta, GA",2012.0,41596.25
+"Valdosta, GA",2013.0,40857.75
+"Valdosta, GA",2014.0,38408.5
+"Valdosta, GA",2015.0,37827.25
+"Valdosta, GA",2016.0,40080.75
+"Valdosta, GA",2017.0,40864.25
+"Valdosta, GA",2018.0,41986.75
+"Valdosta, GA",2019.0,41807.0
+"Valdosta, GA",2020.0,43242.5
+"Valdosta, GA",2021.0,43625.0
+"Vallejo, CA",2011.0,63211.75
+"Vallejo, CA",2012.0,62324.0
+"Vallejo, CA",2013.0,69187.0
+"Vallejo, CA",2014.0,69627.5
+"Vallejo, CA",2015.0,68658.5
+"Vallejo, CA",2016.0,70847.75
+"Vallejo, CA",2017.0,75750.0
+"Vallejo, CA",2018.0,80423.75
+"Vallejo, CA",2019.0,83689.75
+"Vallejo, CA",2020.0,97837.25
+"Vallejo, CA",2021.0,95103.0
+"Victoria, TX",2011.0,53379.666666666664
+"Victoria, TX",2012.0,54362.0
+"Victoria, TX",2013.0,54608.0
+"Victoria, TX",2014.0,56227.666666666664
+"Victoria, TX",2015.0,58251.666666666664
+"Victoria, TX",2016.0,61673.666666666664
+"Victoria, TX",2017.0,63658.666666666664
+"Victoria, TX",2018.0,64118.666666666664
+"Victoria, TX",2019.0,64463.333333333336
+"Victoria, TX",2020.0,64505.666666666664
+"Victoria, TX",2021.0,65702.66666666667
+"Vineland, NJ",2011.0,61979.0
+"Vineland, NJ",2012.0,60396.5
+"Vineland, NJ",2013.0,59719.0
+"Vineland, NJ",2014.0,58816.5
+"Vineland, NJ",2015.0,59588.0
+"Vineland, NJ",2016.0,59343.5
+"Vineland, NJ",2017.0,61667.5
+"Vineland, NJ",2018.0,64013.5
+"Vineland, NJ",2019.0,64557.5
+"Vineland, NJ",2020.0,69080.5
+"Vineland, NJ",2021.0,70816.5
+"Virginia Beach, VA",2011.0,63495.6
+"Virginia Beach, VA",2012.0,64032.0
+"Virginia Beach, VA",2013.0,63030.6
+"Virginia Beach, VA",2014.0,64394.2
+"Virginia Beach, VA",2015.0,63605.4
+"Virginia Beach, VA",2016.0,64876.6
+"Virginia Beach, VA",2017.0,68185.4
+"Virginia Beach, VA",2018.0,71527.0
+"Virginia Beach, VA",2019.0,73558.2
+"Virginia Beach, VA",2020.0,75745.4
+"Virginia Beach, VA",2021.0,79563.4
+"Visalia, CA",2011.0,53356.0
+"Visalia, CA",2012.0,52892.333333333336
+"Visalia, CA",2013.0,52039.666666666664
+"Visalia, CA",2014.0,51076.666666666664
+"Visalia, CA",2015.0,50170.0
+"Visalia, CA",2016.0,50395.0
+"Visalia, CA",2017.0,52763.333333333336
+"Visalia, CA",2018.0,56550.333333333336
+"Visalia, CA",2019.0,60773.333333333336
+"Visalia, CA",2020.0,66379.0
+"Visalia, CA",2021.0,68966.33333333333
+"Waco, TX",2011.0,26508.0
+"Waco, TX",2012.0,26680.2
+"Waco, TX",2013.0,27713.2
+"Waco, TX",2014.0,28584.8
+"Waco, TX",2015.0,27742.4
+"Waco, TX",2016.0,28923.2
+"Waco, TX",2017.0,31121.6
+"Waco, TX",2018.0,30761.0
+"Waco, TX",2019.0,32708.2
+"Waco, TX",2020.0,32531.0
+"Waco, TX",2021.0,33704.0
+"Walla Walla, WA",2011.0,46544.0
+"Walla Walla, WA",2012.0,46250.0
+"Walla Walla, WA",2013.0,46605.0
+"Walla Walla, WA",2014.0,47782.0
+"Walla Walla, WA",2015.0,47392.0
+"Walla Walla, WA",2016.0,48651.0
+"Walla Walla, WA",2017.0,52537.0
+"Walla Walla, WA",2018.0,54849.0
+"Walla Walla, WA",2019.0,56665.0
+"Walla Walla, WA",2020.0,60413.0
+"Walla Walla, WA",2021.0,61068.0
+"Warner Robins, GA",2011.0,49105.0
+"Warner Robins, GA",2012.0,50844.333333333336
+"Warner Robins, GA",2013.0,48908.333333333336
+"Warner Robins, GA",2014.0,48745.666666666664
+"Warner Robins, GA",2015.0,47162.333333333336
+"Warner Robins, GA",2016.0,48846.666666666664
+"Warner Robins, GA",2017.0,51429.666666666664
+"Warner Robins, GA",2018.0,56841.0
+"Warner Robins, GA",2019.0,57236.666666666664
+"Warner Robins, GA",2020.0,61059.666666666664
+"Warner Robins, GA",2021.0,64199.333333333336
+"Washington, DC",2011.0,86778.8
+"Washington, DC",2012.0,89626.6
+"Washington, DC",2013.0,92088.6
+"Washington, DC",2014.0,95279.6
+"Washington, DC",2015.0,99179.4
+"Washington, DC",2016.0,102816.2
+"Washington, DC",2017.0,108033.0
+"Washington, DC",2018.0,112533.2
+"Washington, DC",2019.0,116367.0
+"Washington, DC",2020.0,118109.0
+"Washington, DC",2021.0,119401.6
+"Waterloo, IA",2011.0,39444.333333333336
+"Waterloo, IA",2012.0,40287.666666666664
+"Waterloo, IA",2013.0,40548.333333333336
+"Waterloo, IA",2014.0,41895.666666666664
+"Waterloo, IA",2015.0,42576.666666666664
+"Waterloo, IA",2016.0,44074.333333333336
+"Waterloo, IA",2017.0,44576.0
+"Waterloo, IA",2018.0,45775.666666666664
+"Waterloo, IA",2019.0,46822.0
+"Waterloo, IA",2020.0,46568.0
+"Waterloo, IA",2021.0,49539.666666666664
+"Watertown, NY",2011.0,39595.5
+"Watertown, NY",2012.0,42020.5
+"Watertown, NY",2013.0,41863.0
+"Watertown, NY",2014.0,43749.5
+"Watertown, NY",2015.0,43950.0
+"Watertown, NY",2016.0,44557.0
+"Watertown, NY",2017.0,44614.5
+"Watertown, NY",2018.0,45977.5
+"Watertown, NY",2019.0,48395.0
+"Watertown, NY",2020.0,50111.0
+"Watertown, NY",2021.0,53602.5
+"Wausau, WI",2011.0,47440.5
+"Wausau, WI",2012.0,48524.5
+"Wausau, WI",2013.0,48942.5
+"Wausau, WI",2014.0,48214.5
+"Wausau, WI",2015.0,48898.0
+"Wausau, WI",2016.0,48245.5
+"Wausau, WI",2017.0,47727.0
+"Wausau, WI",2018.0,50269.0
+"Wausau, WI",2019.0,53920.0
+"Wausau, WI",2020.0,54573.0
+"Wausau, WI",2021.0,59949.0
+"Weirton, WV",2011.0,40794.0
+"Weirton, WV",2012.0,39508.0
+"Weirton, WV",2013.0,38582.0
+"Weirton, WV",2014.0,39475.0
+"Weirton, WV",2015.0,40887.0
+"Weirton, WV",2016.0,39709.0
+"Weirton, WV",2017.0,45101.0
+"Weirton, WV",2018.0,49088.0
+"Weirton, WV",2019.0,50036.0
+"Weirton, WV",2020.0,51136.0
+"Weirton, WV",2021.0,53360.0
+"Wenatchee, WA",2011.0,48662.0
+"Wenatchee, WA",2012.0,50502.0
+"Wenatchee, WA",2013.0,51176.0
+"Wenatchee, WA",2014.0,50911.0
+"Wenatchee, WA",2015.0,51157.0
+"Wenatchee, WA",2016.0,51790.0
+"Wenatchee, WA",2017.0,55353.0
+"Wenatchee, WA",2018.0,57552.0
+"Wenatchee, WA",2019.0,58670.0
+"Wenatchee, WA",2020.0,62595.0
+"Wenatchee, WA",2021.0,64480.0
+"Wheeling, WV",2011.0,40206.0
+"Wheeling, WV",2012.0,40504.0
+"Wheeling, WV",2013.0,41248.0
+"Wheeling, WV",2014.0,41205.0
+"Wheeling, WV",2015.0,41423.0
+"Wheeling, WV",2016.0,42695.0
+"Wheeling, WV",2017.0,46717.0
+"Wheeling, WV",2018.0,48810.0
+"Wheeling, WV",2019.0,50467.0
+"Wheeling, WV",2020.0,49178.0
+"Wheeling, WV",2021.0,51887.0
+"Wichita Falls, TX",2011.0,42109.2
+"Wichita Falls, TX",2012.0,43847.8
+"Wichita Falls, TX",2013.0,43493.4
+"Wichita Falls, TX",2014.0,43360.6
+"Wichita Falls, TX",2015.0,44582.2
+"Wichita Falls, TX",2016.0,44117.0
+"Wichita Falls, TX",2017.0,43553.6
+"Wichita Falls, TX",2018.0,44480.0
+"Wichita Falls, TX",2019.0,47699.2
+"Wichita Falls, TX",2020.0,47741.8
+"Wichita Falls, TX",2021.0,50781.4
+"Wichita, KS",2011.0,58168.6
+"Wichita, KS",2012.0,57831.8
+"Wichita, KS",2013.0,58216.2
+"Wichita, KS",2014.0,57806.4
+"Wichita, KS",2015.0,58756.6
+"Wichita, KS",2016.0,58873.2
+"Wichita, KS",2017.0,62130.0
+"Wichita, KS",2018.0,63622.8
+"Wichita, KS",2019.0,64884.4
+"Wichita, KS",2020.0,68304.8
+"Wichita, KS",2021.0,67120.6
+"Williamsport, PA",2011.0,42034.0
+"Williamsport, PA",2012.0,42670.5
+"Williamsport, PA",2013.0,41689.5
+"Williamsport, PA",2014.0,42394.0
+"Williamsport, PA",2015.0,42214.0
+"Williamsport, PA",2016.0,44977.0
+"Williamsport, PA",2017.0,47671.5
+"Williamsport, PA",2018.0,50032.5
+"Williamsport, PA",2019.0,50971.0
+"Williamsport, PA",2020.0,52244.0
+"Williamsport, PA",2021.0,54311.0
+"Wilmington, NC",2011.0,50453.2
+"Wilmington, NC",2012.0,51108.4
+"Wilmington, NC",2013.0,50964.8
+"Wilmington, NC",2014.0,51435.2
+"Wilmington, NC",2015.0,51247.4
+"Wilmington, NC",2016.0,52945.0
+"Wilmington, NC",2017.0,53981.0
+"Wilmington, NC",2018.0,55178.8
+"Wilmington, NC",2019.0,57301.0
+"Wilmington, NC",2020.0,59920.0
+"Wilmington, NC",2021.0,65105.8
+"Winchester, VA",2011.0,57942.333333333336
+"Winchester, VA",2012.0,57073.666666666664
+"Winchester, VA",2013.0,57968.0
+"Winchester, VA",2014.0,59656.666666666664
+"Winchester, VA",2015.0,60156.666666666664
+"Winchester, VA",2016.0,62162.0
+"Winchester, VA",2017.0,63647.0
+"Winchester, VA",2018.0,66743.33333333333
+"Winchester, VA",2019.0,70894.33333333333
+"Winchester, VA",2020.0,71541.0
+"Winchester, VA",2021.0,72704.0
+"Winton, NC",2011.0,27483.0
+"Winton, NC",2012.0,27617.0
+"Winton, NC",2013.0,28143.0
+"Winton, NC",2014.0,25875.0
+"Winton, NC",2015.0,26103.0
+"Winton, NC",2016.0,24567.0
+"Winton, NC",2017.0,32778.0
+"Winton, NC",2018.0,35446.0
+"Winton, NC",2019.0,37778.0
+"Winton, NC",2020.0,42212.0
+"Winton, NC",2021.0,43864.0
+"Worcester, MA",2011.0,50355.4
+"Worcester, MA",2012.0,51331.2
+"Worcester, MA",2013.0,53085.8
+"Worcester, MA",2014.0,52005.6
+"Worcester, MA",2015.0,50277.2
+"Worcester, MA",2016.0,50942.2
+"Worcester, MA",2017.0,52078.4
+"Worcester, MA",2018.0,51533.6
+"Worcester, MA",2019.0,53921.8
+"Worcester, MA",2020.0,58212.8
+"Worcester, MA",2021.0,62606.8
+"Yakima, WA",2011.0,45413.75
+"Yakima, WA",2012.0,44949.0
+"Yakima, WA",2013.0,44413.5
+"Yakima, WA",2014.0,44586.0
+"Yakima, WA",2015.0,44844.0
+"Yakima, WA",2016.0,45607.25
+"Yakima, WA",2017.0,46506.75
+"Yakima, WA",2018.0,49115.5
+"Yakima, WA",2019.0,50805.0
+"Yakima, WA",2020.0,54028.75
+"Yakima, WA",2021.0,57434.75
+"York, PA",2011.0,49580.4
+"York, PA",2012.0,49579.8
+"York, PA",2013.0,49533.0
+"York, PA",2014.0,48888.6
+"York, PA",2015.0,48093.0
+"York, PA",2016.0,49693.4
+"York, PA",2017.0,50554.2
+"York, PA",2018.0,53336.6
+"York, PA",2019.0,56358.0
+"York, PA",2020.0,59404.2
+"York, PA",2021.0,62596.0
+"Youngstown, OH",2011.0,21879.4
+"Youngstown, OH",2012.0,22829.6
+"Youngstown, OH",2013.0,22075.2
+"Youngstown, OH",2014.0,22394.6
+"Youngstown, OH",2015.0,22220.6
+"Youngstown, OH",2016.0,22649.8
+"Youngstown, OH",2017.0,24956.8
+"Youngstown, OH",2018.0,26131.4
+"Youngstown, OH",2019.0,27428.2
+"Youngstown, OH",2020.0,28044.0
+"Youngstown, OH",2021.0,27818.2
+"Yuba City, CA",2011.0,51688.5
+"Yuba City, CA",2012.0,51833.5
+"Yuba City, CA",2013.0,53300.0
+"Yuba City, CA",2014.0,53599.5
+"Yuba City, CA",2015.0,54222.5
+"Yuba City, CA",2016.0,54491.5
+"Yuba City, CA",2017.0,54747.0
+"Yuba City, CA",2018.0,57627.5
+"Yuba City, CA",2019.0,59850.5
+"Yuba City, CA",2020.0,64376.0
+"Yuba City, CA",2021.0,68466.5
+"Yuma, AZ",2011.0,46705.666666666664
+"Yuma, AZ",2012.0,47059.0
+"Yuma, AZ",2013.0,47195.666666666664
+"Yuma, AZ",2014.0,47288.333333333336
+"Yuma, AZ",2015.0,45735.666666666664
+"Yuma, AZ",2016.0,45956.333333333336
+"Yuma, AZ",2017.0,46726.333333333336
+"Yuma, AZ",2018.0,47162.0
+"Yuma, AZ",2019.0,48519.0
+"Yuma, AZ",2020.0,49997.333333333336
+"Yuma, AZ",2021.0,53536.0
