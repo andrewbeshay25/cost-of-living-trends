@@ -1,0 +1,25 @@
+.
+├── FILE_STRUCTURE.txt
+├── README.md
+├── app
+├── data
+│   ├── aggregated_income_by_city_year.csv
+│   ├── aggregated_rent_by_city_year.csv
+│   └── merged_data.csv
+├── data_manip_scripts
+│   ├── aggregate_income.py
+│   ├── aggregate_rent.py
+│   ├── merging.py
+│   └── zip_code_matching.py
+├── frontend
+│   ├── index.html
+│   └── script.js
+├── requirements.txt
+└── venv
+    ├── bin
+    ├── include
+    ├── lib
+    ├── lib64 -> lib
+    └── pyvenv.cfg
+
+9 directories, 13 files
