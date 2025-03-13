@@ -24,13 +24,49 @@ Here’s how I plan to visualize the data:
 ## Repository Structure
 ```
 cost-of-living-trends/
-├── README.md # Project overview and plan
-├── data/ # Folder to store CSV/JSON data files
-├── src/ # React project source code, including visualization components
-└── docs/
+├── FILE_STRUCTURE.txt
+├── README.md
+├── app
+├── data_manip_scripts
+│   ├── aggregate_income.py
+│   ├── aggregate_rent.py
+│   ├── merging.py
+│   └── zip_code_matching.py
+├── frontend
+│   ├── README.md
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── postcss.config.js
+│   ├── public
+│   │   ├── data
+│   │   │   ├── aggregated_income_by_city_year.csv
+│   │   │   ├── aggregated_rent_by_city_year.csv
+│   │   │   └── merged_data.csv
+│   │   ├── index.html
+│   │   └── manifest.json
+│   ├── src
+│   │   ├── App.jsx
+│   │   ├── components
+│   │   │   ├── BarChart.jsx
+│   │   │   ├── IncomePieChart.jsx
+│   │   │   ├── IncomeVsRentLineChart.jsx
+│   │   │   ├── InteractivePieChart.jsx
+│   │   │   ├── LineChart.jsx
+│   │   │   ├── MermaidDiagram.jsx
+│   │   │   ├── MultiLineChart.jsx
+│   │   │   ├── MultiLineTop3Chart.jsx
+│   │   │   ├── PieChartWithOther.jsx
+│   │   │   ├── StoryParagraph.jsx
+│   │   │   └── Top5BarChart.jsx
+│   │   ├── index.css
+│   │   └── index.js
+│   └── tailwind.config.js
+├── index.html
+├── requirements.txt
+└── script.js
 ```
 
-# Additional documentation or draft visualizations
+# How to run:
 
 ## Getting Started
 1. **Clone the repository:**
