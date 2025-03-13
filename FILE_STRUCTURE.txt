@@ -2,24 +2,42 @@
 ├── FILE_STRUCTURE.txt
 ├── README.md
 ├── app
-├── data
-│   ├── aggregated_income_by_city_year.csv
-│   ├── aggregated_rent_by_city_year.csv
-│   └── merged_data.csv
 ├── data_manip_scripts
 │   ├── aggregate_income.py
 │   ├── aggregate_rent.py
 │   ├── merging.py
 │   └── zip_code_matching.py
 ├── frontend
-│   ├── index.html
-│   └── script.js
+│   ├── README.md
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── postcss.config.js
+│   ├── public
+│   │   ├── data
+│   │   │   ├── aggregated_income_by_city_year.csv
+│   │   │   ├── aggregated_rent_by_city_year.csv
+│   │   │   └── merged_data.csv
+│   │   ├── index.html
+│   │   └── manifest.json
+│   ├── src
+│   │   ├── App.jsx
+│   │   ├── components
+│   │   │   ├── BarChart.jsx
+│   │   │   ├── IncomePieChart.jsx
+│   │   │   ├── IncomeVsRentLineChart.jsx
+│   │   │   ├── InteractivePieChart.jsx
+│   │   │   ├── LineChart.jsx
+│   │   │   ├── MermaidDiagram.jsx
+│   │   │   ├── MultiLineChart.jsx
+│   │   │   ├── MultiLineTop3Chart.jsx
+│   │   │   ├── PieChartWithOther.jsx
+│   │   │   ├── StoryParagraph.jsx
+│   │   │   └── Top5BarChart.jsx
+│   │   ├── index.css
+│   │   └── index.js
+│   └── tailwind.config.js
+├── index.html
 ├── requirements.txt
-└── venv
-    ├── bin
-    ├── include
-    ├── lib
-    ├── lib64 -> lib
-    └── pyvenv.cfg
+└── script.js
 
-9 directories, 13 files
+7 directories, 33 files
