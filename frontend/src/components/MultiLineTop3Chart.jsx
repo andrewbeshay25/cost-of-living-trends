@@ -1,4 +1,3 @@
-// src/components/MultiLineTop3Chart.jsx
 import React, { useEffect, useRef } from "react";
 import * as d3 from "d3";
 
@@ -13,7 +12,6 @@ export default function MultiLineTop3Chart({ dataPath }) {
         d.AvgRent = +d.AvgRent;
       });
 
-      // Identify top 3 cities by rent in 2021
       const data2021 = data.filter(d => d.Year === 2021);
       const avgRentByCity = d3.rollup(
         data2021,
@@ -24,10 +22,8 @@ export default function MultiLineTop3Chart({ dataPath }) {
       rentArray.sort((a, b) => b.rent - a.rent);
       const top3Cities = rentArray.slice(0, 3).map(d => d.city);
 
-      // Filter original data to only these top 3
       const filteredData = data.filter(d => top3Cities.includes(d.RegionName));
 
-      // Group by city
       const cityGroups = d3.groups(filteredData, d => d.RegionName).map(([city, values]) => ({
         city,
         values: values.sort((a, b) => a.Year - b.Year),
@@ -47,7 +43,6 @@ export default function MultiLineTop3Chart({ dataPath }) {
       const g = svg.append("g")
         .attr("transform", `translate(${margin.left},${margin.top})`);
 
-      // Flattened array for scale domain
       const allValues = filteredData.map(d => d.AvgRent);
       const xExtent = d3.extent(filteredData, d => d.Year);
 

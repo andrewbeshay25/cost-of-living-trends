@@ -13,25 +13,21 @@ export default function LineChart({ dataPath }) {
         d.AvgRent = +d.AvgRent;
       });
 
-      // Filter for one city
       const cityData = data.filter(d => d.RegionName === "Abilene, TX");
 
-      // Increase right margin to 80 (or more if needed)
       const margin = { top: 20, right: 95, bottom: 60, left: 55 };
-      const width = 600 - margin.left - margin.right; 
+      const width = 600 - margin.left - margin.right;
       const height = 350 - margin.top - margin.bottom;
 
       const svg = d3.select(svgRef.current)
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom);
 
-      // Clear any existing content
       svg.selectAll("*").remove();
 
       const g = svg.append("g")
         .attr("transform", `translate(${margin.left},${margin.top})`);
 
-      // Scales
       const xScale = d3.scaleLinear()
         .domain(d3.extent(cityData, d => d.Year))
         .range([0, width]);
@@ -81,13 +77,12 @@ export default function LineChart({ dataPath }) {
         .attr("fill", "#333")
         .text("Median Income ($)");
 
-      // Adjust transform so the right axis label doesn't overlap
-  // Right axis label
-g.append("text")
-.attr("transform", `translate(${width + 40}, ${height / 2}) rotate(90)`)
-.attr("text-anchor", "middle")
-.attr("fill", "#333")
-.text("Average Rent ($)");
+      // Right axis label
+      g.append("text")
+        .attr("transform", `translate(${width + 40}, ${height / 2}) rotate(90)`)
+        .attr("text-anchor", "middle")
+        .attr("fill", "#333")
+        .text("Average Rent ($)");
 
       // Tooltip
       const tooltip = d3.select(tooltipRef.current)
@@ -99,7 +94,6 @@ g.append("text")
         .style("pointer-events", "none")
         .style("visibility", "hidden");
 
-      // Lines
       const incomeLine = d3.line()
         .x(d => xScale(d.Year))
         .y(d => yScaleIncome(d.AvgHouseholdMedianIncome));
