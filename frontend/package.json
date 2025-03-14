@@ -10,9 +10,10 @@
     "@testing-library/user-event": "^13.5.0",
     "autoprefixer": "^10.4.21",
     "d3": "^7.9.0",
-    "mermaid": "^11.4.1",
+    "mermaid": "^9.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-mermaid2": "^0.1.4",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
