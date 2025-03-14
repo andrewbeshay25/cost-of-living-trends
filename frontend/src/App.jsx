@@ -44,11 +44,12 @@ export default function App() {
         </div>
 
         {/* Section 4: Pie Chart of All Cities in 2021 */}
-        <div className="max-w-screen-lg mx-auto px-4 py-8">
-      <h2 className="text-2xl font-bold mb-4">Distribution of Average Rents (2021)</h2>
-      <StoryParagraph text="This pie chart shows the share of average rent for each city in 2021, allowing us to compare how much rent contributes to the overall cost-of-living across regions." />
-      <PieChart dataPath="data/merged_data.csv" />
-    </div>
+        <div className="bg-white p-6 rounded shadow">
+          <h2 className="text-2xl font-bold mb-4">Distribution of Average Rents (2021)</h2>
+          <StoryParagraph text="This pie chart shows the share of average rent for each city in 2021, allowing us to compare how much rent contributes to the overall cost-of-living across regions." />
+          <PieChart dataPath="data/merged_data.csv" />
+        </div>
+
 
         {/* Section 5: Mermaid Diagram - Conceptual Flow */}
         <div className="bg-white p-6 rounded shadow">
